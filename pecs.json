@@ -1,0 +1,7327 @@
+[
+  {
+    "zip": 7622,
+    "streetName": "48-as",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7691,
+    "streetName": "A.",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Abaligeti",
+    "streetType": "út"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Acél",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Ács",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Acsády Ignác",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Ady Endre",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Áfonya",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Ág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Agancs",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Ágoston",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Ágota",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Aidinger János",
+    "streetType": "út"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Ajtósi Dürer",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Akác",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Akácfa-köz"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Akácfa",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Akácos",
+    "streetType": "sor"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Aknász",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Akó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Alajos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Alkony",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Alkotás",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Alkotmány",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Állomás",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Álmos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Alpári Gyula",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Alsó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Alsóbalokány",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Alsógyükési",
+    "streetType": "út"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Alsóhavi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Alsó-Hegyi",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Alsómakár",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Alsó-malom",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Alsóvámház",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "András",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Andrássy",
+    "streetType": "út"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Angster József",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Ángyán János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Anikó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Anna",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Antal",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7668,
+    "streetName": "Antalmalom"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Antónia",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Ányos Pál",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Apáca",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Apáczai Csere János",
+    "streetType": "körtér"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Apafi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Apponyi Albert",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Aradi Vértanúk",
+    "streetType": "útja"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Arany János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Aranyhegyi",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Arányosi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Aranyoskút",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Aranyvessző",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Arasz",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Árnyas",
+    "streetType": "liget"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Árnyas",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Árok",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Árpa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Árpád",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Árpádtető"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Árvácska",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Ászok",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Aszú",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Átérő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Athinay",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Átjáró",
+    "streetType": "út"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Atléta",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Átlós",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Attila",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Auróra",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Avar",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "B.",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Babits Mihály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Bacsó Béla",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Bagoly",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Bajcsy-Zsilinszky",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Bajmi",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Bajmi",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Bajmi-tető",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Bajnok",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Bajor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Bakterkert",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Balassa Bálint",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Bálics",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Bálicsi",
+    "streetType": "út",
+    "numbers": "2 to 20"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Bálicsi",
+    "streetType": "út",
+    "numbers": "1 to 27"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Bálicsi",
+    "streetType": "út",
+    "numbers": "29 to 99"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Bálicsi",
+    "streetType": "út",
+    "numbers": "20a to 104"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Bálics-tető",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Baltika",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Bánki Donát",
+    "streetType": "út"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Bánom",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Bánomi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Bánya",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Bányász",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Bányász vértanúk",
+    "streetType": "útja"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Bányatelep"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Bányavasút",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Barackos",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Barackos",
+    "streetType": "út"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Barackvirág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Bárány",
+    "streetType": "út"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Bárány",
+    "streetType": "tető"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Baranya",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Baranyavár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Barát",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Barátság",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Barátúr",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Barázda",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Barázda",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Barbakán",
+    "streetType": "kert"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Barbakán",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Barényi Béla",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Barka",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Bártfa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Bartók Béla",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Basamalom",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Basamalom",
+    "streetType": "út"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Bástya",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Báthory",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Batifejtő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Batsányi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Batthyány",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Bázis",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Bázis",
+    "streetType": "út"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Bazsarózsa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Béke",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Béla",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Bencze József",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Benczúr",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Benke",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Bercsényi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Berek",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Berek",
+    "streetType": "sétány"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Béri Balogh Ádám",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Berkenyés",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Berze Nagy János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Berzsenyi Dániel",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Besenyő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Bessenyei",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Bethlen Gábor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Bíbic",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Bihari János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Bimbó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Bittner Alajos",
+    "streetType": "út"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Blaha Lujza",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Bóbita",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Bocskai",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Bocskor",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Bodormán",
+    "streetType": "út"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Bodzás",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Bogádi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Bogáncs",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Bogár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Bogár",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Boglárka",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Bojtár",
+    "streetType": "út"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Bokály",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Bókai János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Bokor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Bokréta",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Boldizsár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Boldogasszony-völgy"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Boldog Özséb",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Bolgár",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Boltív",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Bolyai Farkas",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Bolygó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Bor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Borász",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Borbálatelep"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Bormérő",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Bornemissza Gergely",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Boróka",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Boros",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Boros István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Borostyán",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Borz",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Bosnyák",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Boszorkány",
+    "streetType": "út"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Botond",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Bózsa István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Böck János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Brassó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Breuer Marcell",
+    "streetType": "sétány"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Bródy Sándor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Budai Nagy Antal",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Budai Vám"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Buday Dezső",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Bulgár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Búza",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Búzaberki",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Búzakalász",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Búzavirág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Buzsáki Imre",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Bükkös-Tető"
+  },
+  {
+    "zip": 7691,
+    "streetName": "C.",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Cassian",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Cikk-Cakk",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Cincér",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Cinege",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Cinka Panna",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Cinke",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Cirfandli",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Ciszterci",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Citrom",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Corvin",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Csaba",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Csákány",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Csalogány",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Csalogány",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Csap",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Csap",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Csap",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Csapó János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Csárda",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Csarnok-köz"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Csekey István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Csemete",
+    "streetType": "átjáró"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Csend",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Csengő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Cseralja",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Cseralja",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Cserbokros",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Cserebogár",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Cserebogár",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Cseresznyés",
+    "streetType": "út"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Cseresznyés",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Cserfa",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Cserfa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Cserge",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Cserkúti",
+    "streetType": "út"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Csertető"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Cserző",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Csikor Kálmán",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Csillag",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Csillag",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Csillagvirág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Csille-köz"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Csiperke",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Csipke",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Csobolyó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Csók István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Csóka",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Csokonai",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7639,
+    "streetName": "Csontos",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Csontváry",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Csoronika",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Csortos Gyula",
+    "streetType": "utca",
+    "numbers": "1 to 3"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Csortos Gyula",
+    "streetType": "utca",
+    "numbers": "2 to 16"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Csortos Gyula",
+    "streetType": "utca",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Csósi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Csöpp",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Csurgó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Csurgó",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Csurgó-tető",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Czerékvölgy"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Czinderi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "D.",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Dagály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Damjanich",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Danitz",
+    "streetType": "puszta"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Dankó Pista",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Darázs",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Dárda",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Daru",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Deák Ferenc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Debreceni Márton",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Délibáb",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Demokrácia",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Denevér",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Derék-réti",
+    "streetType": "út"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Déri Miksa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Derkovits",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Derűs",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Derűs",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Diána",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Díjasnyereg",
+    "streetType": "út"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Diófa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Diós",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Diósi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Dischka Győző",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Ditz-malom",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Dobó István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Dobó Katalin",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Dobogó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Dohány",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Dóm",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Domb",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Dombay János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Dominika",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Domonkos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Donátus",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Donátusi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Dongó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Dóra",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Dózsa György",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Dömörkapui",
+    "streetType": "út"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Dömörkapui",
+    "streetType": "turistaház"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Dugonics",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Dulimán",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Dzsámi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Eck Imre",
+    "streetType": "sétány"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Édesanyák",
+    "streetType": "útja"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Edison",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Éger",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Égervölgy"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Égett",
+    "streetType": "major"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Égett-hegyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Egres",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Egressy",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Egyenlőség",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Egyenlőség",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Egyetem",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Elágazó",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Éles",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Előd",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Ember Kálmán",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Endre",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Endresz György",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Engel János József",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Enyezd",
+    "streetType": "út"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Eozin",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Eötvös",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Eper",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Eperfás",
+    "streetType": "út"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Eperjes",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Építők",
+    "streetType": "útja"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Epres",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Ércbányász",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Erdei",
+    "streetType": "út"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Erdei Ferenc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Erdély",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Erdész",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Erdész",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Erdőalja",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Erika",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Erkel Ferenc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Erreth Lajos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Erzsébet",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Est",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Északmegyer",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Esze Tamás",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Eszék",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Eszperantó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Esztergályos János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Esztergár Lajos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Etelka",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Európa",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Éva",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Ezerjó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Ezis",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Ezüst",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Fábián Béla",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Fábián Béla",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Fácán",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Fagyal",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Fagyöngy",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Faiskola",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Fakopács",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Faludi Ferenc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Farkas István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Fátyol",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Fáy András",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Fazekas Mihály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Fecske",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Fehérhegyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Fehérkuti",
+    "streetType": "turistaház"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Feitig Imre",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Fejér Lipót",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Fejlődés",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Fekete",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Feketegyémánt",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Feketerigó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Felhő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Fellbach",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Fellbach",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Felső",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Felsőbalokány",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Felsőgyükési",
+    "streetType": "út"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Felsőhavi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Felsőhavi",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Felső-homok",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Felsőmakár",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Felsőmalom",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Felsővámház",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Fenyer",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Fényes",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Fenyő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Fenyves",
+    "streetType": "sor"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Ferenc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Ferencesek",
+    "streetType": "utcája",
+    "numbers": "odd numbers"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Ferencesek",
+    "streetType": "utcája",
+    "numbers": "even numbers"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Fésüs",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Fészek",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Finn",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Fischer Béla",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Flórián",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Flórián",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Fogadó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Fogaras",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Fogoly",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Forbát Alfréd",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Forduló",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Forrás",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Fosztó-Völgyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Fő",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Fő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Földes Ferenc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Földműves",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Francia",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Frankel Leó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Füge",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Fülemüle",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Fülep Lajos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Fürdő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Fürj",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Fürkész",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Fürt",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Fürtöske",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Füst",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Füvészkert",
+    "streetType": "út"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Füzes",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Fűzfa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Gabona",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Gábor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Gábor Áron",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Gadó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Galagonya",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Galamb",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Galamb József",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Galilei",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Gálic",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Garay",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Garázs",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Gárdonyi Géza",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Gáspár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Gát",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Gátaljai",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Gebauer Ernő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Gém",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Gerbera",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Gerendely",
+    "streetType": "út"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Gergely",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Gerle",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Gesztenyés",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Gesztenyés",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Géza",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Gilice",
+    "streetType": "sor"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Gizella",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Goldmark Károly",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Gólya",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Gomba",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Gorkij",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Gosztonyi Gyula",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Gödör",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Gödrös",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Görbe",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Görgey Artúr",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Gránátalma",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Graz",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Grőbel Emil",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Gubacs",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Gubér",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Guinness Világrekord",
+    "streetType": "sétány"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Gyakorló",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Gyár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Gyep",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Gyík",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Gyopár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Gyöngy",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Gyöngyös",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Gyöngyösi István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Gyöngyvirág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "György",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "György-akna"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Györgytelep"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Gyula",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Gyulai Pál",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Gyükés",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Gyümölcs",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Haas Mihály",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Hadik András",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Hajadon",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Hajlat",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Hajmás"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Hajnal",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Hajnalka",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Hajnóczy",
+    "streetType": "út"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Hal",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Hal József",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Haladás",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Halász",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Hamvas",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Hangya",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Hannebeck Frigyes",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Harangláb",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Harangöntő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Harangszó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Harangvirág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Hargita",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Haris",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Harkály",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Hármashegy",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Harmat",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Háromszögi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Hársfa",
+    "streetType": "út",
+    "numbers": "1 to 255"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Hársfa",
+    "streetType": "út",
+    "numbers": "2 to 152"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Hársfa",
+    "streetType": "út",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Határ",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Határőr",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Hatház",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Hattyú",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Havas",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Havi-Hegyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Házgyár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Hébér",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Hegedüs János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Hegedűs Mihály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Hegyalja",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Hegyes",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Hegymeg",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Hegy-mezői",
+    "streetType": "út"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Heim Pál",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Héja",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Hengermalom",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Hérics",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Herman Ottó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Hetesi",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Hétvezér",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Hideg-Völgyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Hirdi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Hirdi",
+    "streetType": "zártkert"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Hold",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Holló",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Homok",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Homokgödör",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Homokkő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Homoktető"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Homoktető",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Homokvölgy",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Honvéd",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Honvéd",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Honvéd",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Hordós",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Hordós",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Horgas",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Horhos",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Hórukk-domb"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Horvát-földi",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Hosszú-földi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Hóvirág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Hőgyes Endre",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Hősök",
+    "streetType": "tere"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Huba",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Hun",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Hungária",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Hunyadi János",
+    "streetType": "utca",
+    "numbers": "1 to 9"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Hunyadi János",
+    "streetType": "utca",
+    "numbers": "2 to 8"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Hunyadi János",
+    "streetType": "utca",
+    "numbers": "11 to 87"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Hunyadi János",
+    "streetType": "utca",
+    "numbers": "10 to 90"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Hunyadi János",
+    "streetType": "utca",
+    "numbers": "89 to 97"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Hurok",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Huszár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Hűvös",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Ibolya",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Időjós",
+    "streetType": "út"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Ifjúmunkás",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Ifjúság",
+    "streetType": "útja"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Igló",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Ignác",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "II. János Pál",
+    "streetType": "út"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Íjász",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Illyés Gyula",
+    "streetType": "út"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Ilona",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Indás",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Indóház",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Ipar",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Iparos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Iparsziget",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Irgalmasok",
+    "streetType": "utcája"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Irinyi János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Irma",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Iskola-köz"
+  },
+  {
+    "zip": 7625,
+    "streetName": "István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "István",
+    "streetType": "akna"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Izabella",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Jácint",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Jakabhegyi",
+    "streetType": "út",
+    "numbers": "1 to 17"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Jakabhegyi",
+    "streetType": "út",
+    "numbers": "2 to 14"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Jakabhegyi",
+    "streetType": "út",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7621,
+    "streetName": "János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Jánosi Engel Adolf",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Janus Pannonius",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Jász",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Jászai Mari",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Jázmin",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Jedlik Ányos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Jegenyés",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Jogász",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Jókai",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Jókai",
+    "streetType": "utca",
+    "numbers": "1 to 25"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Jókai",
+    "streetType": "utca",
+    "numbers": "2 to 48"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Jókai",
+    "streetType": "utca",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Jonatán",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Jószerencse",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "József",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "József Attila",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "József Attila",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Józsefháza"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Juhász Gyula",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Juhász Gyula",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Júlia",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Jurisics Miklós",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kacs",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Kacsóh Pongrác",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Kacsoló",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Kaffka Margit",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Kakukk",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Kalapács",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Kalász",
+    "streetType": "út"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Kálmán",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Kálvária",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Kálvin",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Kamilla",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kamilla",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Kandó Kálmán",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Kanizsai Dorottya",
+    "streetType": "út"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kantavári",
+    "streetType": "erdészház"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Kanyar",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Kápa",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kápolna",
+    "streetType": "domb"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Kápolna",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Káponya"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Kaposvári",
+    "streetType": "út"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Káposztásvölgyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Káptalan",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Kaptató",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Kapu",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Kapu",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Karancs",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kardos",
+    "streetType": "út"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kardos úti",
+    "streetType": "menedékház"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Karó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Karolina",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Károly",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Károly",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Károlyi Mihály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Karsztos",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Karvaly",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Kassa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Kassák Lajos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Kastély",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Katalin",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Katona József",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Katus",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Kavicsos",
+    "streetType": "út"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Kazinczy",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kecske",
+    "streetType": "domb"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Kedves",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Keleti",
+    "streetType": "sor"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Keleti Kőhid",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Keller János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Kéméndi",
+    "streetType": "sor"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Kemény Zsigmond",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Kenderfonó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Kenderföld",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Kénes",
+    "streetType": "út"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Kerékhegy"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Kerékhegyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Kerényi Károly",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Kert",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kertes",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Kertész",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Kertszéli",
+    "streetType": "út"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Kertváros",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Kerülő",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Keskeny",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Keszeg",
+    "streetType": "sor"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Keszüi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kétágú",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Kígyó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Kilátó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Kilincs",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Kincses",
+    "streetType": "út"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Kinizsi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Király",
+    "streetType": "utca",
+    "numbers": "1 to 51"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Király",
+    "streetType": "utca",
+    "numbers": "2 to 48"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Király",
+    "streetType": "utca",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Királykerti",
+    "streetType": "út"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Kis",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Kis",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Kisbalokány",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Kisbirtok",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Kisboldogasszony",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kisdeindol",
+    "streetType": "tető"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kisdeindol",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kisdeindol",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kisdeindol hegyhát",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kisdeindol hegyhát",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kisdeindoli",
+    "streetType": "út"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Kisfaludy Sándor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Kisflórián",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Kisgyőr",
+    "streetType": "iskola"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Kishegyi",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Kiskerti",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Kiskőszeg",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Kis-köves",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Kis-köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kislőtér",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kis-máli",
+    "streetType": "út"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kismélyvölgy",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kismélyvölgy-Hegyhát",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Kispiricsizma",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Kispostavölgy",
+    "streetType": "tető"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Kispostavölgyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Kis-réti",
+    "streetType": "út"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Kiss Ernő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Kiss János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Kiss József",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kisszkókó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Klapka",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Klebelsberg Kuno",
+    "streetType": "sétány"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Klimó György",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Kóczián Sándor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kócsag",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kócsag",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Kodály Zoltán",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kodó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Kodolányi János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Koksz",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Koller",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Kolónia",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Kolozsvár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Koma",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Komját Aladár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Komlói",
+    "streetType": "út",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Komlói",
+    "streetType": "út",
+    "numbers": "1 to 69"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Komlói",
+    "streetType": "út",
+    "numbers": "2 to 58"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Kopács",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Kórház",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Kórház",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Kormoskősor"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Korsó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Korsó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Kósavölgyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Kosártanya"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Kossuth",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Kosztolányi Dezső",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kotyogó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kovács Béla",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kovácstelepi",
+    "streetType": "sportpálya"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Kozári",
+    "streetType": "vadászház"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kőbánya",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Kőbánya",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Kőhíd",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kökényes",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Kökényi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7639,
+    "streetName": "Kökénypuszta"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Kökörcsin",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Kölcsey Ferenc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Könyök",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Körmöcz",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Körömvirág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Kőrös",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Kőrösi Csoma Sándor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Körtés",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Köves",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Köves-Földi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Köveshegy",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kővirág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Középdeindol",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Középdeindol-hegyhát",
+    "streetType": "út"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Középdeindoli",
+    "streetType": "út"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Középgyükési",
+    "streetType": "út"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Közép-Hegy",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Középmakár",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Közraktár",
+    "streetType": "utca",
+    "numbers": "1 to 7B"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Közraktár",
+    "streetType": "utca",
+    "numbers": "2 to 12"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Közraktár",
+    "streetType": "utca",
+    "numbers": "18 to 18"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Közraktár",
+    "streetType": "utca",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Köztársaság",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Krisztina",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Krúdy Gyula",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Kukorica",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Kultúrház",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Kun",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Kunkori",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Kút",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Kutas",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Kutató",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Kuvik",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Külvárosi",
+    "streetType": "pályaudvar"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Kürt",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Lahti",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Lajkó",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Lámpásvölgyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Lánc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Lankás",
+    "streetType": "út"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Lapisi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Laskó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "László",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Laufer",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Lázár Vilmos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Ledina",
+    "streetType": "park"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Legény",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Légszeszgyár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Lehel",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Lejtő",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Lenke",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Lepke",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Levendula",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Liget",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Liliom",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Liszt Ferenc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Littke József",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Livia",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Lóci",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Lokomotív",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Lomb",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Loncsármalom"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Losonc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Lotz Károly",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Lovarda",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Lovász Pál",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Lőcse",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Lőtér",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Lőtér",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Lucernás",
+    "streetType": "út"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Lugos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Lyceum",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "M.",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Madách Imre",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Madarász Viktor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Madas József",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Magaslati",
+    "streetType": "út"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Magnólia",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Magtár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Magyar",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Magyar Lajos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Magyaroska",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Magyarürögi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Major",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Majorossy Imre",
+    "streetType": "utca",
+    "numbers": "1 to 17"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Majorossy Imre",
+    "streetType": "utca",
+    "numbers": "2 to 14"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Majorossy Imre",
+    "streetType": "utca",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Majtényi Ferenc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Május 1.",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Makár",
+    "streetType": "tető"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Makár-tető",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Makay István",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Makkos",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Makra",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Makra-tető",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Máladó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Maléter Pál",
+    "streetType": "út"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Málics Ottó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Málna",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Malom",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Malom-cseri",
+    "streetType": "út"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Málom-hegyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Málomi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Málomi",
+    "streetType": "szőlőhegy"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Malomvölgy"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Malomvölgyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Mályva",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Mamut",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Mandula",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Mandulás",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Mánfai",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Margit",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Mária",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Mária",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Mária",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Marosvásárhely",
+    "streetType": "út"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Mártírok",
+    "streetType": "útja"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Márton",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Marx",
+    "streetType": "út"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Matakovits",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Matheovits Ferenc",
+    "streetType": "út"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Mathiász János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Mathiász János",
+    "streetType": "út"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Mátyás Flórián",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Mátyás király",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Mázsaház",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Mécses",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Mecsek",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Mecsekszentkút"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Mecsekszentkút",
+    "streetType": "erdészház"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Mécsvirág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Meggyes",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Meggyfa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Megye",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Megye",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Megyeri",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Megyeri",
+    "streetType": "út",
+    "numbers": "2 to 74"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Megyeri",
+    "streetType": "út",
+    "numbers": "1 to 69"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Megyeri",
+    "streetType": "út",
+    "numbers": "76 to 100"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Megyeri",
+    "streetType": "út",
+    "numbers": "71 to 139"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Melegmányi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Melinda",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Melinda",
+    "streetType": "park"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Mélyút",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Menta",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Menta-köz"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Menyhért",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Meredek",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Meredek",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Mérleg",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Mérő",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Mester",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Meszes",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Mészkemence",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Mezőszél",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Mezsgye",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Mihály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Mikes Kelemen",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Miklós",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Mikolai",
+    "streetType": "út"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Mikszáth Kálmán",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Miléva",
+    "streetType": "út"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Milinkó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Minda",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Misina",
+    "streetType": "tető"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Mogyorós",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Moha",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Mohácsi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Mókus",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Monostor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Monyorósdi-kút",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Móra Ferenc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Móré Fülöp",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Morgyáni",
+    "streetType": "út"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Móricz Zsigmond",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Móricz Zsigmond",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Moticska József",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Munkácsy Mihály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Munkád",
+    "streetType": "út"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Munkád",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Murci",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Murom",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Muromi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Muskátli",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Muskotály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Muskotály",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Must",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Nádas",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Nagy Ferenc",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Nagy Imre",
+    "streetType": "út"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Nagy Jenő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Nagy Lajos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Nagy Lajos király",
+    "streetType": "útja",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Nagy Lajos király",
+    "streetType": "útja",
+    "numbers": "1 to 3"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Nagy Lajos király",
+    "streetType": "útja",
+    "numbers": "2 to 6"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Nagyárpádi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Nagyárpádi",
+    "streetType": "zártkert"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Nagybalokány",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Nagybányarétivölgy"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Nagy-Berki",
+    "streetType": "út"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Nagydeindol-hegyhát",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Nagydeindoli",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Nagydeindol-köz",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Nagydeindol-tető",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Nagyflórián",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Nagyhidi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Nagykozári",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Nagy-máli",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Nagymegye",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Nagymeszes",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Nagypostavölgy",
+    "streetType": "alsó"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Nagypostavölgy",
+    "streetType": "felső"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Nagypostavölgyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Nagyréti",
+    "streetType": "út"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Nagyszeben",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Nagyszkókó",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Nagyszkókói",
+    "streetType": "út"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Nagyvárad",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Nagy-Zsebei",
+    "streetType": "út"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Nap",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Napkelet",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Naposdomb",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Napsugár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Napvirág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Nárcisz",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Naspolya",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Nefelejcs",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Nektár",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Németh Béla",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Németh László",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Németh Márton",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Nemzetőr",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Nendtvich Andor",
+    "streetType": "út"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Népfront",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Neumann János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Nevelő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Nevesincs",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Névtelen",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Nyár",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Nyár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Nyárfa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Nyáros",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Nyest",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Nyíl",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Nyíl",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Nyírfa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Nyomda",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Nyugati ipari",
+    "streetType": "út"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Nyugati Kőhíd",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Nyúl",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Oldal",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Olga",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Opris Péter",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Orgona",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Orom",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Orom",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Orsolya",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Ótemető",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Óvoda",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Ökörszem",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Őr-hegyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Őrmezei",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Örs",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Örvös",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Őszirózsa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Őz",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Őzgida",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Paál László",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Pacca",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Pacsirta",
+    "streetType": "utca",
+    "numbers": "1 to 22"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Pacsirta",
+    "streetType": "utca",
+    "numbers": "from 23 until the end"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Páfrány",
+    "streetType": "utca",
+    "numbers": "odd numbers"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Páfrány",
+    "streetType": "utca",
+    "numbers": "even numbers"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Pajtás",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Pákolitz István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Palahegy",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Pala-köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Pálca",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Pálma",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Pálos",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Pannónia",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Panoráma",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Panoráma",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Papkert",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Papnövelde",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Papnövelde",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Parány",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Parcsin",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Park",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Parlag",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Pascal",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Pásztor-Föld"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Páva",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Pázmány Péter",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Pázsit",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Péchy Blanka",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Pécsbányarendező",
+    "streetType": "MÁV pályaudvar"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Pécsbányatelepi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Pécsváradi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Pék",
+    "streetType": "sor"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Pelikán",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Pellérdi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Pélmonostor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Perczel Miklós",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Perényi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Perényi",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Pergekarli",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Pernecker István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Perr Viktor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Persely",
+    "streetType": "út"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Péter",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7639,
+    "streetName": "Péter",
+    "streetType": "puszta"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Petőfi",
+    "streetType": "utca",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Petőfi",
+    "streetType": "utca",
+    "numbers": "1 to 27"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Petőfi",
+    "streetType": "utca",
+    "numbers": "2 to 8"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Piac",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Pici",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Picurka",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Pillangó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Pince",
+    "streetType": "sor"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Pincemester",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Pincemester",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Pincér",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Pinty",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Pipacs",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Pipitér",
+    "streetType": "út"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Piroska",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Pityóka",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Platán",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Platán",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Platina",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Polgárszőlő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Pollack Mihály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Pór Bertalan",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Pósa Lajos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Postagalamb",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Postamester",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Postavölgyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Postavölgyi átjáró",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Prés",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Présház",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Puskás Ferenc",
+    "streetType": "tér",
+    "numbers": "odd numbers"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Puskás Ferenc",
+    "streetType": "tér",
+    "numbers": "even numbers"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Puskás Tivadar",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Puskin",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Puskin",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "R.",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Rácvárosi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Radnics",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Radnóti Miklós",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Rakéta",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Rákóczi",
+    "streetType": "út",
+    "numbers": "1 to 67"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Rákóczi",
+    "streetType": "út",
+    "numbers": "52 to 72"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Rákóczi",
+    "streetType": "út",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Rákóczi",
+    "streetType": "út",
+    "numbers": "2 to 50"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Rákóczi",
+    "streetType": "út",
+    "numbers": "69 to 77"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Rákos Lajos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Ranga László",
+    "streetType": "út"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Regina",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Remény",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Remény",
+    "streetType": "puszta"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Remeteréti",
+    "streetType": "út"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Rengeteg",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Repkény",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Rét",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Rétszél",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Réz",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Rezeda",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Rezgő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Ribiszke",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Rigó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Rigóder",
+    "streetType": "út"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Rigóderalja",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Rippl Rónai",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Rizling",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Rodostó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Róka",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Rókus",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Rókus",
+    "streetType": "sétány"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Rókusalja",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Rosta",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Rozmaring",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Rózsa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Rózsahegyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Rózsa-völgyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Rücker-akna"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Rückeraknai",
+    "streetType": "út"
+  },
+  {
+    "zip": 7691,
+    "streetName": "S.",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Sáfrány",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Ságvári Endre",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Salakhegyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Sánc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Sándor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Sárgarigó",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Sarkantyú",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Sárkánytorok"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Sarkos",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Sarló",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Sármány",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Sarolta",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Sársom-völgy"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Sas",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Sas",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Sáska",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Schroll József",
+    "streetType": "út"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Sellő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Selmecz",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Semmelweis",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Seregély",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Sétatér"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Sétatér",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Siklósi",
+    "streetType": "út",
+    "numbers": "1 to 39"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Siklósi",
+    "streetType": "út",
+    "numbers": "2 to 24"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Siklósi",
+    "streetType": "út",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Simonyi Károly",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Sirály",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Sirály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Sólyom",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Somfa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Somogy",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Somogyi Béla",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Somoska",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Sorház",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Sövény",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Sport",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Stadion",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Steinmetz kapitány",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Sudár István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Surányi Miklós",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Sülevölgy"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Szabadföld",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Szabadföldi",
+    "streetType": "tanya"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Szabadság",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Szabadságharc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Szabártos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Szabó Ervin",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Szabó István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Szabó József",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Szabolcs",
+    "streetType": "emlékpark"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Szabolcs-Hegyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Szabolcsi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Szajkó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Szalonka",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Szamóca",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Szaniszló",
+    "streetType": "út"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Szántó Kovács János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Szántó László",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Szántó Tibor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Szarka",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Szarkaláb",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Szarvas",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Szatmáry György",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Szaturnusz",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Százszorszép",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Széchenyi",
+    "streetType": "akna"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Széchenyi",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Szeder",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Szederinda",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Szegfű",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Székely",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Székely Bertalan",
+    "streetType": "út",
+    "numbers": "odd numbers"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Székely Bertalan",
+    "streetType": "út",
+    "numbers": "2 to 74"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Székely Bertalan",
+    "streetType": "út",
+    "numbers": "from 76 until the end"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Széles",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Szellő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Szélső",
+    "streetType": "út"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Szemere Bertalan",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Széna",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Szendrey Júlia",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Szénhordó",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Szénispán",
+    "streetType": "útja"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Szent Bertalan",
+    "streetType": "út"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Szent Borbála",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Szent Erzsébet",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Szent István",
+    "streetType": "tér",
+    "numbers": "2 to 16"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Szent István",
+    "streetType": "tér",
+    "numbers": "1 to 21"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Szent Mór",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Szentágothai János",
+    "streetType": "sétány"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Szentegyház",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Szentlőrinci",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Szentmiklós",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Szepesy Ignác",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Szeptember 6.",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Szérűskerti",
+    "streetType": "út"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Szieberth Róbert",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Szigeti",
+    "streetType": "út",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Szigeti",
+    "streetType": "út",
+    "numbers": "33 to 85"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Szigeti",
+    "streetType": "tanya"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Szigeti vám"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Szikla",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Sziklás",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Sziklavár"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Sziklavári",
+    "streetType": "út"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Szilágyi Dezső",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Szilárd Leó",
+    "streetType": "park"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Szilfa",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Szil-réti",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Szilva",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Szilvás",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Színház",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Szirom",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Szitakötő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Szív",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Szivárvány",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Szkókó tető",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Szkókó tető",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Szondy György",
+    "streetType": "sétány"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Szondy György",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Szöcske",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Szöcske",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Szőlész",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Szőlész",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Szőlő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Szőlőfej",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Szőlőhegyi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Szőnyi Ottó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Szövetkezet",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Szövetség",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Szövőgyár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Sztárai Mihály",
+    "streetType": "út"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Szúnyog",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Szurdok",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Szurdok",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Szűk",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Szüret",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "T",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Tábor",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Tábor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Taizs Mihály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Táltos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Táncsics Mihály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Tanító",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Tárna",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Tátika",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Tátra",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Tavasz",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Téglaház",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Teleki Blanka",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Temesvár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Templom",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Templom",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Teréz",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Terracina",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Testvériség",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Testvérvárosok",
+    "streetType": "tere"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Tétény",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Tető",
+    "streetType": "út"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Tettye",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Tettye",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Tettye",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Thököly",
+    "streetType": "út"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Tiborc",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Tiborc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Tildy Zoltán",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Tímár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Tinódi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Tiszafa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Toboz",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Toldi Miklós",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Tolnai József",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Tolsztoj",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Tompa",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Tompa Mihály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Torda",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Tortyogói",
+    "streetType": "út"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Tölgyes",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Tölgyfa",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Tömörkény István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Törekvés",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Török",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Török",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Török István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Törpe",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Tőtike",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Tubesi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Tulipán",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Túra",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Turini",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Tücsök",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Tüdőszanatórium"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Tüke",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Tündér",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Türr István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Tüskés",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Tüskésréti",
+    "streetType": "út"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Tüzér",
+    "streetType": "utca",
+    "numbers": "odd numbers"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Tüzér",
+    "streetType": "utca",
+    "numbers": "even numbers"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Tűzoltó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Udvardi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Ugar",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Uitz Béla",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Új",
+    "streetType": "fasor"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Újhegyi",
+    "streetType": "főtér"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Újvilág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Ungvár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Universitas",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Uránbányász",
+    "streetType": "tér"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Uzdóc",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Űrhajós",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Ürög",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Ürögi",
+    "streetType": "határút"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Ürögi",
+    "streetType": "fasor"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Üszögi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Üszögi",
+    "streetType": "víztároló"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Üszögi-Kiserdő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Üszögi-Kiserdő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Üszögpuszta"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Váci Mihály",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Vadász",
+    "streetType": "utca",
+    "numbers": "1 to 25"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Vadász",
+    "streetType": "utca",
+    "numbers": "4 to 8"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Vadász",
+    "streetType": "utca",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Vadkörte",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Vadrózsa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Vadvirág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Vágóhíd",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Vájár",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Vajda János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Vándor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Várady Antal",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Vargha Damján",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Varjú",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Várkonyi Nándor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Városház",
+    "streetType": "köz"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Varsány",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Vas",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Vas Gereben",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Vasas I.",
+    "streetType": "külterület"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Vásártér"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Vásártér",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Vasfű",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Vasút",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Vasúti",
+    "streetType": "őrházak"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Vasvári Pál",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Veltelini",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Vendég",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Venyige",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Vércse",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Veréb",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Veres Péter",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Veress Endre",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Verőfény",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Verseny",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Veterán",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Víg",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Vigadó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Viktória",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Viktória",
+    "streetType": "park"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Vilmos",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Vince",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Vincellér",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Viola",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Virág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7636,
+    "streetName": "Visnya Ernő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Vizes",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Víztároló",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Völgyi",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Vörösbegy",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Vöröshegy",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Vöröskereszt",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Vöröskő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Vörösmarty",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Wallenstein Zoltán",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Wass Albert",
+    "streetType": "út"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Weöres Sándor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Wesselényi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Xavér",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Ybl Miklós",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Zámor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7693,
+    "streetName": "Zengő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Zerge",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Zergevirág",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Zichy Gyula",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Zidina"
+  },
+  {
+    "zip": 7633,
+    "streetName": "Zipernovszky Károly",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Zodóföldi",
+    "streetType": "út"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Zója",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Zólyom",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Zöldellő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Zöldfa",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7631,
+    "streetName": "Zrínyi",
+    "streetType": "puszta"
+  },
+  {
+    "zip": 7621,
+    "streetName": "Zrínyi Miklós",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Zugoly",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7635,
+    "streetName": "Zurna",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Zuzmó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Zsák",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Zsebe",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Zsebe-kúti",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Zsebe-tető",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7627,
+    "streetName": "Zsigmond",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7622,
+    "streetName": "Zsinkó István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7630,
+    "streetName": "Zsolnay Vilmos",
+    "streetType": "utca",
+    "numbers": "the rest"
+  },
+  {
+    "zip": 7626,
+    "streetName": "Zsolnay Vilmos",
+    "streetType": "utca",
+    "numbers": "1 to 37"
+  },
+  {
+    "zip": 7629,
+    "streetName": "Zsolnay Vilmos",
+    "streetType": "utca",
+    "numbers": "39 to 119"
+  },
+  {
+    "zip": 7624,
+    "streetName": "Zsolt",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7625,
+    "streetName": "Zsomboly",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Zsongorkő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7634,
+    "streetName": "Zsurló",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 7632,
+    "streetName": "Zsuzsanna",
+    "streetType": "utca"
+  }
+]

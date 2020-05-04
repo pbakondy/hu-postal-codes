@@ -1,0 +1,34 @@
+{
+  "name": "hu-postal-codes",
+  "version": "1.0.0",
+  "description": "Postal Codes of Hungary",
+  "main": "postal-codes.json",
+  "scripts": {
+    "test": "eslint .",
+    "build": "node ./build.js"
+  },
+  "keywords": [
+    "postal-code",
+    "postal",
+    "code",
+    "zip",
+    "zipcode",
+    "hungary",
+    "magyar"
+  ],
+  "author": "Peter Bakondy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pbakondy/hu-postal-codes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pbakondy/hu-postal-codes/issues"
+  },
+  "homepage": "https://github.com/pbakondy/hu-postal-codes#readme",
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "eslint": "^6.8.0",
+    "xlsx": "^0.16.0"
+  }
+}

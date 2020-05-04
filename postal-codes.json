@@ -1,0 +1,13479 @@
+[
+  {
+    "zip": 2000,
+    "city": "Szentendre"
+  },
+  {
+    "zip": 2009,
+    "city": "Pilisszentlászló"
+  },
+  {
+    "zip": 2011,
+    "city": "Budakalász"
+  },
+  {
+    "zip": 2013,
+    "city": "Pomáz"
+  },
+  {
+    "zip": 2014,
+    "city": "Csobánka"
+  },
+  {
+    "zip": 2015,
+    "city": "Szigetmonostor"
+  },
+  {
+    "zip": 2016,
+    "city": "Leányfalu"
+  },
+  {
+    "zip": 2017,
+    "city": "Pócsmegyer"
+  },
+  {
+    "zip": 2021,
+    "city": "Tahitótfalu",
+    "region": "Tótfalu"
+  },
+  {
+    "zip": 2022,
+    "city": "Tahitótfalu",
+    "region": "Tahi"
+  },
+  {
+    "zip": 2023,
+    "city": "Dunabogdány"
+  },
+  {
+    "zip": 2024,
+    "city": "Kisoroszi"
+  },
+  {
+    "zip": 2025,
+    "city": "Visegrád"
+  },
+  {
+    "zip": 2026,
+    "city": "Visegrád",
+    "region": "Gizellatelep"
+  },
+  {
+    "zip": 2027,
+    "city": "Dömös"
+  },
+  {
+    "zip": 2028,
+    "city": "Pilismarót"
+  },
+  {
+    "zip": 2030,
+    "city": "Érd"
+  },
+  {
+    "zip": 2038,
+    "city": "Sóskút"
+  },
+  {
+    "zip": 2039,
+    "city": "Pusztazámor"
+  },
+  {
+    "zip": 2040,
+    "city": "Budaörs"
+  },
+  {
+    "zip": 2045,
+    "city": "Törökbálint"
+  },
+  {
+    "zip": 2049,
+    "city": "Diósd"
+  },
+  {
+    "zip": 2051,
+    "city": "Biatorbágy"
+  },
+  {
+    "zip": 2053,
+    "city": "Herceghalom"
+  },
+  {
+    "zip": 2060,
+    "city": "Bicske"
+  },
+  {
+    "zip": 2063,
+    "city": "Óbarok"
+  },
+  {
+    "zip": 2064,
+    "city": "Csabdi"
+  },
+  {
+    "zip": 2065,
+    "city": "Mány"
+  },
+  {
+    "zip": 2066,
+    "city": "Szár"
+  },
+  {
+    "zip": 2066,
+    "city": "Újbarok"
+  },
+  {
+    "zip": 2067,
+    "city": "Szárliget"
+  },
+  {
+    "zip": 2071,
+    "city": "Páty"
+  },
+  {
+    "zip": 2072,
+    "city": "Zsámbék"
+  },
+  {
+    "zip": 2073,
+    "city": "Tök"
+  },
+  {
+    "zip": 2074,
+    "city": "Perbál"
+  },
+  {
+    "zip": 2080,
+    "city": "Pilisjászfalu"
+  },
+  {
+    "zip": 2081,
+    "city": "Piliscsaba"
+  },
+  {
+    "zip": 2083,
+    "city": "Solymár"
+  },
+  {
+    "zip": 2084,
+    "city": "Pilisszentiván"
+  },
+  {
+    "zip": 2085,
+    "city": "Pilisvörösvár"
+  },
+  {
+    "zip": 2086,
+    "city": "Tinnye"
+  },
+  {
+    "zip": 2089,
+    "city": "Telki"
+  },
+  {
+    "zip": 2090,
+    "city": "Remeteszőlős"
+  },
+  {
+    "zip": 2091,
+    "city": "Etyek"
+  },
+  {
+    "zip": 2092,
+    "city": "Budakeszi"
+  },
+  {
+    "zip": 2093,
+    "city": "Budajenő"
+  },
+  {
+    "zip": 2094,
+    "city": "Nagykovácsi"
+  },
+  {
+    "zip": 2095,
+    "city": "Pilisszántó"
+  },
+  {
+    "zip": 2096,
+    "city": "Üröm"
+  },
+  {
+    "zip": 2097,
+    "city": "Pilisborosjenő"
+  },
+  {
+    "zip": 2098,
+    "city": "Pilisszentkereszt"
+  },
+  {
+    "zip": 2099,
+    "city": "Pilisszentkereszt",
+    "region": "Dobogókő"
+  },
+  {
+    "zip": 2100,
+    "city": "Gödöllő"
+  },
+  {
+    "zip": 2111,
+    "city": "Szada"
+  },
+  {
+    "zip": 2112,
+    "city": "Veresegyház"
+  },
+  {
+    "zip": 2113,
+    "city": "Erdőkertes"
+  },
+  {
+    "zip": 2114,
+    "city": "Valkó"
+  },
+  {
+    "zip": 2115,
+    "city": "Vácszentlászló"
+  },
+  {
+    "zip": 2116,
+    "city": "Zsámbok"
+  },
+  {
+    "zip": 2117,
+    "city": "Isaszeg"
+  },
+  {
+    "zip": 2118,
+    "city": "Dány"
+  },
+  {
+    "zip": 2119,
+    "city": "Pécel"
+  },
+  {
+    "zip": 2120,
+    "city": "Dunakeszi"
+  },
+  {
+    "zip": 2131,
+    "city": "Göd",
+    "region": "Alsógöd"
+  },
+  {
+    "zip": 2132,
+    "city": "Göd",
+    "region": "Felsőgöd"
+  },
+  {
+    "zip": 2133,
+    "city": "Sződliget"
+  },
+  {
+    "zip": 2134,
+    "city": "Sződ"
+  },
+  {
+    "zip": 2135,
+    "city": "Csörög"
+  },
+  {
+    "zip": 2141,
+    "city": "Csömör"
+  },
+  {
+    "zip": 2142,
+    "city": "Nagytarcsa"
+  },
+  {
+    "zip": 2143,
+    "city": "Kistarcsa"
+  },
+  {
+    "zip": 2144,
+    "city": "Kerepes"
+  },
+  {
+    "zip": 2145,
+    "city": "Kerepes",
+    "region": "Szilasliget"
+  },
+  {
+    "zip": 2146,
+    "city": "Mogyoród"
+  },
+  {
+    "zip": 2151,
+    "city": "Fót"
+  },
+  {
+    "zip": 2161,
+    "city": "Csomád"
+  },
+  {
+    "zip": 2162,
+    "city": "Őrbottyán"
+  },
+  {
+    "zip": 2163,
+    "city": "Vácrátót"
+  },
+  {
+    "zip": 2164,
+    "city": "Váchartyán"
+  },
+  {
+    "zip": 2165,
+    "city": "Kisnémedi"
+  },
+  {
+    "zip": 2166,
+    "city": "Püspökszilágy"
+  },
+  {
+    "zip": 2167,
+    "city": "Vácduka"
+  },
+  {
+    "zip": 2170,
+    "city": "Aszód"
+  },
+  {
+    "zip": 2173,
+    "city": "Kartal"
+  },
+  {
+    "zip": 2174,
+    "city": "Verseg"
+  },
+  {
+    "zip": 2175,
+    "city": "Kálló"
+  },
+  {
+    "zip": 2176,
+    "city": "Erdőkürt"
+  },
+  {
+    "zip": 2177,
+    "city": "Erdőtarcsa"
+  },
+  {
+    "zip": 2181,
+    "city": "Iklad"
+  },
+  {
+    "zip": 2182,
+    "city": "Domony"
+  },
+  {
+    "zip": 2183,
+    "city": "Galgamácsa"
+  },
+  {
+    "zip": 2184,
+    "city": "Vácegres"
+  },
+  {
+    "zip": 2185,
+    "city": "Váckisújfalu"
+  },
+  {
+    "zip": 2191,
+    "city": "Bag"
+  },
+  {
+    "zip": 2192,
+    "city": "Hévízgyörk"
+  },
+  {
+    "zip": 2193,
+    "city": "Galgahévíz"
+  },
+  {
+    "zip": 2194,
+    "city": "Tura"
+  },
+  {
+    "zip": 2200,
+    "city": "Monor"
+  },
+  {
+    "zip": 2209,
+    "city": "Péteri"
+  },
+  {
+    "zip": 2211,
+    "city": "Vasad"
+  },
+  {
+    "zip": 2212,
+    "city": "Csévharaszt"
+  },
+  {
+    "zip": 2213,
+    "city": "Monorierdő"
+  },
+  {
+    "zip": 2214,
+    "city": "Pánd"
+  },
+  {
+    "zip": 2215,
+    "city": "Káva"
+  },
+  {
+    "zip": 2216,
+    "city": "Bénye"
+  },
+  {
+    "zip": 2217,
+    "city": "Gomba"
+  },
+  {
+    "zip": 2220,
+    "city": "Vecsés"
+  },
+  {
+    "zip": 2225,
+    "city": "Üllő"
+  },
+  {
+    "zip": 2230,
+    "city": "Gyömrő"
+  },
+  {
+    "zip": 2233,
+    "city": "Ecser"
+  },
+  {
+    "zip": 2234,
+    "city": "Maglód"
+  },
+  {
+    "zip": 2235,
+    "city": "Mende"
+  },
+  {
+    "zip": 2241,
+    "city": "Sülysáp",
+    "region": "Tápiósüly"
+  },
+  {
+    "zip": 2242,
+    "city": "Sülysáp",
+    "region": "Tápiósáp"
+  },
+  {
+    "zip": 2243,
+    "city": "Kóka"
+  },
+  {
+    "zip": 2244,
+    "city": "Úri"
+  },
+  {
+    "zip": 2251,
+    "city": "Tápiószecső"
+  },
+  {
+    "zip": 2252,
+    "city": "Tóalmás"
+  },
+  {
+    "zip": 2253,
+    "city": "Tápióság"
+  },
+  {
+    "zip": 2254,
+    "city": "Szentmártonkáta"
+  },
+  {
+    "zip": 2255,
+    "city": "Szentlőrinckáta"
+  },
+  {
+    "zip": 2300,
+    "city": "Ráckeve"
+  },
+  {
+    "zip": 2309,
+    "city": "Lórév"
+  },
+  {
+    "zip": 2310,
+    "city": "Szigetszentmiklós"
+  },
+  {
+    "zip": 2314,
+    "city": "Halásztelek"
+  },
+  {
+    "zip": 2315,
+    "city": "Szigethalom"
+  },
+  {
+    "zip": 2316,
+    "city": "Tököl"
+  },
+  {
+    "zip": 2317,
+    "city": "Szigetcsép"
+  },
+  {
+    "zip": 2318,
+    "city": "Szigetszentmárton"
+  },
+  {
+    "zip": 2319,
+    "city": "Szigetújfalu"
+  },
+  {
+    "zip": 2321,
+    "city": "Szigetbecse"
+  },
+  {
+    "zip": 2322,
+    "city": "Makád"
+  },
+  {
+    "zip": 2330,
+    "city": "Dunaharaszti"
+  },
+  {
+    "zip": 2335,
+    "city": "Taksony"
+  },
+  {
+    "zip": 2336,
+    "city": "Dunavarsány"
+  },
+  {
+    "zip": 2337,
+    "city": "Délegyháza"
+  },
+  {
+    "zip": 2338,
+    "city": "Áporka"
+  },
+  {
+    "zip": 2339,
+    "city": "Majosháza"
+  },
+  {
+    "zip": 2340,
+    "city": "Kiskunlacháza"
+  },
+  {
+    "zip": 2344,
+    "city": "Dömsöd"
+  },
+  {
+    "zip": 2345,
+    "city": "Apaj"
+  },
+  {
+    "zip": 2347,
+    "city": "Bugyi"
+  },
+  {
+    "zip": 2351,
+    "city": "Alsónémedi"
+  },
+  {
+    "zip": 2360,
+    "city": "Gyál"
+  },
+  {
+    "zip": 2363,
+    "city": "Felsőpakony"
+  },
+  {
+    "zip": 2364,
+    "city": "Ócsa"
+  },
+  {
+    "zip": 2365,
+    "city": "Inárcs"
+  },
+  {
+    "zip": 2366,
+    "city": "Kakucs"
+  },
+  {
+    "zip": 2367,
+    "city": "Újhartyán"
+  },
+  {
+    "zip": 2370,
+    "city": "Dabas"
+  },
+  {
+    "zip": 2371,
+    "city": "Dabas",
+    "region": "Sári"
+  },
+  {
+    "zip": 2373,
+    "city": "Dabas",
+    "region": "Gyón"
+  },
+  {
+    "zip": 2375,
+    "city": "Tatárszentgyörgy"
+  },
+  {
+    "zip": 2376,
+    "city": "Hernád"
+  },
+  {
+    "zip": 2377,
+    "city": "Örkény"
+  },
+  {
+    "zip": 2378,
+    "city": "Pusztavacs"
+  },
+  {
+    "zip": 2381,
+    "city": "Táborfalva"
+  },
+  {
+    "zip": 2400,
+    "city": "Dunaújváros"
+  },
+  {
+    "zip": 2407,
+    "city": "Dunaújváros",
+    "region": "Pálhalma"
+  },
+  {
+    "zip": 2421,
+    "city": "Nagyvenyim"
+  },
+  {
+    "zip": 2422,
+    "city": "Mezőfalva"
+  },
+  {
+    "zip": 2423,
+    "city": "Daruszentmiklós"
+  },
+  {
+    "zip": 2424,
+    "city": "Előszállás"
+  },
+  {
+    "zip": 2425,
+    "city": "Nagykarácsony"
+  },
+  {
+    "zip": 2426,
+    "city": "Baracs"
+  },
+  {
+    "zip": 2427,
+    "city": "Baracs",
+    "region": "Apátszállás"
+  },
+  {
+    "zip": 2428,
+    "city": "Kisapostag"
+  },
+  {
+    "zip": 2431,
+    "city": "Perkáta"
+  },
+  {
+    "zip": 2432,
+    "city": "Szabadegyháza"
+  },
+  {
+    "zip": 2433,
+    "city": "Sárosd"
+  },
+  {
+    "zip": 2434,
+    "city": "Hantos"
+  },
+  {
+    "zip": 2435,
+    "city": "Nagylók"
+  },
+  {
+    "zip": 2440,
+    "city": "Százhalombatta"
+  },
+  {
+    "zip": 2451,
+    "city": "Ercsi"
+  },
+  {
+    "zip": 2453,
+    "city": "Ercsi",
+    "region": "Sinatelep"
+  },
+  {
+    "zip": 2454,
+    "city": "Iváncsa"
+  },
+  {
+    "zip": 2455,
+    "city": "Beloiannisz"
+  },
+  {
+    "zip": 2456,
+    "city": "Besnyő"
+  },
+  {
+    "zip": 2457,
+    "city": "Adony"
+  },
+  {
+    "zip": 2458,
+    "city": "Kulcs"
+  },
+  {
+    "zip": 2459,
+    "city": "Rácalmás"
+  },
+  {
+    "zip": 2461,
+    "city": "Tárnok"
+  },
+  {
+    "zip": 2462,
+    "city": "Martonvásár"
+  },
+  {
+    "zip": 2463,
+    "city": "Tordas"
+  },
+  {
+    "zip": 2464,
+    "city": "Gyúró"
+  },
+  {
+    "zip": 2465,
+    "city": "Ráckeresztúr"
+  },
+  {
+    "zip": 2471,
+    "city": "Baracska"
+  },
+  {
+    "zip": 2472,
+    "city": "Kajászó"
+  },
+  {
+    "zip": 2473,
+    "city": "Vál"
+  },
+  {
+    "zip": 2475,
+    "city": "Kápolnásnyék"
+  },
+  {
+    "zip": 2476,
+    "city": "Pázmánd"
+  },
+  {
+    "zip": 2477,
+    "city": "Vereb"
+  },
+  {
+    "zip": 2481,
+    "city": "Velence"
+  },
+  {
+    "zip": 2483,
+    "city": "Gárdony"
+  },
+  {
+    "zip": 2484,
+    "city": "Gárdony",
+    "region": "Agárd"
+  },
+  {
+    "zip": 2485,
+    "city": "Gárdony",
+    "region": "Dinnyés"
+  },
+  {
+    "zip": 2490,
+    "city": "Pusztaszabolcs"
+  },
+  {
+    "zip": 2500,
+    "city": "Esztergom"
+  },
+  {
+    "zip": 2508,
+    "city": "Esztergom",
+    "region": "Pilisszentlélek"
+  },
+  {
+    "zip": 2509,
+    "city": "Esztergom",
+    "region": "Kertváros"
+  },
+  {
+    "zip": 2510,
+    "city": "Dorog"
+  },
+  {
+    "zip": 2517,
+    "city": "Kesztölc"
+  },
+  {
+    "zip": 2518,
+    "city": "Leányvár"
+  },
+  {
+    "zip": 2519,
+    "city": "Piliscsév"
+  },
+  {
+    "zip": 2521,
+    "city": "Csolnok"
+  },
+  {
+    "zip": 2522,
+    "city": "Dág"
+  },
+  {
+    "zip": 2523,
+    "city": "Sárisáp"
+  },
+  {
+    "zip": 2524,
+    "city": "Nagysáp"
+  },
+  {
+    "zip": 2525,
+    "city": "Bajna"
+  },
+  {
+    "zip": 2526,
+    "city": "Epöl"
+  },
+  {
+    "zip": 2527,
+    "city": "Máriahalom"
+  },
+  {
+    "zip": 2528,
+    "city": "Úny"
+  },
+  {
+    "zip": 2529,
+    "city": "Annavölgy"
+  },
+  {
+    "zip": 2531,
+    "city": "Tokod"
+  },
+  {
+    "zip": 2532,
+    "city": "Tokodaltáró"
+  },
+  {
+    "zip": 2533,
+    "city": "Bajót"
+  },
+  {
+    "zip": 2534,
+    "city": "Tát"
+  },
+  {
+    "zip": 2535,
+    "city": "Mogyorósbánya"
+  },
+  {
+    "zip": 2536,
+    "city": "Nyergesújfalu"
+  },
+  {
+    "zip": 2541,
+    "city": "Lábatlan"
+  },
+  {
+    "zip": 2543,
+    "city": "Süttő"
+  },
+  {
+    "zip": 2544,
+    "city": "Neszmély"
+  },
+  {
+    "zip": 2545,
+    "city": "Dunaalmás"
+  },
+  {
+    "zip": 2600,
+    "city": "Vác"
+  },
+  {
+    "zip": 2610,
+    "city": "Nőtincs"
+  },
+  {
+    "zip": 2610,
+    "city": "Ősagárd"
+  },
+  {
+    "zip": 2611,
+    "city": "Felsőpetény"
+  },
+  {
+    "zip": 2612,
+    "city": "Kosd"
+  },
+  {
+    "zip": 2613,
+    "city": "Rád"
+  },
+  {
+    "zip": 2614,
+    "city": "Penc"
+  },
+  {
+    "zip": 2615,
+    "city": "Csővár"
+  },
+  {
+    "zip": 2616,
+    "city": "Keszeg"
+  },
+  {
+    "zip": 2617,
+    "city": "Alsópetény"
+  },
+  {
+    "zip": 2618,
+    "city": "Nézsa"
+  },
+  {
+    "zip": 2619,
+    "city": "Legénd"
+  },
+  {
+    "zip": 2621,
+    "city": "Verőce"
+  },
+  {
+    "zip": 2623,
+    "city": "Kismaros"
+  },
+  {
+    "zip": 2624,
+    "city": "Szokolya"
+  },
+  {
+    "zip": 2625,
+    "city": "Kóspallag"
+  },
+  {
+    "zip": 2626,
+    "city": "Nagymaros"
+  },
+  {
+    "zip": 2627,
+    "city": "Zebegény"
+  },
+  {
+    "zip": 2628,
+    "city": "Szob"
+  },
+  {
+    "zip": 2629,
+    "city": "Márianosztra"
+  },
+  {
+    "zip": 2631,
+    "city": "Ipolydamásd"
+  },
+  {
+    "zip": 2632,
+    "city": "Letkés"
+  },
+  {
+    "zip": 2633,
+    "city": "Ipolytölgyes"
+  },
+  {
+    "zip": 2634,
+    "city": "Nagybörzsöny"
+  },
+  {
+    "zip": 2635,
+    "city": "Vámosmikola"
+  },
+  {
+    "zip": 2636,
+    "city": "Tésa"
+  },
+  {
+    "zip": 2637,
+    "city": "Perőcsény"
+  },
+  {
+    "zip": 2638,
+    "city": "Kemence"
+  },
+  {
+    "zip": 2639,
+    "city": "Bernecebaráti"
+  },
+  {
+    "zip": 2640,
+    "city": "Szendehely"
+  },
+  {
+    "zip": 2641,
+    "city": "Berkenye"
+  },
+  {
+    "zip": 2642,
+    "city": "Nógrád"
+  },
+  {
+    "zip": 2643,
+    "city": "Diósjenő"
+  },
+  {
+    "zip": 2644,
+    "city": "Borsosberény"
+  },
+  {
+    "zip": 2645,
+    "city": "Nagyoroszi"
+  },
+  {
+    "zip": 2646,
+    "city": "Drégelypalánk"
+  },
+  {
+    "zip": 2647,
+    "city": "Hont"
+  },
+  {
+    "zip": 2648,
+    "city": "Patak"
+  },
+  {
+    "zip": 2649,
+    "city": "Dejtár"
+  },
+  {
+    "zip": 2651,
+    "city": "Rétság"
+  },
+  {
+    "zip": 2652,
+    "city": "Tereske"
+  },
+  {
+    "zip": 2653,
+    "city": "Bánk"
+  },
+  {
+    "zip": 2654,
+    "city": "Romhány"
+  },
+  {
+    "zip": 2655,
+    "city": "Kétbodony"
+  },
+  {
+    "zip": 2655,
+    "city": "Kisecset"
+  },
+  {
+    "zip": 2655,
+    "city": "Szente"
+  },
+  {
+    "zip": 2656,
+    "city": "Szátok"
+  },
+  {
+    "zip": 2657,
+    "city": "Tolmács"
+  },
+  {
+    "zip": 2658,
+    "city": "Horpács"
+  },
+  {
+    "zip": 2658,
+    "city": "Pusztaberki"
+  },
+  {
+    "zip": 2659,
+    "city": "Érsekvadkert"
+  },
+  {
+    "zip": 2660,
+    "city": "Balassagyarmat"
+  },
+  {
+    "zip": 2660,
+    "city": "Ipolyszög"
+  },
+  {
+    "zip": 2668,
+    "city": "Patvarc"
+  },
+  {
+    "zip": 2669,
+    "city": "Ipolyvece"
+  },
+  {
+    "zip": 2671,
+    "city": "Őrhalom"
+  },
+  {
+    "zip": 2672,
+    "city": "Hugyag"
+  },
+  {
+    "zip": 2673,
+    "city": "Csitár"
+  },
+  {
+    "zip": 2674,
+    "city": "Iliny"
+  },
+  {
+    "zip": 2675,
+    "city": "Nógrádmarcal"
+  },
+  {
+    "zip": 2676,
+    "city": "Cserhátsurány"
+  },
+  {
+    "zip": 2677,
+    "city": "Herencsény"
+  },
+  {
+    "zip": 2678,
+    "city": "Csesztve"
+  },
+  {
+    "zip": 2681,
+    "city": "Galgagyörk"
+  },
+  {
+    "zip": 2682,
+    "city": "Püspökhatvan"
+  },
+  {
+    "zip": 2683,
+    "city": "Acsa"
+  },
+  {
+    "zip": 2685,
+    "city": "Nógrádsáp"
+  },
+  {
+    "zip": 2686,
+    "city": "Galgaguta"
+  },
+  {
+    "zip": 2687,
+    "city": "Bercel"
+  },
+  {
+    "zip": 2688,
+    "city": "Vanyarc"
+  },
+  {
+    "zip": 2691,
+    "city": "Nógrádkövesd"
+  },
+  {
+    "zip": 2692,
+    "city": "Szécsénke"
+  },
+  {
+    "zip": 2693,
+    "city": "Becske"
+  },
+  {
+    "zip": 2694,
+    "city": "Magyarnándor"
+  },
+  {
+    "zip": 2694,
+    "city": "Cserháthaláp"
+  },
+  {
+    "zip": 2694,
+    "city": "Debercsény"
+  },
+  {
+    "zip": 2696,
+    "city": "Terény"
+  },
+  {
+    "zip": 2697,
+    "city": "Szanda"
+  },
+  {
+    "zip": 2698,
+    "city": "Mohora"
+  },
+  {
+    "zip": 2699,
+    "city": "Szügy"
+  },
+  {
+    "zip": 2700,
+    "city": "Cegléd"
+  },
+  {
+    "zip": 2711,
+    "city": "Tápiószentmárton"
+  },
+  {
+    "zip": 2712,
+    "city": "Nyársapát"
+  },
+  {
+    "zip": 2713,
+    "city": "Csemő"
+  },
+  {
+    "zip": 2721,
+    "city": "Pilis"
+  },
+  {
+    "zip": 2723,
+    "city": "Nyáregyháza"
+  },
+  {
+    "zip": 2724,
+    "city": "Újlengyel"
+  },
+  {
+    "zip": 2730,
+    "city": "Albertirsa"
+  },
+  {
+    "zip": 2735,
+    "city": "Dánszentmiklós"
+  },
+  {
+    "zip": 2736,
+    "city": "Mikebuda"
+  },
+  {
+    "zip": 2737,
+    "city": "Ceglédbercel"
+  },
+  {
+    "zip": 2738,
+    "city": "Cegléd",
+    "region": "Budai út"
+  },
+  {
+    "zip": 2740,
+    "city": "Abony"
+  },
+  {
+    "zip": 2745,
+    "city": "Kőröstetétlen"
+  },
+  {
+    "zip": 2746,
+    "city": "Jászkarajenő"
+  },
+  {
+    "zip": 2747,
+    "city": "Törtel"
+  },
+  {
+    "zip": 2750,
+    "city": "Nagykőrös"
+  },
+  {
+    "zip": 2755,
+    "city": "Kocsér"
+  },
+  {
+    "zip": 2760,
+    "city": "Nagykáta"
+  },
+  {
+    "zip": 2764,
+    "city": "Tápióbicske"
+  },
+  {
+    "zip": 2765,
+    "city": "Farmos"
+  },
+  {
+    "zip": 2766,
+    "city": "Tápiószele"
+  },
+  {
+    "zip": 2767,
+    "city": "Tápiógyörgye"
+  },
+  {
+    "zip": 2768,
+    "city": "Újszilvás"
+  },
+  {
+    "zip": 2769,
+    "city": "Tápiószőlős"
+  },
+  {
+    "zip": 2800,
+    "city": "Tatabánya"
+  },
+  {
+    "zip": 2821,
+    "city": "Gyermely"
+  },
+  {
+    "zip": 2822,
+    "city": "Szomor"
+  },
+  {
+    "zip": 2823,
+    "city": "Vértessomló"
+  },
+  {
+    "zip": 2824,
+    "city": "Várgesztes"
+  },
+  {
+    "zip": 2831,
+    "city": "Tarján"
+  },
+  {
+    "zip": 2832,
+    "city": "Héreg"
+  },
+  {
+    "zip": 2833,
+    "city": "Vértestolna"
+  },
+  {
+    "zip": 2834,
+    "city": "Tardos"
+  },
+  {
+    "zip": 2835,
+    "city": "Tata",
+    "region": "Agostyán"
+  },
+  {
+    "zip": 2836,
+    "city": "Baj"
+  },
+  {
+    "zip": 2837,
+    "city": "Vértesszőlős"
+  },
+  {
+    "zip": 2840,
+    "city": "Oroszlány"
+  },
+  {
+    "zip": 2851,
+    "city": "Környe"
+  },
+  {
+    "zip": 2852,
+    "city": "Kecskéd"
+  },
+  {
+    "zip": 2853,
+    "city": "Kömlőd"
+  },
+  {
+    "zip": 2854,
+    "city": "Dad"
+  },
+  {
+    "zip": 2855,
+    "city": "Bokod"
+  },
+  {
+    "zip": 2856,
+    "city": "Szákszend"
+  },
+  {
+    "zip": 2858,
+    "city": "Császár"
+  },
+  {
+    "zip": 2859,
+    "city": "Vérteskethely"
+  },
+  {
+    "zip": 2861,
+    "city": "Bakonysárkány"
+  },
+  {
+    "zip": 2862,
+    "city": "Aka"
+  },
+  {
+    "zip": 2870,
+    "city": "Kisbér"
+  },
+  {
+    "zip": 2879,
+    "city": "Kisbér",
+    "region": "Hánta"
+  },
+  {
+    "zip": 2881,
+    "city": "Ászár"
+  },
+  {
+    "zip": 2882,
+    "city": "Kerékteleki"
+  },
+  {
+    "zip": 2883,
+    "city": "Bársonyos"
+  },
+  {
+    "zip": 2884,
+    "city": "Bakonyszombathely"
+  },
+  {
+    "zip": 2885,
+    "city": "Bakonybánk"
+  },
+  {
+    "zip": 2886,
+    "city": "Réde"
+  },
+  {
+    "zip": 2887,
+    "city": "Ácsteszér"
+  },
+  {
+    "zip": 2888,
+    "city": "Csatka"
+  },
+  {
+    "zip": 2889,
+    "city": "Súr"
+  },
+  {
+    "zip": 2890,
+    "city": "Tata"
+  },
+  {
+    "zip": 2896,
+    "city": "Szomód"
+  },
+  {
+    "zip": 2897,
+    "city": "Dunaszentmiklós"
+  },
+  {
+    "zip": 2898,
+    "city": "Kocs"
+  },
+  {
+    "zip": 2899,
+    "city": "Naszály"
+  },
+  {
+    "zip": 2900,
+    "city": "Komárom"
+  },
+  {
+    "zip": 2903,
+    "city": "Komárom",
+    "region": "Koppánymonostor"
+  },
+  {
+    "zip": 2911,
+    "city": "Mocsa"
+  },
+  {
+    "zip": 2921,
+    "city": "Komárom",
+    "region": "Szőny"
+  },
+  {
+    "zip": 2931,
+    "city": "Almásfüzitő"
+  },
+  {
+    "zip": 2941,
+    "city": "Ács"
+  },
+  {
+    "zip": 2942,
+    "city": "Nagyigmánd"
+  },
+  {
+    "zip": 2943,
+    "city": "Bábolna"
+  },
+  {
+    "zip": 2943,
+    "city": "Tárkány",
+    "region": "Ölbőpuszta"
+  },
+  {
+    "zip": 2944,
+    "city": "Bana"
+  },
+  {
+    "zip": 2945,
+    "city": "Tárkány"
+  },
+  {
+    "zip": 2946,
+    "city": "Csép"
+  },
+  {
+    "zip": 2947,
+    "city": "Ete"
+  },
+  {
+    "zip": 2948,
+    "city": "Kisigmánd"
+  },
+  {
+    "zip": 2949,
+    "city": "Csém"
+  },
+  {
+    "zip": 3000,
+    "city": "Hatvan"
+  },
+  {
+    "zip": 3009,
+    "city": "Kerekharaszt"
+  },
+  {
+    "zip": 3011,
+    "city": "Heréd"
+  },
+  {
+    "zip": 3012,
+    "city": "Nagykökényes"
+  },
+  {
+    "zip": 3013,
+    "city": "Ecséd"
+  },
+  {
+    "zip": 3014,
+    "city": "Hort"
+  },
+  {
+    "zip": 3015,
+    "city": "Csány"
+  },
+  {
+    "zip": 3016,
+    "city": "Boldog"
+  },
+  {
+    "zip": 3021,
+    "city": "Lőrinci"
+  },
+  {
+    "zip": 3022,
+    "city": "Lőrinci",
+    "region": "Mátravidéki erőmű"
+  },
+  {
+    "zip": 3023,
+    "city": "Petőfibánya"
+  },
+  {
+    "zip": 3024,
+    "city": "Lőrinci",
+    "region": "Selyp"
+  },
+  {
+    "zip": 3031,
+    "city": "Zagyvaszántó"
+  },
+  {
+    "zip": 3032,
+    "city": "Apc"
+  },
+  {
+    "zip": 3033,
+    "city": "Rózsaszentmárton"
+  },
+  {
+    "zip": 3034,
+    "city": "Szűcsi"
+  },
+  {
+    "zip": 3035,
+    "city": "Gyöngyöspata"
+  },
+  {
+    "zip": 3036,
+    "city": "Gyöngyöstarján"
+  },
+  {
+    "zip": 3041,
+    "city": "Héhalom"
+  },
+  {
+    "zip": 3042,
+    "city": "Palotás"
+  },
+  {
+    "zip": 3043,
+    "city": "Egyházasdengeleg"
+  },
+  {
+    "zip": 3044,
+    "city": "Szirák"
+  },
+  {
+    "zip": 3045,
+    "city": "Bér"
+  },
+  {
+    "zip": 3046,
+    "city": "Kisbágyon"
+  },
+  {
+    "zip": 3047,
+    "city": "Buják"
+  },
+  {
+    "zip": 3051,
+    "city": "Szarvasgede"
+  },
+  {
+    "zip": 3052,
+    "city": "Csécse"
+  },
+  {
+    "zip": 3053,
+    "city": "Ecseg"
+  },
+  {
+    "zip": 3053,
+    "city": "Kozárd"
+  },
+  {
+    "zip": 3060,
+    "city": "Pásztó"
+  },
+  {
+    "zip": 3063,
+    "city": "Jobbágyi"
+  },
+  {
+    "zip": 3064,
+    "city": "Szurdokpüspöki"
+  },
+  {
+    "zip": 3065,
+    "city": "Pásztó",
+    "region": "Hasznos"
+  },
+  {
+    "zip": 3066,
+    "city": "Cserhátszentiván"
+  },
+  {
+    "zip": 3066,
+    "city": "Bokor"
+  },
+  {
+    "zip": 3066,
+    "city": "Kutasó"
+  },
+  {
+    "zip": 3067,
+    "city": "Felsőtold"
+  },
+  {
+    "zip": 3067,
+    "city": "Garáb"
+  },
+  {
+    "zip": 3068,
+    "city": "Mátraszőlős"
+  },
+  {
+    "zip": 3069,
+    "city": "Alsótold"
+  },
+  {
+    "zip": 3070,
+    "city": "Bátonyterenye"
+  },
+  {
+    "zip": 3071,
+    "city": "Bátonyterenye",
+    "region": "Nagybátony"
+  },
+  {
+    "zip": 3073,
+    "city": "Tar"
+  },
+  {
+    "zip": 3074,
+    "city": "Sámsonháza"
+  },
+  {
+    "zip": 3075,
+    "city": "Nagybárkány"
+  },
+  {
+    "zip": 3075,
+    "city": "Kisbárkány"
+  },
+  {
+    "zip": 3075,
+    "city": "Márkháza"
+  },
+  {
+    "zip": 3077,
+    "city": "Mátraverebély"
+  },
+  {
+    "zip": 3078,
+    "city": "Bátonyterenye",
+    "region": "Kisterenye"
+  },
+  {
+    "zip": 3082,
+    "city": "Pásztó",
+    "region": "Mátrakeresztes"
+  },
+  {
+    "zip": 3100,
+    "city": "Salgótarján"
+  },
+  {
+    "zip": 3102,
+    "city": "Salgótarján",
+    "region": "Baglyasalja"
+  },
+  {
+    "zip": 3104,
+    "city": "Salgótarján",
+    "region": "Zagyvapálfalva"
+  },
+  {
+    "zip": 3109,
+    "city": "Salgótarján",
+    "region": "Salgóbánya"
+  },
+  {
+    "zip": 3121,
+    "city": "Somoskőújfalu"
+  },
+  {
+    "zip": 3123,
+    "city": "Cered"
+  },
+  {
+    "zip": 3124,
+    "city": "Zabar"
+  },
+  {
+    "zip": 3125,
+    "city": "Szilaspogony"
+  },
+  {
+    "zip": 3126,
+    "city": "Bárna"
+  },
+  {
+    "zip": 3127,
+    "city": "Kazár"
+  },
+  {
+    "zip": 3128,
+    "city": "Vizslás"
+  },
+  {
+    "zip": 3129,
+    "city": "Lucfalva"
+  },
+  {
+    "zip": 3129,
+    "city": "Nagykeresztúr"
+  },
+  {
+    "zip": 3131,
+    "city": "Sóshartyán"
+  },
+  {
+    "zip": 3132,
+    "city": "Nógrádmegyer"
+  },
+  {
+    "zip": 3133,
+    "city": "Magyargéc"
+  },
+  {
+    "zip": 3134,
+    "city": "Piliny"
+  },
+  {
+    "zip": 3135,
+    "city": "Szécsényfelfalu"
+  },
+  {
+    "zip": 3136,
+    "city": "Etes"
+  },
+  {
+    "zip": 3137,
+    "city": "Karancsberény"
+  },
+  {
+    "zip": 3138,
+    "city": "Ipolytarnóc"
+  },
+  {
+    "zip": 3141,
+    "city": "Salgótarján",
+    "region": "Zagyvaróna"
+  },
+  {
+    "zip": 3142,
+    "city": "Mátraszele"
+  },
+  {
+    "zip": 3143,
+    "city": "Mátranovák"
+  },
+  {
+    "zip": 3144,
+    "city": "Mátranovák",
+    "region": "Bányatelep"
+  },
+  {
+    "zip": 3145,
+    "city": "Mátraterenye",
+    "region": "Homokterenye"
+  },
+  {
+    "zip": 3146,
+    "city": "Mátraterenye",
+    "region": "Nádújfalu"
+  },
+  {
+    "zip": 3147,
+    "city": "Kazár",
+    "region": "Mizserfa"
+  },
+  {
+    "zip": 3151,
+    "city": "Rákóczibánya"
+  },
+  {
+    "zip": 3152,
+    "city": "Nemti"
+  },
+  {
+    "zip": 3153,
+    "city": "Dorogháza"
+  },
+  {
+    "zip": 3154,
+    "city": "Szuha"
+  },
+  {
+    "zip": 3155,
+    "city": "Mátramindszent"
+  },
+  {
+    "zip": 3161,
+    "city": "Kishartyán"
+  },
+  {
+    "zip": 3162,
+    "city": "Ságújfalu"
+  },
+  {
+    "zip": 3163,
+    "city": "Karancsság"
+  },
+  {
+    "zip": 3163,
+    "city": "Szalmatercs"
+  },
+  {
+    "zip": 3165,
+    "city": "Endrefalva"
+  },
+  {
+    "zip": 3170,
+    "city": "Szécsény"
+  },
+  {
+    "zip": 3175,
+    "city": "Nagylóc"
+  },
+  {
+    "zip": 3176,
+    "city": "Hollókő"
+  },
+  {
+    "zip": 3177,
+    "city": "Rimóc"
+  },
+  {
+    "zip": 3178,
+    "city": "Varsány"
+  },
+  {
+    "zip": 3179,
+    "city": "Nógrádsipek"
+  },
+  {
+    "zip": 3181,
+    "city": "Karancsalja"
+  },
+  {
+    "zip": 3182,
+    "city": "Karancslapujtő"
+  },
+  {
+    "zip": 3183,
+    "city": "Karancskeszi"
+  },
+  {
+    "zip": 3184,
+    "city": "Mihálygerge"
+  },
+  {
+    "zip": 3185,
+    "city": "Egyházasgerge"
+  },
+  {
+    "zip": 3186,
+    "city": "Litke"
+  },
+  {
+    "zip": 3187,
+    "city": "Nógrádszakál"
+  },
+  {
+    "zip": 3188,
+    "city": "Ludányhalászi"
+  },
+  {
+    "zip": 3200,
+    "city": "Gyöngyös"
+  },
+  {
+    "zip": 3211,
+    "city": "Gyöngyösoroszi"
+  },
+  {
+    "zip": 3212,
+    "city": "Gyöngyöshalász"
+  },
+  {
+    "zip": 3213,
+    "city": "Atkár"
+  },
+  {
+    "zip": 3214,
+    "city": "Nagyréde"
+  },
+  {
+    "zip": 3221,
+    "city": "Gyöngyös",
+    "region": "Kékestető"
+  },
+  {
+    "zip": 3231,
+    "city": "Gyöngyössolymos"
+  },
+  {
+    "zip": 3232,
+    "city": "Gyöngyös",
+    "region": "Mátrafüred"
+  },
+  {
+    "zip": 3233,
+    "city": "Gyöngyös",
+    "region": "Mátraháza"
+  },
+  {
+    "zip": 3234,
+    "city": "Mátraszentimre",
+    "region": "Galyatető"
+  },
+  {
+    "zip": 3235,
+    "city": "Mátraszentimre"
+  },
+  {
+    "zip": 3240,
+    "city": "Parád"
+  },
+  {
+    "zip": 3242,
+    "city": "Parádsasvár"
+  },
+  {
+    "zip": 3243,
+    "city": "Bodony"
+  },
+  {
+    "zip": 3244,
+    "city": "Parád",
+    "region": "Parádfürdő"
+  },
+  {
+    "zip": 3245,
+    "city": "Recsk"
+  },
+  {
+    "zip": 3246,
+    "city": "Mátraderecske"
+  },
+  {
+    "zip": 3247,
+    "city": "Mátraballa"
+  },
+  {
+    "zip": 3248,
+    "city": "Ivád"
+  },
+  {
+    "zip": 3250,
+    "city": "Pétervására"
+  },
+  {
+    "zip": 3252,
+    "city": "Erdőkövesd"
+  },
+  {
+    "zip": 3253,
+    "city": "Istenmezeje"
+  },
+  {
+    "zip": 3254,
+    "city": "Váraszó"
+  },
+  {
+    "zip": 3255,
+    "city": "Fedémes"
+  },
+  {
+    "zip": 3256,
+    "city": "Kisfüzes"
+  },
+  {
+    "zip": 3257,
+    "city": "Bükkszenterzsébet"
+  },
+  {
+    "zip": 3258,
+    "city": "Tarnalelesz"
+  },
+  {
+    "zip": 3259,
+    "city": "Szentdomonkos"
+  },
+  {
+    "zip": 3261,
+    "city": "Abasár"
+  },
+  {
+    "zip": 3261,
+    "city": "Pálosvörösmart"
+  },
+  {
+    "zip": 3262,
+    "city": "Markaz"
+  },
+  {
+    "zip": 3263,
+    "city": "Domoszló"
+  },
+  {
+    "zip": 3264,
+    "city": "Kisnána"
+  },
+  {
+    "zip": 3265,
+    "city": "Vécs"
+  },
+  {
+    "zip": 3271,
+    "city": "Visonta"
+  },
+  {
+    "zip": 3272,
+    "city": "Visonta",
+    "region": "Mátrai Erőmű"
+  },
+  {
+    "zip": 3273,
+    "city": "Halmajugra"
+  },
+  {
+    "zip": 3274,
+    "city": "Ludas"
+  },
+  {
+    "zip": 3275,
+    "city": "Detk"
+  },
+  {
+    "zip": 3281,
+    "city": "Karácsond"
+  },
+  {
+    "zip": 3282,
+    "city": "Nagyfüged"
+  },
+  {
+    "zip": 3283,
+    "city": "Tarnazsadány"
+  },
+  {
+    "zip": 3284,
+    "city": "Tarnaméra"
+  },
+  {
+    "zip": 3291,
+    "city": "Vámosgyörk"
+  },
+  {
+    "zip": 3292,
+    "city": "Adács"
+  },
+  {
+    "zip": 3293,
+    "city": "Visznek"
+  },
+  {
+    "zip": 3294,
+    "city": "Tarnaörs"
+  },
+  {
+    "zip": 3295,
+    "city": "Erk"
+  },
+  {
+    "zip": 3296,
+    "city": "Zaránk"
+  },
+  {
+    "zip": 3300,
+    "city": "Eger"
+  },
+  {
+    "zip": 3321,
+    "city": "Egerbakta"
+  },
+  {
+    "zip": 3322,
+    "city": "Hevesaranyos"
+  },
+  {
+    "zip": 3323,
+    "city": "Szarvaskő"
+  },
+  {
+    "zip": 3324,
+    "city": "Felsőtárkány"
+  },
+  {
+    "zip": 3325,
+    "city": "Noszvaj"
+  },
+  {
+    "zip": 3326,
+    "city": "Ostoros"
+  },
+  {
+    "zip": 3327,
+    "city": "Novaj"
+  },
+  {
+    "zip": 3328,
+    "city": "Egerszólát"
+  },
+  {
+    "zip": 3331,
+    "city": "Tarnaszentmária"
+  },
+  {
+    "zip": 3332,
+    "city": "Sirok"
+  },
+  {
+    "zip": 3333,
+    "city": "Terpes"
+  },
+  {
+    "zip": 3334,
+    "city": "Szajla"
+  },
+  {
+    "zip": 3335,
+    "city": "Bükkszék"
+  },
+  {
+    "zip": 3336,
+    "city": "Bátor"
+  },
+  {
+    "zip": 3337,
+    "city": "Egerbocs"
+  },
+  {
+    "zip": 3341,
+    "city": "Egercsehi"
+  },
+  {
+    "zip": 3341,
+    "city": "Szúcs"
+  },
+  {
+    "zip": 3343,
+    "city": "Bekölce"
+  },
+  {
+    "zip": 3344,
+    "city": "Mikófalva"
+  },
+  {
+    "zip": 3345,
+    "city": "Mónosbél"
+  },
+  {
+    "zip": 3346,
+    "city": "Bélapátfalva"
+  },
+  {
+    "zip": 3346,
+    "city": "Bükkszentmárton"
+  },
+  {
+    "zip": 3347,
+    "city": "Balaton"
+  },
+  {
+    "zip": 3348,
+    "city": "Szilvásvárad"
+  },
+  {
+    "zip": 3349,
+    "city": "Nagyvisnyó"
+  },
+  {
+    "zip": 3350,
+    "city": "Kál"
+  },
+  {
+    "zip": 3351,
+    "city": "Verpelét"
+  },
+  {
+    "zip": 3352,
+    "city": "Feldebrő"
+  },
+  {
+    "zip": 3353,
+    "city": "Aldebrő"
+  },
+  {
+    "zip": 3354,
+    "city": "Tófalu"
+  },
+  {
+    "zip": 3355,
+    "city": "Kápolna"
+  },
+  {
+    "zip": 3356,
+    "city": "Kompolt"
+  },
+  {
+    "zip": 3357,
+    "city": "Nagyút"
+  },
+  {
+    "zip": 3358,
+    "city": "Erdőtelek"
+  },
+  {
+    "zip": 3359,
+    "city": "Tenk"
+  },
+  {
+    "zip": 3360,
+    "city": "Heves"
+  },
+  {
+    "zip": 3368,
+    "city": "Boconád"
+  },
+  {
+    "zip": 3369,
+    "city": "Tarnabod"
+  },
+  {
+    "zip": 3371,
+    "city": "Átány"
+  },
+  {
+    "zip": 3372,
+    "city": "Kömlő"
+  },
+  {
+    "zip": 3373,
+    "city": "Besenyőtelek"
+  },
+  {
+    "zip": 3374,
+    "city": "Dormánd"
+  },
+  {
+    "zip": 3375,
+    "city": "Mezőtárkány"
+  },
+  {
+    "zip": 3377,
+    "city": "Szihalom"
+  },
+  {
+    "zip": 3378,
+    "city": "Mezőszemere"
+  },
+  {
+    "zip": 3379,
+    "city": "Egerfarmos"
+  },
+  {
+    "zip": 3381,
+    "city": "Pély"
+  },
+  {
+    "zip": 3382,
+    "city": "Tarnaszentmiklós"
+  },
+  {
+    "zip": 3383,
+    "city": "Hevesvezekény"
+  },
+  {
+    "zip": 3384,
+    "city": "Kisköre"
+  },
+  {
+    "zip": 3385,
+    "city": "Tiszanána"
+  },
+  {
+    "zip": 3386,
+    "city": "Sarud"
+  },
+  {
+    "zip": 3387,
+    "city": "Újlőrincfalva"
+  },
+  {
+    "zip": 3388,
+    "city": "Poroszló"
+  },
+  {
+    "zip": 3390,
+    "city": "Füzesabony"
+  },
+  {
+    "zip": 3394,
+    "city": "Egerszalók"
+  },
+  {
+    "zip": 3395,
+    "city": "Demjén"
+  },
+  {
+    "zip": 3396,
+    "city": "Kerecsend"
+  },
+  {
+    "zip": 3397,
+    "city": "Maklár"
+  },
+  {
+    "zip": 3398,
+    "city": "Nagytálya"
+  },
+  {
+    "zip": 3399,
+    "city": "Andornaktálya"
+  },
+  {
+    "zip": 3400,
+    "city": "Mezőkövesd"
+  },
+  {
+    "zip": 3411,
+    "city": "Szomolya"
+  },
+  {
+    "zip": 3412,
+    "city": "Bogács"
+  },
+  {
+    "zip": 3413,
+    "city": "Cserépfalu"
+  },
+  {
+    "zip": 3414,
+    "city": "Bükkzsérc"
+  },
+  {
+    "zip": 3416,
+    "city": "Tard"
+  },
+  {
+    "zip": 3417,
+    "city": "Cserépváralja"
+  },
+  {
+    "zip": 3418,
+    "city": "Szentistván"
+  },
+  {
+    "zip": 3421,
+    "city": "Mezőnyárád"
+  },
+  {
+    "zip": 3422,
+    "city": "Bükkábrány"
+  },
+  {
+    "zip": 3423,
+    "city": "Tibolddaróc"
+  },
+  {
+    "zip": 3424,
+    "city": "Kács"
+  },
+  {
+    "zip": 3425,
+    "city": "Sály"
+  },
+  {
+    "zip": 3426,
+    "city": "Borsodgeszt"
+  },
+  {
+    "zip": 3431,
+    "city": "Vatta"
+  },
+  {
+    "zip": 3432,
+    "city": "Emőd"
+  },
+  {
+    "zip": 3433,
+    "city": "Nyékládháza"
+  },
+  {
+    "zip": 3434,
+    "city": "Mályi"
+  },
+  {
+    "zip": 3441,
+    "city": "Mezőkeresztes"
+  },
+  {
+    "zip": 3442,
+    "city": "Csincse"
+  },
+  {
+    "zip": 3443,
+    "city": "Mezőnagymihály"
+  },
+  {
+    "zip": 3444,
+    "city": "Gelej"
+  },
+  {
+    "zip": 3450,
+    "city": "Mezőcsát"
+  },
+  {
+    "zip": 3458,
+    "city": "Tiszakeszi"
+  },
+  {
+    "zip": 3459,
+    "city": "Igrici"
+  },
+  {
+    "zip": 3461,
+    "city": "Egerlövő"
+  },
+  {
+    "zip": 3462,
+    "city": "Borsodivánka"
+  },
+  {
+    "zip": 3463,
+    "city": "Négyes"
+  },
+  {
+    "zip": 3464,
+    "city": "Tiszavalk"
+  },
+  {
+    "zip": 3465,
+    "city": "Tiszabábolna"
+  },
+  {
+    "zip": 3466,
+    "city": "Tiszadorogma"
+  },
+  {
+    "zip": 3467,
+    "city": "Ároktő"
+  },
+  {
+    "zip": 3500,
+    "city": "Miskolc*"
+  },
+  {
+    "zip": 3551,
+    "city": "Ónod"
+  },
+  {
+    "zip": 3552,
+    "city": "Muhi"
+  },
+  {
+    "zip": 3553,
+    "city": "Kistokaj"
+  },
+  {
+    "zip": 3554,
+    "city": "Bükkaranyos"
+  },
+  {
+    "zip": 3555,
+    "city": "Harsány"
+  },
+  {
+    "zip": 3556,
+    "city": "Kisgyőr"
+  },
+  {
+    "zip": 3557,
+    "city": "Bükkszentkereszt"
+  },
+  {
+    "zip": 3559,
+    "city": "Répáshuta"
+  },
+  {
+    "zip": 3561,
+    "city": "Felsőzsolca"
+  },
+  {
+    "zip": 3562,
+    "city": "Onga"
+  },
+  {
+    "zip": 3563,
+    "city": "Hernádkak"
+  },
+  {
+    "zip": 3564,
+    "city": "Hernádnémeti"
+  },
+  {
+    "zip": 3565,
+    "city": "Tiszalúc"
+  },
+  {
+    "zip": 3571,
+    "city": "Alsózsolca"
+  },
+  {
+    "zip": 3572,
+    "city": "Sajólád"
+  },
+  {
+    "zip": 3573,
+    "city": "Sajópetri"
+  },
+  {
+    "zip": 3574,
+    "city": "Bőcs"
+  },
+  {
+    "zip": 3575,
+    "city": "Berzék"
+  },
+  {
+    "zip": 3576,
+    "city": "Sajóhídvég"
+  },
+  {
+    "zip": 3577,
+    "city": "Köröm"
+  },
+  {
+    "zip": 3578,
+    "city": "Girincs"
+  },
+  {
+    "zip": 3578,
+    "city": "Kiscsécs"
+  },
+  {
+    "zip": 3579,
+    "city": "Kesznyéten"
+  },
+  {
+    "zip": 3580,
+    "city": "Tiszaújváros"
+  },
+  {
+    "zip": 3586,
+    "city": "Sajóörös"
+  },
+  {
+    "zip": 3587,
+    "city": "Tiszapalkonya"
+  },
+  {
+    "zip": 3588,
+    "city": "Hejőkürt"
+  },
+  {
+    "zip": 3589,
+    "city": "Tiszatarján"
+  },
+  {
+    "zip": 3591,
+    "city": "Oszlár"
+  },
+  {
+    "zip": 3592,
+    "city": "Nemesbikk"
+  },
+  {
+    "zip": 3593,
+    "city": "Hejőbába"
+  },
+  {
+    "zip": 3594,
+    "city": "Hejőpapi"
+  },
+  {
+    "zip": 3595,
+    "city": "Hejőszalonta"
+  },
+  {
+    "zip": 3596,
+    "city": "Szakáld"
+  },
+  {
+    "zip": 3597,
+    "city": "Hejőkeresztúr"
+  },
+  {
+    "zip": 3598,
+    "city": "Nagycsécs"
+  },
+  {
+    "zip": 3599,
+    "city": "Sajószöged"
+  },
+  {
+    "zip": 3600,
+    "city": "Ózd"
+  },
+  {
+    "zip": 3603,
+    "city": "Ózd",
+    "region": "Sajóvárkony"
+  },
+  {
+    "zip": 3604,
+    "city": "Ózd",
+    "region": "Bánszállás"
+  },
+  {
+    "zip": 3608,
+    "city": "Farkaslyuk"
+  },
+  {
+    "zip": 3621,
+    "city": "Ózd",
+    "region": "Uraj"
+  },
+  {
+    "zip": 3622,
+    "city": "Uppony"
+  },
+  {
+    "zip": 3623,
+    "city": "Borsodszentgyörgy"
+  },
+  {
+    "zip": 3625,
+    "city": "Ózd",
+    "region": "Szentsimon"
+  },
+  {
+    "zip": 3626,
+    "city": "Hangony"
+  },
+  {
+    "zip": 3627,
+    "city": "Domaháza"
+  },
+  {
+    "zip": 3627,
+    "city": "Kissikátor"
+  },
+  {
+    "zip": 3630,
+    "city": "Putnok"
+  },
+  {
+    "zip": 3635,
+    "city": "Dubicsány"
+  },
+  {
+    "zip": 3636,
+    "city": "Vadna"
+  },
+  {
+    "zip": 3636,
+    "city": "Sajógalgóc"
+  },
+  {
+    "zip": 3641,
+    "city": "Nagybarca"
+  },
+  {
+    "zip": 3642,
+    "city": "Bánhorváti"
+  },
+  {
+    "zip": 3643,
+    "city": "Dédestapolcsány"
+  },
+  {
+    "zip": 3644,
+    "city": "Tardona"
+  },
+  {
+    "zip": 3645,
+    "city": "Mályinka"
+  },
+  {
+    "zip": 3646,
+    "city": "Nekézseny"
+  },
+  {
+    "zip": 3647,
+    "city": "Csokvaomány"
+  },
+  {
+    "zip": 3648,
+    "city": "Csernely"
+  },
+  {
+    "zip": 3648,
+    "city": "Bükkmogyorósd"
+  },
+  {
+    "zip": 3648,
+    "city": "Lénárddaróc"
+  },
+  {
+    "zip": 3651,
+    "city": "Ózd",
+    "region": "Center"
+  },
+  {
+    "zip": 3652,
+    "city": "Sajónémeti"
+  },
+  {
+    "zip": 3653,
+    "city": "Sajópüspöki"
+  },
+  {
+    "zip": 3654,
+    "city": "Bánréve"
+  },
+  {
+    "zip": 3655,
+    "city": "Hét"
+  },
+  {
+    "zip": 3656,
+    "city": "Sajóvelezd"
+  },
+  {
+    "zip": 3656,
+    "city": "Sajómercse"
+  },
+  {
+    "zip": 3657,
+    "city": "Királd"
+  },
+  {
+    "zip": 3658,
+    "city": "Borsodbóta"
+  },
+  {
+    "zip": 3659,
+    "city": "Sáta"
+  },
+  {
+    "zip": 3661,
+    "city": "Ózd",
+    "region": "Hódoscsépány"
+  },
+  {
+    "zip": 3662,
+    "city": "Ózd",
+    "region": "Somsálybánya"
+  },
+  {
+    "zip": 3663,
+    "city": "Arló"
+  },
+  {
+    "zip": 3664,
+    "city": "Járdánháza"
+  },
+  {
+    "zip": 3671,
+    "city": "Borsodnádasd"
+  },
+  {
+    "zip": 3672,
+    "city": "Borsodnádasd",
+    "region": "Lemezgyár"
+  },
+  {
+    "zip": 3700,
+    "city": "Kazincbarcika"
+  },
+  {
+    "zip": 3704,
+    "city": "Berente"
+  },
+  {
+    "zip": 3711,
+    "city": "Szirmabesenyő"
+  },
+  {
+    "zip": 3712,
+    "city": "Sajóvámos"
+  },
+  {
+    "zip": 3712,
+    "city": "Sajósenye"
+  },
+  {
+    "zip": 3713,
+    "city": "Arnót"
+  },
+  {
+    "zip": 3714,
+    "city": "Sajópálfala"
+  },
+  {
+    "zip": 3715,
+    "city": "Gesztely"
+  },
+  {
+    "zip": 3716,
+    "city": "Újcsanálos"
+  },
+  {
+    "zip": 3716,
+    "city": "Sóstófalva"
+  },
+  {
+    "zip": 3717,
+    "city": "Alsódobsza"
+  },
+  {
+    "zip": 3718,
+    "city": "Megyaszó"
+  },
+  {
+    "zip": 3720,
+    "city": "Sajókaza"
+  },
+  {
+    "zip": 3720,
+    "city": "Sajóivánka"
+  },
+  {
+    "zip": 3721,
+    "city": "Felsőnyárád"
+  },
+  {
+    "zip": 3721,
+    "city": "Dövény"
+  },
+  {
+    "zip": 3721,
+    "city": "Jákfalva"
+  },
+  {
+    "zip": 3722,
+    "city": "Felsőkelecsény"
+  },
+  {
+    "zip": 3723,
+    "city": "Zubogy"
+  },
+  {
+    "zip": 3724,
+    "city": "Ragály"
+  },
+  {
+    "zip": 3724,
+    "city": "Trizs"
+  },
+  {
+    "zip": 3725,
+    "city": "Imola"
+  },
+  {
+    "zip": 3726,
+    "city": "Zádorfalva"
+  },
+  {
+    "zip": 3726,
+    "city": "Alsószuha"
+  },
+  {
+    "zip": 3726,
+    "city": "Szuhafő"
+  },
+  {
+    "zip": 3728,
+    "city": "Kelemér"
+  },
+  {
+    "zip": 3728,
+    "city": "Gömörszőlős"
+  },
+  {
+    "zip": 3729,
+    "city": "Serényfalva"
+  },
+  {
+    "zip": 3731,
+    "city": "Szuhakálló"
+  },
+  {
+    "zip": 3732,
+    "city": "Kurityán"
+  },
+  {
+    "zip": 3733,
+    "city": "Rudabánya"
+  },
+  {
+    "zip": 3734,
+    "city": "Szuhogy"
+  },
+  {
+    "zip": 3735,
+    "city": "Felsőtelekes"
+  },
+  {
+    "zip": 3735,
+    "city": "Alsótelekes"
+  },
+  {
+    "zip": 3735,
+    "city": "Kánó"
+  },
+  {
+    "zip": 3741,
+    "city": "Izsófalva"
+  },
+  {
+    "zip": 3742,
+    "city": "Rudolftelep"
+  },
+  {
+    "zip": 3743,
+    "city": "Ormosbánya"
+  },
+  {
+    "zip": 3744,
+    "city": "Múcsony"
+  },
+  {
+    "zip": 3751,
+    "city": "Szendrőlád"
+  },
+  {
+    "zip": 3752,
+    "city": "Szendrő"
+  },
+  {
+    "zip": 3752,
+    "city": "Galvács"
+  },
+  {
+    "zip": 3753,
+    "city": "Abod"
+  },
+  {
+    "zip": 3754,
+    "city": "Szalonna"
+  },
+  {
+    "zip": 3754,
+    "city": "Meszes"
+  },
+  {
+    "zip": 3755,
+    "city": "Martonyi"
+  },
+  {
+    "zip": 3756,
+    "city": "Perkupa"
+  },
+  {
+    "zip": 3756,
+    "city": "Varbóc"
+  },
+  {
+    "zip": 3757,
+    "city": "Szőlősardó"
+  },
+  {
+    "zip": 3757,
+    "city": "Égerszög"
+  },
+  {
+    "zip": 3757,
+    "city": "Teresztenye"
+  },
+  {
+    "zip": 3758,
+    "city": "Jósvafő"
+  },
+  {
+    "zip": 3759,
+    "city": "Aggtelek"
+  },
+  {
+    "zip": 3761,
+    "city": "Szin"
+  },
+  {
+    "zip": 3761,
+    "city": "Szinpetri"
+  },
+  {
+    "zip": 3761,
+    "city": "Tornakápolna"
+  },
+  {
+    "zip": 3762,
+    "city": "Szögliget"
+  },
+  {
+    "zip": 3763,
+    "city": "Bódvaszilas"
+  },
+  {
+    "zip": 3764,
+    "city": "Bódvarákó"
+  },
+  {
+    "zip": 3765,
+    "city": "Komjáti"
+  },
+  {
+    "zip": 3765,
+    "city": "Tornabarakony"
+  },
+  {
+    "zip": 3765,
+    "city": "Tornaszentandrás"
+  },
+  {
+    "zip": 3767,
+    "city": "Tornanádaska"
+  },
+  {
+    "zip": 3768,
+    "city": "Hidvégardó"
+  },
+  {
+    "zip": 3768,
+    "city": "Becskeháza"
+  },
+  {
+    "zip": 3768,
+    "city": "Bódvalenke"
+  },
+  {
+    "zip": 3769,
+    "city": "Tornaszentjakab"
+  },
+  {
+    "zip": 3770,
+    "city": "Sajószentpéter"
+  },
+  {
+    "zip": 3773,
+    "city": "Sajókápolna"
+  },
+  {
+    "zip": 3773,
+    "city": "Sajólászlófalva"
+  },
+  {
+    "zip": 3775,
+    "city": "Kondó"
+  },
+  {
+    "zip": 3776,
+    "city": "Radostyán"
+  },
+  {
+    "zip": 3777,
+    "city": "Parasznya"
+  },
+  {
+    "zip": 3778,
+    "city": "Varbó"
+  },
+  {
+    "zip": 3779,
+    "city": "Alacska"
+  },
+  {
+    "zip": 3780,
+    "city": "Edelény"
+  },
+  {
+    "zip": 3780,
+    "city": "Balajt"
+  },
+  {
+    "zip": 3780,
+    "city": "Damak"
+  },
+  {
+    "zip": 3780,
+    "city": "Ládbesenyő"
+  },
+  {
+    "zip": 3783,
+    "city": "Edelény",
+    "region": "Finke"
+  },
+  {
+    "zip": 3786,
+    "city": "Lak"
+  },
+  {
+    "zip": 3786,
+    "city": "Hegymeg"
+  },
+  {
+    "zip": 3786,
+    "city": "Irota"
+  },
+  {
+    "zip": 3786,
+    "city": "Szakácsi"
+  },
+  {
+    "zip": 3787,
+    "city": "Tomor"
+  },
+  {
+    "zip": 3791,
+    "city": "Sajókeresztúr"
+  },
+  {
+    "zip": 3792,
+    "city": "Sajóbábony"
+  },
+  {
+    "zip": 3793,
+    "city": "Sajóecseg"
+  },
+  {
+    "zip": 3794,
+    "city": "Boldva"
+  },
+  {
+    "zip": 3794,
+    "city": "Ziliz"
+  },
+  {
+    "zip": 3795,
+    "city": "Hangács"
+  },
+  {
+    "zip": 3795,
+    "city": "Nyomár"
+  },
+  {
+    "zip": 3796,
+    "city": "Borsodszirák"
+  },
+  {
+    "zip": 3800,
+    "city": "Szikszó"
+  },
+  {
+    "zip": 3809,
+    "city": "Selyeb"
+  },
+  {
+    "zip": 3809,
+    "city": "Abaújszolnok"
+  },
+  {
+    "zip": 3809,
+    "city": "Nyésta"
+  },
+  {
+    "zip": 3811,
+    "city": "Alsóvadász"
+  },
+  {
+    "zip": 3812,
+    "city": "Homrogd"
+  },
+  {
+    "zip": 3812,
+    "city": "Monaj"
+  },
+  {
+    "zip": 3813,
+    "city": "Kupa"
+  },
+  {
+    "zip": 3814,
+    "city": "Felsővadász"
+  },
+  {
+    "zip": 3815,
+    "city": "Gadna"
+  },
+  {
+    "zip": 3815,
+    "city": "Abaújlak"
+  },
+  {
+    "zip": 3816,
+    "city": "Gagyvendégi"
+  },
+  {
+    "zip": 3817,
+    "city": "Gagybátor"
+  },
+  {
+    "zip": 3821,
+    "city": "Krasznokvajda"
+  },
+  {
+    "zip": 3821,
+    "city": "Büttös"
+  },
+  {
+    "zip": 3821,
+    "city": "Kány"
+  },
+  {
+    "zip": 3821,
+    "city": "Keresztéte"
+  },
+  {
+    "zip": 3821,
+    "city": "Pamlény"
+  },
+  {
+    "zip": 3821,
+    "city": "Perecse"
+  },
+  {
+    "zip": 3821,
+    "city": "Szászfa"
+  },
+  {
+    "zip": 3825,
+    "city": "Rakaca"
+  },
+  {
+    "zip": 3825,
+    "city": "Debréte"
+  },
+  {
+    "zip": 3825,
+    "city": "Viszló"
+  },
+  {
+    "zip": 3826,
+    "city": "Rakacaszend"
+  },
+  {
+    "zip": 3831,
+    "city": "Kázsmárk"
+  },
+  {
+    "zip": 3832,
+    "city": "Léh"
+  },
+  {
+    "zip": 3833,
+    "city": "Rásonysápberencs"
+  },
+  {
+    "zip": 3834,
+    "city": "Detek"
+  },
+  {
+    "zip": 3834,
+    "city": "Beret"
+  },
+  {
+    "zip": 3836,
+    "city": "Baktakék"
+  },
+  {
+    "zip": 3837,
+    "city": "Felsőgagy"
+  },
+  {
+    "zip": 3837,
+    "city": "Alsógagy"
+  },
+  {
+    "zip": 3837,
+    "city": "Csenyéte"
+  },
+  {
+    "zip": 3837,
+    "city": "Gagyapáti"
+  },
+  {
+    "zip": 3841,
+    "city": "Aszaló"
+  },
+  {
+    "zip": 3842,
+    "city": "Halmaj"
+  },
+  {
+    "zip": 3843,
+    "city": "Kiskinizs"
+  },
+  {
+    "zip": 3844,
+    "city": "Nagykinizs"
+  },
+  {
+    "zip": 3844,
+    "city": "Szentistvánbaksa"
+  },
+  {
+    "zip": 3846,
+    "city": "Hernádkércs"
+  },
+  {
+    "zip": 3847,
+    "city": "Felsődobsza"
+  },
+  {
+    "zip": 3848,
+    "city": "Csobád"
+  },
+  {
+    "zip": 3849,
+    "city": "Forró"
+  },
+  {
+    "zip": 3851,
+    "city": "Ináncs"
+  },
+  {
+    "zip": 3852,
+    "city": "Hernádszentandrás"
+  },
+  {
+    "zip": 3853,
+    "city": "Pere"
+  },
+  {
+    "zip": 3853,
+    "city": "Hernádbűd"
+  },
+  {
+    "zip": 3854,
+    "city": "Gibárt"
+  },
+  {
+    "zip": 3855,
+    "city": "Fancsal"
+  },
+  {
+    "zip": 3860,
+    "city": "Encs"
+  },
+  {
+    "zip": 3863,
+    "city": "Szalaszend"
+  },
+  {
+    "zip": 3864,
+    "city": "Fulókércs"
+  },
+  {
+    "zip": 3865,
+    "city": "Fáj"
+  },
+  {
+    "zip": 3866,
+    "city": "Szemere"
+  },
+  {
+    "zip": 3866,
+    "city": "Litka"
+  },
+  {
+    "zip": 3871,
+    "city": "Méra"
+  },
+  {
+    "zip": 3872,
+    "city": "Novajidrány"
+  },
+  {
+    "zip": 3873,
+    "city": "Garadna"
+  },
+  {
+    "zip": 3874,
+    "city": "Hernádvécse"
+  },
+  {
+    "zip": 3874,
+    "city": "Hernádpetri"
+  },
+  {
+    "zip": 3874,
+    "city": "Pusztaradvány"
+  },
+  {
+    "zip": 3875,
+    "city": "Hernádszurdok"
+  },
+  {
+    "zip": 3876,
+    "city": "Hidasnémeti"
+  },
+  {
+    "zip": 3877,
+    "city": "Tornyosnémeti"
+  },
+  {
+    "zip": 3881,
+    "city": "Abaújszántó"
+  },
+  {
+    "zip": 3881,
+    "city": "Baskó"
+  },
+  {
+    "zip": 3881,
+    "city": "Sima"
+  },
+  {
+    "zip": 3882,
+    "city": "Abaújkér"
+  },
+  {
+    "zip": 3882,
+    "city": "Abaújalpár"
+  },
+  {
+    "zip": 3884,
+    "city": "Boldogkőújfalu"
+  },
+  {
+    "zip": 3885,
+    "city": "Boldogkőváralja"
+  },
+  {
+    "zip": 3885,
+    "city": "Arka"
+  },
+  {
+    "zip": 3886,
+    "city": "Korlát"
+  },
+  {
+    "zip": 3887,
+    "city": "Hernádcéce"
+  },
+  {
+    "zip": 3888,
+    "city": "Vizsoly"
+  },
+  {
+    "zip": 3891,
+    "city": "Vilmány"
+  },
+  {
+    "zip": 3892,
+    "city": "Hejce"
+  },
+  {
+    "zip": 3893,
+    "city": "Fony"
+  },
+  {
+    "zip": 3893,
+    "city": "Mogyoróska"
+  },
+  {
+    "zip": 3893,
+    "city": "Regéc"
+  },
+  {
+    "zip": 3894,
+    "city": "Göncruszka"
+  },
+  {
+    "zip": 3895,
+    "city": "Gönc"
+  },
+  {
+    "zip": 3896,
+    "city": "Telkibánya"
+  },
+  {
+    "zip": 3897,
+    "city": "Zsujta"
+  },
+  {
+    "zip": 3898,
+    "city": "Abaújvár"
+  },
+  {
+    "zip": 3898,
+    "city": "Pányok"
+  },
+  {
+    "zip": 3899,
+    "city": "Kéked"
+  },
+  {
+    "zip": 3900,
+    "city": "Szerencs"
+  },
+  {
+    "zip": 3902,
+    "city": "Szerencs",
+    "region": "Ond"
+  },
+  {
+    "zip": 3903,
+    "city": "Bekecs"
+  },
+  {
+    "zip": 3904,
+    "city": "Legyesbénye"
+  },
+  {
+    "zip": 3905,
+    "city": "Monok"
+  },
+  {
+    "zip": 3906,
+    "city": "Golop"
+  },
+  {
+    "zip": 3907,
+    "city": "Tállya"
+  },
+  {
+    "zip": 3908,
+    "city": "Rátka"
+  },
+  {
+    "zip": 3909,
+    "city": "Mád"
+  },
+  {
+    "zip": 3910,
+    "city": "Tokaj"
+  },
+  {
+    "zip": 3915,
+    "city": "Tarcal"
+  },
+  {
+    "zip": 3916,
+    "city": "Bodrogkeresztúr"
+  },
+  {
+    "zip": 3917,
+    "city": "Bodrogkisfalud"
+  },
+  {
+    "zip": 3918,
+    "city": "Szegi"
+  },
+  {
+    "zip": 3918,
+    "city": "Szegilong"
+  },
+  {
+    "zip": 3921,
+    "city": "Taktaszada"
+  },
+  {
+    "zip": 3922,
+    "city": "Taktaharkány"
+  },
+  {
+    "zip": 3923,
+    "city": "Gesztely",
+    "region": "Újharangod"
+  },
+  {
+    "zip": 3924,
+    "city": "Taktakenéz"
+  },
+  {
+    "zip": 3925,
+    "city": "Prügy"
+  },
+  {
+    "zip": 3926,
+    "city": "Taktabáj"
+  },
+  {
+    "zip": 3927,
+    "city": "Csobaj"
+  },
+  {
+    "zip": 3928,
+    "city": "Tiszatardos"
+  },
+  {
+    "zip": 3929,
+    "city": "Tiszaladány"
+  },
+  {
+    "zip": 3931,
+    "city": "Mezőzombor"
+  },
+  {
+    "zip": 3932,
+    "city": "Erdőbénye"
+  },
+  {
+    "zip": 3933,
+    "city": "Olaszliszka"
+  },
+  {
+    "zip": 3934,
+    "city": "Tolcsva"
+  },
+  {
+    "zip": 3935,
+    "city": "Erdőhorváti"
+  },
+  {
+    "zip": 3936,
+    "city": "Háromhuta"
+  },
+  {
+    "zip": 3937,
+    "city": "Komlóska"
+  },
+  {
+    "zip": 3941,
+    "city": "Vámosújfalu"
+  },
+  {
+    "zip": 3942,
+    "city": "Sárazsadány"
+  },
+  {
+    "zip": 3943,
+    "city": "Bodrogolaszi"
+  },
+  {
+    "zip": 3944,
+    "city": "Sátoraljaújhely",
+    "region": "Károlyfalva"
+  },
+  {
+    "zip": 3945,
+    "city": "Sátoraljaújhely",
+    "region": "Rudabányácska"
+  },
+  {
+    "zip": 3950,
+    "city": "Sárospatak"
+  },
+  {
+    "zip": 3954,
+    "city": "Györgytarló"
+  },
+  {
+    "zip": 3955,
+    "city": "Kenézlő"
+  },
+  {
+    "zip": 3956,
+    "city": "Viss"
+  },
+  {
+    "zip": 3957,
+    "city": "Zalkod"
+  },
+  {
+    "zip": 3958,
+    "city": "Hercegkút"
+  },
+  {
+    "zip": 3959,
+    "city": "Makkoshotyka"
+  },
+  {
+    "zip": 3961,
+    "city": "Vajdácska"
+  },
+  {
+    "zip": 3962,
+    "city": "Karos"
+  },
+  {
+    "zip": 3963,
+    "city": "Karcsa"
+  },
+  {
+    "zip": 3964,
+    "city": "Pácin"
+  },
+  {
+    "zip": 3965,
+    "city": "Nagyrozvágy"
+  },
+  {
+    "zip": 3965,
+    "city": "Kisrozvágy"
+  },
+  {
+    "zip": 3967,
+    "city": "Lácacséke"
+  },
+  {
+    "zip": 3971,
+    "city": "Tiszakarád"
+  },
+  {
+    "zip": 3972,
+    "city": "Tiszacsermely"
+  },
+  {
+    "zip": 3973,
+    "city": "Cigánd"
+  },
+  {
+    "zip": 3974,
+    "city": "Ricse"
+  },
+  {
+    "zip": 3974,
+    "city": "Semjén"
+  },
+  {
+    "zip": 3976,
+    "city": "Révleányvár"
+  },
+  {
+    "zip": 3977,
+    "city": "Zemplénagárd"
+  },
+  {
+    "zip": 3978,
+    "city": "Dámóc"
+  },
+  {
+    "zip": 3980,
+    "city": "Sátoraljaújhely"
+  },
+  {
+    "zip": 3985,
+    "city": "Alsóberecki"
+  },
+  {
+    "zip": 3985,
+    "city": "Felsőberecki"
+  },
+  {
+    "zip": 3987,
+    "city": "Bodroghalom"
+  },
+  {
+    "zip": 3988,
+    "city": "Sátoraljaújhely",
+    "region": "Széphalom"
+  },
+  {
+    "zip": 3989,
+    "city": "Mikóháza"
+  },
+  {
+    "zip": 3989,
+    "city": "Alsóregmec"
+  },
+  {
+    "zip": 3989,
+    "city": "Felsőregmec"
+  },
+  {
+    "zip": 3991,
+    "city": "Vilyvitány"
+  },
+  {
+    "zip": 3992,
+    "city": "Kovácsvágás"
+  },
+  {
+    "zip": 3992,
+    "city": "Vágáshuta"
+  },
+  {
+    "zip": 3993,
+    "city": "Füzérradvány"
+  },
+  {
+    "zip": 3994,
+    "city": "Pálháza"
+  },
+  {
+    "zip": 3994,
+    "city": "Bózsva"
+  },
+  {
+    "zip": 3994,
+    "city": "Filkeháza"
+  },
+  {
+    "zip": 3994,
+    "city": "Füzérkajata"
+  },
+  {
+    "zip": 3994,
+    "city": "Kishuta"
+  },
+  {
+    "zip": 3994,
+    "city": "Nagyhuta"
+  },
+  {
+    "zip": 3995,
+    "city": "Pusztafalu"
+  },
+  {
+    "zip": 3996,
+    "city": "Füzér"
+  },
+  {
+    "zip": 3997,
+    "city": "Füzérkomlós"
+  },
+  {
+    "zip": 3998,
+    "city": "Nyíri"
+  },
+  {
+    "zip": 3999,
+    "city": "Hollóháza"
+  },
+  {
+    "zip": 4000,
+    "city": "Debrecen*"
+  },
+  {
+    "zip": 4060,
+    "city": "Balmazújváros"
+  },
+  {
+    "zip": 4064,
+    "city": "Nagyhegyes"
+  },
+  {
+    "zip": 4065,
+    "city": "Újszentmargita"
+  },
+  {
+    "zip": 4066,
+    "city": "Tiszacsege"
+  },
+  {
+    "zip": 4067,
+    "city": "Egyek",
+    "region": "Telekháza"
+  },
+  {
+    "zip": 4069,
+    "city": "Egyek"
+  },
+  {
+    "zip": 4071,
+    "city": "Hortobágy"
+  },
+  {
+    "zip": 4074,
+    "city": "Hajdúböszörmény",
+    "region": "Nagypród"
+  },
+  {
+    "zip": 4075,
+    "city": "Görbeháza"
+  },
+  {
+    "zip": 4080,
+    "city": "Hajdúnánás"
+  },
+  {
+    "zip": 4085,
+    "city": "Hajdúnánás",
+    "region": "Tedej"
+  },
+  {
+    "zip": 4086,
+    "city": "Hajdúböszörmény",
+    "region": "Hajdúvid"
+  },
+  {
+    "zip": 4087,
+    "city": "Hajdúdorog"
+  },
+  {
+    "zip": 4090,
+    "city": "Polgár"
+  },
+  {
+    "zip": 4095,
+    "city": "Folyás"
+  },
+  {
+    "zip": 4096,
+    "city": "Újtikos"
+  },
+  {
+    "zip": 4097,
+    "city": "Tiszagyulaháza"
+  },
+  {
+    "zip": 4100,
+    "city": "Berettyóújfalu"
+  },
+  {
+    "zip": 4110,
+    "city": "Biharkeresztes"
+  },
+  {
+    "zip": 4114,
+    "city": "Bojt"
+  },
+  {
+    "zip": 4115,
+    "city": "Ártánd"
+  },
+  {
+    "zip": 4116,
+    "city": "Berekböszörmény"
+  },
+  {
+    "zip": 4117,
+    "city": "Told"
+  },
+  {
+    "zip": 4118,
+    "city": "Mezőpeterd"
+  },
+  {
+    "zip": 4119,
+    "city": "Váncsod"
+  },
+  {
+    "zip": 4121,
+    "city": "Szentpéterszeg"
+  },
+  {
+    "zip": 4122,
+    "city": "Gáborján"
+  },
+  {
+    "zip": 4123,
+    "city": "Hencida"
+  },
+  {
+    "zip": 4124,
+    "city": "Esztár"
+  },
+  {
+    "zip": 4125,
+    "city": "Pocsaj"
+  },
+  {
+    "zip": 4126,
+    "city": "Kismarja"
+  },
+  {
+    "zip": 4127,
+    "city": "Nagykereki"
+  },
+  {
+    "zip": 4128,
+    "city": "Bedő"
+  },
+  {
+    "zip": 4130,
+    "city": "Derecske"
+  },
+  {
+    "zip": 4132,
+    "city": "Tépe"
+  },
+  {
+    "zip": 4133,
+    "city": "Konyár"
+  },
+  {
+    "zip": 4134,
+    "city": "Mezősas"
+  },
+  {
+    "zip": 4135,
+    "city": "Körösszegapáti"
+  },
+  {
+    "zip": 4136,
+    "city": "Körösszakál"
+  },
+  {
+    "zip": 4137,
+    "city": "Magyarhomorog"
+  },
+  {
+    "zip": 4138,
+    "city": "Komádi"
+  },
+  {
+    "zip": 4141,
+    "city": "Furta"
+  },
+  {
+    "zip": 4142,
+    "city": "Zsáka"
+  },
+  {
+    "zip": 4143,
+    "city": "Vekerd"
+  },
+  {
+    "zip": 4144,
+    "city": "Darvas"
+  },
+  {
+    "zip": 4145,
+    "city": "Csökmő"
+  },
+  {
+    "zip": 4146,
+    "city": "Újiráz"
+  },
+  {
+    "zip": 4150,
+    "city": "Püspökladány"
+  },
+  {
+    "zip": 4161,
+    "city": "Báránd"
+  },
+  {
+    "zip": 4162,
+    "city": "Szerep",
+    "region": "Hosszúhát"
+  },
+  {
+    "zip": 4163,
+    "city": "Szerep"
+  },
+  {
+    "zip": 4164,
+    "city": "Bakonszeg"
+  },
+  {
+    "zip": 4171,
+    "city": "Sárrétudvari"
+  },
+  {
+    "zip": 4172,
+    "city": "Biharnagybajom"
+  },
+  {
+    "zip": 4173,
+    "city": "Nagyrábé"
+  },
+  {
+    "zip": 4174,
+    "city": "Bihartorda"
+  },
+  {
+    "zip": 4175,
+    "city": "Bihardancsháza"
+  },
+  {
+    "zip": 4176,
+    "city": "Sáp"
+  },
+  {
+    "zip": 4177,
+    "city": "Földes"
+  },
+  {
+    "zip": 4181,
+    "city": "Nádudvar"
+  },
+  {
+    "zip": 4183,
+    "city": "Kaba"
+  },
+  {
+    "zip": 4184,
+    "city": "Tetétlen"
+  },
+  {
+    "zip": 4200,
+    "city": "Hajdúszoboszló"
+  },
+  {
+    "zip": 4211,
+    "city": "Ebes"
+  },
+  {
+    "zip": 4212,
+    "city": "Hajdúszovát"
+  },
+  {
+    "zip": 4220,
+    "city": "Hajdúböszörmény"
+  },
+  {
+    "zip": 4224,
+    "city": "Hajdúböszörmény",
+    "region": "Bodaszőlő"
+  },
+  {
+    "zip": 4231,
+    "city": "Bököny"
+  },
+  {
+    "zip": 4232,
+    "city": "Geszteréd"
+  },
+  {
+    "zip": 4233,
+    "city": "Balkány"
+  },
+  {
+    "zip": 4234,
+    "city": "Szakoly"
+  },
+  {
+    "zip": 4235,
+    "city": "Biri"
+  },
+  {
+    "zip": 4241,
+    "city": "Bocskaikert"
+  },
+  {
+    "zip": 4242,
+    "city": "Hajdúhadház"
+  },
+  {
+    "zip": 4243,
+    "city": "Téglás"
+  },
+  {
+    "zip": 4244,
+    "city": "Újfehértó"
+  },
+  {
+    "zip": 4245,
+    "city": "Érpatak"
+  },
+  {
+    "zip": 4246,
+    "city": "Nyíregyháza",
+    "region": "Butykatelep"
+  },
+  {
+    "zip": 4251,
+    "city": "Hajdúsámson"
+  },
+  {
+    "zip": 4252,
+    "city": "Nyíradony",
+    "region": "Tamásipuszta"
+  },
+  {
+    "zip": 4253,
+    "city": "Nyíradony",
+    "region": "Aradványpuszta"
+  },
+  {
+    "zip": 4254,
+    "city": "Nyíradony"
+  },
+  {
+    "zip": 4262,
+    "city": "Nyíracsád"
+  },
+  {
+    "zip": 4263,
+    "city": "Nyírmártonfalva"
+  },
+  {
+    "zip": 4264,
+    "city": "Nyírábrány"
+  },
+  {
+    "zip": 4266,
+    "city": "Fülöp"
+  },
+  {
+    "zip": 4267,
+    "city": "Penészlek"
+  },
+  {
+    "zip": 4271,
+    "city": "Mikepércs"
+  },
+  {
+    "zip": 4272,
+    "city": "Sáránd"
+  },
+  {
+    "zip": 4273,
+    "city": "Hajdúbagos"
+  },
+  {
+    "zip": 4274,
+    "city": "Hosszúpályi"
+  },
+  {
+    "zip": 4275,
+    "city": "Monostorpályi"
+  },
+  {
+    "zip": 4281,
+    "city": "Létavértes",
+    "region": "Nagyléta"
+  },
+  {
+    "zip": 4283,
+    "city": "Létavértes",
+    "region": "Vértes"
+  },
+  {
+    "zip": 4284,
+    "city": "Kokad"
+  },
+  {
+    "zip": 4285,
+    "city": "Álmosd"
+  },
+  {
+    "zip": 4286,
+    "city": "Bagamér"
+  },
+  {
+    "zip": 4287,
+    "city": "Vámospércs"
+  },
+  {
+    "zip": 4288,
+    "city": "Újléta"
+  },
+  {
+    "zip": 4300,
+    "city": "Nyírbátor"
+  },
+  {
+    "zip": 4311,
+    "city": "Nyírgyulaj"
+  },
+  {
+    "zip": 4320,
+    "city": "Nagykálló"
+  },
+  {
+    "zip": 4324,
+    "city": "Kállósemjén"
+  },
+  {
+    "zip": 4325,
+    "city": "Kisléta"
+  },
+  {
+    "zip": 4326,
+    "city": "Máriapócs"
+  },
+  {
+    "zip": 4327,
+    "city": "Pócspetri"
+  },
+  {
+    "zip": 4331,
+    "city": "Nyírcsászári"
+  },
+  {
+    "zip": 4332,
+    "city": "Nyírderzs"
+  },
+  {
+    "zip": 4333,
+    "city": "Nyírkáta"
+  },
+  {
+    "zip": 4334,
+    "city": "Hodász"
+  },
+  {
+    "zip": 4335,
+    "city": "Kántorjánosi"
+  },
+  {
+    "zip": 4336,
+    "city": "Őr"
+  },
+  {
+    "zip": 4337,
+    "city": "Jármi"
+  },
+  {
+    "zip": 4338,
+    "city": "Papos"
+  },
+  {
+    "zip": 4341,
+    "city": "Nyírvasvári"
+  },
+  {
+    "zip": 4342,
+    "city": "Terem"
+  },
+  {
+    "zip": 4343,
+    "city": "Bátorliget"
+  },
+  {
+    "zip": 4351,
+    "city": "Vállaj"
+  },
+  {
+    "zip": 4352,
+    "city": "Mérk"
+  },
+  {
+    "zip": 4353,
+    "city": "Tiborszállás"
+  },
+  {
+    "zip": 4354,
+    "city": "Fábiánháza"
+  },
+  {
+    "zip": 4355,
+    "city": "Nagyecsed"
+  },
+  {
+    "zip": 4356,
+    "city": "Nyírcsaholy"
+  },
+  {
+    "zip": 4361,
+    "city": "Nyírbogát"
+  },
+  {
+    "zip": 4362,
+    "city": "Nyírgelse"
+  },
+  {
+    "zip": 4363,
+    "city": "Nyírmihálydi"
+  },
+  {
+    "zip": 4371,
+    "city": "Nyírlugos"
+  },
+  {
+    "zip": 4372,
+    "city": "Nyírbéltek"
+  },
+  {
+    "zip": 4373,
+    "city": "Ömböly"
+  },
+  {
+    "zip": 4374,
+    "city": "Encsencs"
+  },
+  {
+    "zip": 4375,
+    "city": "Piricse"
+  },
+  {
+    "zip": 4376,
+    "city": "Nyírpilis"
+  },
+  {
+    "zip": 4400,
+    "city": "Nyíregyháza"
+  },
+  {
+    "zip": 4405,
+    "city": "Nyíregyháza",
+    "region": "Borbánya"
+  },
+  {
+    "zip": 4431,
+    "city": "Nyíregyháza",
+    "region": "Sóstófürdő"
+  },
+  {
+    "zip": 4432,
+    "city": "Nyíregyháza",
+    "region": "Nyírszőlős"
+  },
+  {
+    "zip": 4433,
+    "city": "Nyíregyháza",
+    "region": "Felsősima"
+  },
+  {
+    "zip": 4434,
+    "city": "Kálmánháza"
+  },
+  {
+    "zip": 4440,
+    "city": "Tiszavasvári"
+  },
+  {
+    "zip": 4441,
+    "city": "Szorgalmatos"
+  },
+  {
+    "zip": 4445,
+    "city": "Nagycserkesz"
+  },
+  {
+    "zip": 4446,
+    "city": "Tiszaeszlár",
+    "region": "Bashalom"
+  },
+  {
+    "zip": 4447,
+    "city": "Tiszalök",
+    "region": "Kisfástanya"
+  },
+  {
+    "zip": 4450,
+    "city": "Tiszalök"
+  },
+  {
+    "zip": 4455,
+    "city": "Tiszadada"
+  },
+  {
+    "zip": 4456,
+    "city": "Tiszadob"
+  },
+  {
+    "zip": 4461,
+    "city": "Nyírtelek"
+  },
+  {
+    "zip": 4463,
+    "city": "Tiszanagyfalu"
+  },
+  {
+    "zip": 4464,
+    "city": "Tiszaeszlár"
+  },
+  {
+    "zip": 4465,
+    "city": "Rakamaz"
+  },
+  {
+    "zip": 4466,
+    "city": "Timár"
+  },
+  {
+    "zip": 4467,
+    "city": "Szabolcs"
+  },
+  {
+    "zip": 4468,
+    "city": "Balsa"
+  },
+  {
+    "zip": 4471,
+    "city": "Gávavencsellő",
+    "region": "Gáva"
+  },
+  {
+    "zip": 4472,
+    "city": "Gávavencsellő",
+    "region": "Vencsellő"
+  },
+  {
+    "zip": 4474,
+    "city": "Tiszabercel"
+  },
+  {
+    "zip": 4475,
+    "city": "Paszab"
+  },
+  {
+    "zip": 4481,
+    "city": "Nyíregyháza",
+    "region": "Sóstóhegy"
+  },
+  {
+    "zip": 4482,
+    "city": "Kótaj"
+  },
+  {
+    "zip": 4483,
+    "city": "Buj"
+  },
+  {
+    "zip": 4484,
+    "city": "Ibrány"
+  },
+  {
+    "zip": 4485,
+    "city": "Nagyhalász"
+  },
+  {
+    "zip": 4486,
+    "city": "Tiszatelek",
+    "region": "Kétérköz"
+  },
+  {
+    "zip": 4487,
+    "city": "Tiszatelek"
+  },
+  {
+    "zip": 4488,
+    "city": "Beszterec"
+  },
+  {
+    "zip": 4491,
+    "city": "Újdombrád"
+  },
+  {
+    "zip": 4492,
+    "city": "Dombrád"
+  },
+  {
+    "zip": 4493,
+    "city": "Tiszakanyár"
+  },
+  {
+    "zip": 4494,
+    "city": "Kékcse"
+  },
+  {
+    "zip": 4495,
+    "city": "Döge"
+  },
+  {
+    "zip": 4496,
+    "city": "Szabolcsveresmart"
+  },
+  {
+    "zip": 4501,
+    "city": "Kemecse"
+  },
+  {
+    "zip": 4502,
+    "city": "Vasmegyer"
+  },
+  {
+    "zip": 4503,
+    "city": "Tiszarád"
+  },
+  {
+    "zip": 4511,
+    "city": "Nyírbogdány"
+  },
+  {
+    "zip": 4515,
+    "city": "Kék"
+  },
+  {
+    "zip": 4516,
+    "city": "Demecser"
+  },
+  {
+    "zip": 4517,
+    "city": "Gégény"
+  },
+  {
+    "zip": 4521,
+    "city": "Berkesz"
+  },
+  {
+    "zip": 4522,
+    "city": "Nyírtass"
+  },
+  {
+    "zip": 4523,
+    "city": "Pátroha"
+  },
+  {
+    "zip": 4524,
+    "city": "Ajak"
+  },
+  {
+    "zip": 4525,
+    "city": "Rétközberencs"
+  },
+  {
+    "zip": 4531,
+    "city": "Nyírpazony"
+  },
+  {
+    "zip": 4532,
+    "city": "Nyírtura"
+  },
+  {
+    "zip": 4533,
+    "city": "Sényő"
+  },
+  {
+    "zip": 4534,
+    "city": "Székely"
+  },
+  {
+    "zip": 4535,
+    "city": "Nyíribrony"
+  },
+  {
+    "zip": 4536,
+    "city": "Ramocsaháza"
+  },
+  {
+    "zip": 4537,
+    "city": "Nyírkércs"
+  },
+  {
+    "zip": 4541,
+    "city": "Nyírjákó"
+  },
+  {
+    "zip": 4542,
+    "city": "Petneháza"
+  },
+  {
+    "zip": 4543,
+    "city": "Laskod"
+  },
+  {
+    "zip": 4544,
+    "city": "Nyírkarász"
+  },
+  {
+    "zip": 4545,
+    "city": "Gyulaháza"
+  },
+  {
+    "zip": 4546,
+    "city": "Anarcs"
+  },
+  {
+    "zip": 4547,
+    "city": "Szabolcsbáka"
+  },
+  {
+    "zip": 4551,
+    "city": "Nyíregyháza",
+    "region": "Oros"
+  },
+  {
+    "zip": 4552,
+    "city": "Napkor"
+  },
+  {
+    "zip": 4553,
+    "city": "Apagy"
+  },
+  {
+    "zip": 4554,
+    "city": "Nyírtét"
+  },
+  {
+    "zip": 4555,
+    "city": "Levelek"
+  },
+  {
+    "zip": 4556,
+    "city": "Magy"
+  },
+  {
+    "zip": 4557,
+    "city": "Besenyőd"
+  },
+  {
+    "zip": 4558,
+    "city": "Ófehértó"
+  },
+  {
+    "zip": 4561,
+    "city": "Baktalórántháza"
+  },
+  {
+    "zip": 4562,
+    "city": "Vaja"
+  },
+  {
+    "zip": 4563,
+    "city": "Rohod"
+  },
+  {
+    "zip": 4564,
+    "city": "Nyírmada"
+  },
+  {
+    "zip": 4565,
+    "city": "Pusztadobos"
+  },
+  {
+    "zip": 4566,
+    "city": "Ilk"
+  },
+  {
+    "zip": 4567,
+    "city": "Gemzse"
+  },
+  {
+    "zip": 4600,
+    "city": "Kisvárda"
+  },
+  {
+    "zip": 4611,
+    "city": "Jéke"
+  },
+  {
+    "zip": 4621,
+    "city": "Fényeslitke"
+  },
+  {
+    "zip": 4622,
+    "city": "Komoró"
+  },
+  {
+    "zip": 4623,
+    "city": "Tuzsér"
+  },
+  {
+    "zip": 4624,
+    "city": "Tiszabezdéd"
+  },
+  {
+    "zip": 4625,
+    "city": "Záhony"
+  },
+  {
+    "zip": 4625,
+    "city": "Győröcske"
+  },
+  {
+    "zip": 4627,
+    "city": "Zsurk"
+  },
+  {
+    "zip": 4628,
+    "city": "Tiszaszentmárton"
+  },
+  {
+    "zip": 4631,
+    "city": "Pap"
+  },
+  {
+    "zip": 4632,
+    "city": "Nyírlövő"
+  },
+  {
+    "zip": 4633,
+    "city": "Lövőpetri"
+  },
+  {
+    "zip": 4634,
+    "city": "Aranyosapáti"
+  },
+  {
+    "zip": 4635,
+    "city": "Újkenéz"
+  },
+  {
+    "zip": 4641,
+    "city": "Mezőladány"
+  },
+  {
+    "zip": 4642,
+    "city": "Tornyospálca"
+  },
+  {
+    "zip": 4643,
+    "city": "Benk"
+  },
+  {
+    "zip": 4644,
+    "city": "Mándok"
+  },
+  {
+    "zip": 4645,
+    "city": "Tiszamogyorós"
+  },
+  {
+    "zip": 4646,
+    "city": "Eperjeske"
+  },
+  {
+    "zip": 4700,
+    "city": "Mátészalka"
+  },
+  {
+    "zip": 4721,
+    "city": "Szamoskér"
+  },
+  {
+    "zip": 4722,
+    "city": "Nyírmeggyes"
+  },
+  {
+    "zip": 4731,
+    "city": "Tunyogmatolcs"
+  },
+  {
+    "zip": 4732,
+    "city": "Cégénydányád"
+  },
+  {
+    "zip": 4733,
+    "city": "Gyügye"
+  },
+  {
+    "zip": 4734,
+    "city": "Szamosújlak"
+  },
+  {
+    "zip": 4735,
+    "city": "Szamossályi"
+  },
+  {
+    "zip": 4735,
+    "city": "Hermánszeg"
+  },
+  {
+    "zip": 4737,
+    "city": "Kisnamény"
+  },
+  {
+    "zip": 4737,
+    "city": "Darnó"
+  },
+  {
+    "zip": 4741,
+    "city": "Jánkmajtis"
+  },
+  {
+    "zip": 4742,
+    "city": "Csegöld"
+  },
+  {
+    "zip": 4743,
+    "city": "Csengersima"
+  },
+  {
+    "zip": 4745,
+    "city": "Szamosbecs"
+  },
+  {
+    "zip": 4746,
+    "city": "Szamostatárfalva"
+  },
+  {
+    "zip": 4751,
+    "city": "Kocsord"
+  },
+  {
+    "zip": 4752,
+    "city": "Győrtelek"
+  },
+  {
+    "zip": 4754,
+    "city": "Géberjén"
+  },
+  {
+    "zip": 4754,
+    "city": "Fülpösdaróc"
+  },
+  {
+    "zip": 4755,
+    "city": "Ököritófülpös"
+  },
+  {
+    "zip": 4756,
+    "city": "Rápolt"
+  },
+  {
+    "zip": 4761,
+    "city": "Porcsalma"
+  },
+  {
+    "zip": 4762,
+    "city": "Tyukod"
+  },
+  {
+    "zip": 4763,
+    "city": "Ura"
+  },
+  {
+    "zip": 4764,
+    "city": "Csengerújfalu"
+  },
+  {
+    "zip": 4765,
+    "city": "Csenger"
+  },
+  {
+    "zip": 4765,
+    "city": "Komlódtótfalu"
+  },
+  {
+    "zip": 4766,
+    "city": "Pátyod"
+  },
+  {
+    "zip": 4767,
+    "city": "Szamosangyalos"
+  },
+  {
+    "zip": 4800,
+    "city": "Vásárosnamény"
+  },
+  {
+    "zip": 4803,
+    "city": "Vásárosnamény",
+    "region": "Gergelyiugornya"
+  },
+  {
+    "zip": 4804,
+    "city": "Vásárosnamény",
+    "region": "Vitka"
+  },
+  {
+    "zip": 4811,
+    "city": "Kisvarsány"
+  },
+  {
+    "zip": 4812,
+    "city": "Nagyvarsány"
+  },
+  {
+    "zip": 4813,
+    "city": "Gyüre"
+  },
+  {
+    "zip": 4821,
+    "city": "Ópályi"
+  },
+  {
+    "zip": 4822,
+    "city": "Nyírparasznya"
+  },
+  {
+    "zip": 4823,
+    "city": "Nagydobos"
+  },
+  {
+    "zip": 4824,
+    "city": "Szamosszeg"
+  },
+  {
+    "zip": 4826,
+    "city": "Olcsva"
+  },
+  {
+    "zip": 4831,
+    "city": "Tiszaszalka"
+  },
+  {
+    "zip": 4832,
+    "city": "Tiszavid"
+  },
+  {
+    "zip": 4833,
+    "city": "Tiszaadony"
+  },
+  {
+    "zip": 4834,
+    "city": "Tiszakerecseny"
+  },
+  {
+    "zip": 4835,
+    "city": "Mátyus"
+  },
+  {
+    "zip": 4836,
+    "city": "Lónya"
+  },
+  {
+    "zip": 4841,
+    "city": "Jánd"
+  },
+  {
+    "zip": 4842,
+    "city": "Gulács"
+  },
+  {
+    "zip": 4843,
+    "city": "Hetefejércse"
+  },
+  {
+    "zip": 4844,
+    "city": "Csaroda"
+  },
+  {
+    "zip": 4845,
+    "city": "Tákos"
+  },
+  {
+    "zip": 4900,
+    "city": "Fehérgyarmat"
+  },
+  {
+    "zip": 4911,
+    "city": "Nábrád"
+  },
+  {
+    "zip": 4912,
+    "city": "Kérsemjén"
+  },
+  {
+    "zip": 4913,
+    "city": "Panyola"
+  },
+  {
+    "zip": 4914,
+    "city": "Olcsvaapáti"
+  },
+  {
+    "zip": 4921,
+    "city": "Kisar"
+  },
+  {
+    "zip": 4921,
+    "city": "Tivadar"
+  },
+  {
+    "zip": 4922,
+    "city": "Nagyar"
+  },
+  {
+    "zip": 4931,
+    "city": "Tarpa"
+  },
+  {
+    "zip": 4932,
+    "city": "Márokpapi"
+  },
+  {
+    "zip": 4933,
+    "city": "Beregsurány"
+  },
+  {
+    "zip": 4934,
+    "city": "Beregdaróc"
+  },
+  {
+    "zip": 4935,
+    "city": "Gelénes"
+  },
+  {
+    "zip": 4936,
+    "city": "Vámosatya"
+  },
+  {
+    "zip": 4937,
+    "city": "Barabás"
+  },
+  {
+    "zip": 4941,
+    "city": "Penyige"
+  },
+  {
+    "zip": 4942,
+    "city": "Mánd"
+  },
+  {
+    "zip": 4942,
+    "city": "Nemesborzova"
+  },
+  {
+    "zip": 4943,
+    "city": "Kömörő"
+  },
+  {
+    "zip": 4944,
+    "city": "Túristvándi"
+  },
+  {
+    "zip": 4945,
+    "city": "Szatmárcseke"
+  },
+  {
+    "zip": 4946,
+    "city": "Tiszakóród"
+  },
+  {
+    "zip": 4947,
+    "city": "Tiszacsécse"
+  },
+  {
+    "zip": 4948,
+    "city": "Milota"
+  },
+  {
+    "zip": 4951,
+    "city": "Tiszabecs"
+  },
+  {
+    "zip": 4952,
+    "city": "Uszka"
+  },
+  {
+    "zip": 4953,
+    "city": "Magosliget"
+  },
+  {
+    "zip": 4954,
+    "city": "Sonkád"
+  },
+  {
+    "zip": 4955,
+    "city": "Botpalád"
+  },
+  {
+    "zip": 4956,
+    "city": "Kispalád"
+  },
+  {
+    "zip": 4961,
+    "city": "Zsarolyán"
+  },
+  {
+    "zip": 4962,
+    "city": "Nagyszekeres"
+  },
+  {
+    "zip": 4963,
+    "city": "Kisszekeres"
+  },
+  {
+    "zip": 4964,
+    "city": "Fülesd"
+  },
+  {
+    "zip": 4965,
+    "city": "Kölcse"
+  },
+  {
+    "zip": 4966,
+    "city": "Vámosoroszi"
+  },
+  {
+    "zip": 4967,
+    "city": "Csaholc"
+  },
+  {
+    "zip": 4968,
+    "city": "Túrricse"
+  },
+  {
+    "zip": 4969,
+    "city": "Tisztaberek"
+  },
+  {
+    "zip": 4971,
+    "city": "Rozsály"
+  },
+  {
+    "zip": 4972,
+    "city": "Gacsály"
+  },
+  {
+    "zip": 4973,
+    "city": "Császló"
+  },
+  {
+    "zip": 4974,
+    "city": "Zajta"
+  },
+  {
+    "zip": 4975,
+    "city": "Méhtelek"
+  },
+  {
+    "zip": 4976,
+    "city": "Garbolc"
+  },
+  {
+    "zip": 4977,
+    "city": "Nagyhódos"
+  },
+  {
+    "zip": 4977,
+    "city": "Kishódos"
+  },
+  {
+    "zip": 5000,
+    "city": "Szolnok"
+  },
+  {
+    "zip": 5008,
+    "city": "Szolnok",
+    "region": "Szandaszőlős"
+  },
+  {
+    "zip": 5051,
+    "city": "Zagyvarékas"
+  },
+  {
+    "zip": 5052,
+    "city": "Újszász"
+  },
+  {
+    "zip": 5053,
+    "city": "Szászberek"
+  },
+  {
+    "zip": 5054,
+    "city": "Jászalsószentgyörgy"
+  },
+  {
+    "zip": 5055,
+    "city": "Jászladány"
+  },
+  {
+    "zip": 5061,
+    "city": "Tiszasüly"
+  },
+  {
+    "zip": 5062,
+    "city": "Kőtelek"
+  },
+  {
+    "zip": 5063,
+    "city": "Hunyadfalva"
+  },
+  {
+    "zip": 5064,
+    "city": "Csataszög"
+  },
+  {
+    "zip": 5065,
+    "city": "Nagykörű"
+  },
+  {
+    "zip": 5071,
+    "city": "Besenyszög"
+  },
+  {
+    "zip": 5081,
+    "city": "Szajol"
+  },
+  {
+    "zip": 5082,
+    "city": "Tiszatenyő"
+  },
+  {
+    "zip": 5083,
+    "city": "Kengyel"
+  },
+  {
+    "zip": 5084,
+    "city": "Rákócziújfalu"
+  },
+  {
+    "zip": 5085,
+    "city": "Rákóczifalva"
+  },
+  {
+    "zip": 5091,
+    "city": "Tószeg"
+  },
+  {
+    "zip": 5092,
+    "city": "Tiszavárkony"
+  },
+  {
+    "zip": 5093,
+    "city": "Vezseny"
+  },
+  {
+    "zip": 5094,
+    "city": "Tiszajenő"
+  },
+  {
+    "zip": 5095,
+    "city": "Tiszavárkony",
+    "region": "Tiszavárkonyi Szőlők"
+  },
+  {
+    "zip": 5100,
+    "city": "Jászberény"
+  },
+  {
+    "zip": 5111,
+    "city": "Jászfelsőszentgyörgy"
+  },
+  {
+    "zip": 5121,
+    "city": "Jászjákóhalma"
+  },
+  {
+    "zip": 5122,
+    "city": "Jászdózsa"
+  },
+  {
+    "zip": 5123,
+    "city": "Jászárokszállás"
+  },
+  {
+    "zip": 5124,
+    "city": "Jászágó"
+  },
+  {
+    "zip": 5125,
+    "city": "Pusztamonostor"
+  },
+  {
+    "zip": 5126,
+    "city": "Jászfényszaru"
+  },
+  {
+    "zip": 5130,
+    "city": "Jászapáti"
+  },
+  {
+    "zip": 5135,
+    "city": "Jászivány"
+  },
+  {
+    "zip": 5136,
+    "city": "Jászszentandrás"
+  },
+  {
+    "zip": 5137,
+    "city": "Jászkisér"
+  },
+  {
+    "zip": 5141,
+    "city": "Jásztelek"
+  },
+  {
+    "zip": 5142,
+    "city": "Alattyán"
+  },
+  {
+    "zip": 5143,
+    "city": "Jánoshida"
+  },
+  {
+    "zip": 5144,
+    "city": "Jászboldogháza"
+  },
+  {
+    "zip": 5152,
+    "city": "Jászberény",
+    "region": "Portelek"
+  },
+  {
+    "zip": 5200,
+    "city": "Törökszentmiklós"
+  },
+  {
+    "zip": 5211,
+    "city": "Tiszapüspöki"
+  },
+  {
+    "zip": 5212,
+    "city": "Törökszentmiklós",
+    "region": "Surjány"
+  },
+  {
+    "zip": 5213,
+    "city": "Fegyvernek",
+    "region": "Szapárfalu"
+  },
+  {
+    "zip": 5222,
+    "city": "Örményes"
+  },
+  {
+    "zip": 5231,
+    "city": "Fegyvernek"
+  },
+  {
+    "zip": 5232,
+    "city": "Tiszabő"
+  },
+  {
+    "zip": 5233,
+    "city": "Tiszagyenda"
+  },
+  {
+    "zip": 5234,
+    "city": "Tiszaroff"
+  },
+  {
+    "zip": 5235,
+    "city": "Tiszabura"
+  },
+  {
+    "zip": 5241,
+    "city": "Abádszalók"
+  },
+  {
+    "zip": 5243,
+    "city": "Tiszaderzs"
+  },
+  {
+    "zip": 5244,
+    "city": "Tiszaszőlős"
+  },
+  {
+    "zip": 5300,
+    "city": "Karcag"
+  },
+  {
+    "zip": 5309,
+    "city": "Berekfürdő"
+  },
+  {
+    "zip": 5310,
+    "city": "Kisújszállás"
+  },
+  {
+    "zip": 5321,
+    "city": "Kunmadaras"
+  },
+  {
+    "zip": 5322,
+    "city": "Tiszaszentimre"
+  },
+  {
+    "zip": 5323,
+    "city": "Tiszaszentimre",
+    "region": "Újszentgyörgy"
+  },
+  {
+    "zip": 5324,
+    "city": "Tomajmonostora"
+  },
+  {
+    "zip": 5331,
+    "city": "Kenderes"
+  },
+  {
+    "zip": 5340,
+    "city": "Kunhegyes"
+  },
+  {
+    "zip": 5349,
+    "city": "Kenderes",
+    "region": "Bánhalma"
+  },
+  {
+    "zip": 5350,
+    "city": "Tiszafüred"
+  },
+  {
+    "zip": 5358,
+    "city": "Tiszafüred",
+    "region": "Tiszaörvény"
+  },
+  {
+    "zip": 5359,
+    "city": "Tiszafüred",
+    "region": "Kócsújfalu"
+  },
+  {
+    "zip": 5361,
+    "city": "Tiszaigar"
+  },
+  {
+    "zip": 5362,
+    "city": "Tiszaörs"
+  },
+  {
+    "zip": 5363,
+    "city": "Nagyiván"
+  },
+  {
+    "zip": 5400,
+    "city": "Mezőtúr"
+  },
+  {
+    "zip": 5411,
+    "city": "Kétpó"
+  },
+  {
+    "zip": 5412,
+    "city": "Kuncsorba"
+  },
+  {
+    "zip": 5420,
+    "city": "Túrkeve"
+  },
+  {
+    "zip": 5430,
+    "city": "Tiszaföldvár"
+  },
+  {
+    "zip": 5435,
+    "city": "Martfű"
+  },
+  {
+    "zip": 5440,
+    "city": "Kunszentmárton"
+  },
+  {
+    "zip": 5449,
+    "city": "Kunszentmárton",
+    "region": "Kungyalu"
+  },
+  {
+    "zip": 5451,
+    "city": "Öcsöd"
+  },
+  {
+    "zip": 5452,
+    "city": "Mesterszállás"
+  },
+  {
+    "zip": 5453,
+    "city": "Mezőhék"
+  },
+  {
+    "zip": 5461,
+    "city": "Tiszaföldvár",
+    "region": "Homok"
+  },
+  {
+    "zip": 5462,
+    "city": "Cibakháza"
+  },
+  {
+    "zip": 5463,
+    "city": "Nagyrév"
+  },
+  {
+    "zip": 5464,
+    "city": "Tiszainoka"
+  },
+  {
+    "zip": 5465,
+    "city": "Cserkeszőlő"
+  },
+  {
+    "zip": 5471,
+    "city": "Tiszakürt"
+  },
+  {
+    "zip": 5474,
+    "city": "Tiszasas"
+  },
+  {
+    "zip": 5475,
+    "city": "Csépa"
+  },
+  {
+    "zip": 5476,
+    "city": "Szelevény"
+  },
+  {
+    "zip": 5500,
+    "city": "Gyomaendrőd",
+    "region": "Gyoma"
+  },
+  {
+    "zip": 5502,
+    "city": "Gyomaendrőd",
+    "region": "Endrőd"
+  },
+  {
+    "zip": 5510,
+    "city": "Dévaványa"
+  },
+  {
+    "zip": 5515,
+    "city": "Ecsegfalva"
+  },
+  {
+    "zip": 5516,
+    "city": "Körösladány"
+  },
+  {
+    "zip": 5520,
+    "city": "Szeghalom"
+  },
+  {
+    "zip": 5525,
+    "city": "Füzesgyarmat"
+  },
+  {
+    "zip": 5526,
+    "city": "Kertészsziget"
+  },
+  {
+    "zip": 5527,
+    "city": "Bucsa"
+  },
+  {
+    "zip": 5530,
+    "city": "Vésztő"
+  },
+  {
+    "zip": 5534,
+    "city": "Okány"
+  },
+  {
+    "zip": 5536,
+    "city": "Körösújfalu"
+  },
+  {
+    "zip": 5537,
+    "city": "Zsadány"
+  },
+  {
+    "zip": 5538,
+    "city": "Biharugra"
+  },
+  {
+    "zip": 5539,
+    "city": "Körösnagyharsány"
+  },
+  {
+    "zip": 5540,
+    "city": "Szarvas"
+  },
+  {
+    "zip": 5551,
+    "city": "Csabacsűd"
+  },
+  {
+    "zip": 5552,
+    "city": "Kardos"
+  },
+  {
+    "zip": 5553,
+    "city": "Kondoros"
+  },
+  {
+    "zip": 5555,
+    "city": "Hunya"
+  },
+  {
+    "zip": 5556,
+    "city": "Örménykút"
+  },
+  {
+    "zip": 5561,
+    "city": "Békésszentandrás"
+  },
+  {
+    "zip": 5600,
+    "city": "Békéscsaba"
+  },
+  {
+    "zip": 5609,
+    "city": "Csabaszabadi"
+  },
+  {
+    "zip": 5621,
+    "city": "Csárdaszállás"
+  },
+  {
+    "zip": 5622,
+    "city": "Köröstarcsa"
+  },
+  {
+    "zip": 5623,
+    "city": "Békéscsaba",
+    "region": "Gerla"
+  },
+  {
+    "zip": 5624,
+    "city": "Doboz"
+  },
+  {
+    "zip": 5630,
+    "city": "Békés"
+  },
+  {
+    "zip": 5641,
+    "city": "Tarhos"
+  },
+  {
+    "zip": 5643,
+    "city": "Bélmegyer"
+  },
+  {
+    "zip": 5650,
+    "city": "Mezőberény"
+  },
+  {
+    "zip": 5661,
+    "city": "Újkígyós"
+  },
+  {
+    "zip": 5662,
+    "city": "Csanádapáca"
+  },
+  {
+    "zip": 5663,
+    "city": "Medgyesbodzás"
+  },
+  {
+    "zip": 5664,
+    "city": "Medgyesbodzás",
+    "region": "Gábortelep"
+  },
+  {
+    "zip": 5665,
+    "city": "Pusztaottlaka"
+  },
+  {
+    "zip": 5666,
+    "city": "Medgyesegyháza"
+  },
+  {
+    "zip": 5667,
+    "city": "Magyarbánhegyes"
+  },
+  {
+    "zip": 5668,
+    "city": "Nagybánhegyes"
+  },
+  {
+    "zip": 5671,
+    "city": "Békéscsaba",
+    "region": "Mezőmegyer"
+  },
+  {
+    "zip": 5672,
+    "city": "Murony"
+  },
+  {
+    "zip": 5673,
+    "city": "Kamut"
+  },
+  {
+    "zip": 5674,
+    "city": "Kétsoprony"
+  },
+  {
+    "zip": 5675,
+    "city": "Telekgerendás"
+  },
+  {
+    "zip": 5700,
+    "city": "Gyula"
+  },
+  {
+    "zip": 5711,
+    "city": "Gyula",
+    "region": "Gyulavári"
+  },
+  {
+    "zip": 5712,
+    "city": "Szabadkígyós"
+  },
+  {
+    "zip": 5720,
+    "city": "Sarkad"
+  },
+  {
+    "zip": 5725,
+    "city": "Kötegyán"
+  },
+  {
+    "zip": 5726,
+    "city": "Méhkerék"
+  },
+  {
+    "zip": 5727,
+    "city": "Újszalonta"
+  },
+  {
+    "zip": 5731,
+    "city": "Sarkadkeresztúr"
+  },
+  {
+    "zip": 5732,
+    "city": "Mezőgyán"
+  },
+  {
+    "zip": 5734,
+    "city": "Geszt"
+  },
+  {
+    "zip": 5741,
+    "city": "Kétegyháza"
+  },
+  {
+    "zip": 5742,
+    "city": "Elek"
+  },
+  {
+    "zip": 5743,
+    "city": "Lőkösháza"
+  },
+  {
+    "zip": 5744,
+    "city": "Kevermes"
+  },
+  {
+    "zip": 5745,
+    "city": "Dombiratos"
+  },
+  {
+    "zip": 5746,
+    "city": "Kunágota"
+  },
+  {
+    "zip": 5747,
+    "city": "Almáskamarás"
+  },
+  {
+    "zip": 5751,
+    "city": "Nagykamarás"
+  },
+  {
+    "zip": 5752,
+    "city": "Medgyesegyháza",
+    "region": "Bánkút"
+  },
+  {
+    "zip": 5800,
+    "city": "Mezőkovácsháza"
+  },
+  {
+    "zip": 5811,
+    "city": "Végegyháza"
+  },
+  {
+    "zip": 5820,
+    "city": "Mezőhegyes"
+  },
+  {
+    "zip": 5830,
+    "city": "Battonya"
+  },
+  {
+    "zip": 5836,
+    "city": "Dombegyház"
+  },
+  {
+    "zip": 5837,
+    "city": "Kisdombegyház"
+  },
+  {
+    "zip": 5838,
+    "city": "Magyardombegyház"
+  },
+  {
+    "zip": 5900,
+    "city": "Orosháza"
+  },
+  {
+    "zip": 5903,
+    "city": "Orosháza",
+    "region": "Rákóczitelep"
+  },
+  {
+    "zip": 5904,
+    "city": "Orosháza",
+    "region": "Gyopárosfürdő"
+  },
+  {
+    "zip": 5905,
+    "city": "Orosháza",
+    "region": "Szentetornya"
+  },
+  {
+    "zip": 5919,
+    "city": "Pusztaföldvár"
+  },
+  {
+    "zip": 5920,
+    "city": "Csorvás"
+  },
+  {
+    "zip": 5925,
+    "city": "Gerendás"
+  },
+  {
+    "zip": 5931,
+    "city": "Nagyszénás"
+  },
+  {
+    "zip": 5932,
+    "city": "Gádoros"
+  },
+  {
+    "zip": 5940,
+    "city": "Tótkomlós"
+  },
+  {
+    "zip": 5945,
+    "city": "Kardoskút"
+  },
+  {
+    "zip": 5946,
+    "city": "Békéssámson"
+  },
+  {
+    "zip": 5948,
+    "city": "Kaszaper"
+  },
+  {
+    "zip": 6000,
+    "city": "Kecskemét"
+  },
+  {
+    "zip": 6008,
+    "city": "Kecskemét",
+    "region": "Méntelek"
+  },
+  {
+    "zip": 6031,
+    "city": "Szentkirály"
+  },
+  {
+    "zip": 6032,
+    "city": "Nyárlőrinc"
+  },
+  {
+    "zip": 6033,
+    "city": "Városföld"
+  },
+  {
+    "zip": 6034,
+    "city": "Helvécia"
+  },
+  {
+    "zip": 6035,
+    "city": "Ballószög"
+  },
+  {
+    "zip": 6041,
+    "city": "Kerekegyháza"
+  },
+  {
+    "zip": 6042,
+    "city": "Fülöpháza"
+  },
+  {
+    "zip": 6043,
+    "city": "Kunbaracs"
+  },
+  {
+    "zip": 6044,
+    "city": "Kecskemét",
+    "region": "Hetényegyháza"
+  },
+  {
+    "zip": 6045,
+    "city": "Ladánybene"
+  },
+  {
+    "zip": 6050,
+    "city": "Lajosmizse"
+  },
+  {
+    "zip": 6055,
+    "city": "Felsőlajos"
+  },
+  {
+    "zip": 6060,
+    "city": "Tiszakécske"
+  },
+  {
+    "zip": 6062,
+    "city": "Tiszakécske",
+    "region": "Tiszabög"
+  },
+  {
+    "zip": 6064,
+    "city": "Tiszaug"
+  },
+  {
+    "zip": 6065,
+    "city": "Lakitelek"
+  },
+  {
+    "zip": 6066,
+    "city": "Tiszaalpár",
+    "region": "Alpár"
+  },
+  {
+    "zip": 6067,
+    "city": "Tiszaalpár",
+    "region": "Tiszaújfalu"
+  },
+  {
+    "zip": 6070,
+    "city": "Izsák"
+  },
+  {
+    "zip": 6075,
+    "city": "Páhi"
+  },
+  {
+    "zip": 6076,
+    "city": "Ágasegyháza"
+  },
+  {
+    "zip": 6077,
+    "city": "Orgovány"
+  },
+  {
+    "zip": 6078,
+    "city": "Jakabszállás"
+  },
+  {
+    "zip": 6080,
+    "city": "Szabadszállás"
+  },
+  {
+    "zip": 6085,
+    "city": "Fülöpszállás"
+  },
+  {
+    "zip": 6086,
+    "city": "Szalkszentmárton"
+  },
+  {
+    "zip": 6087,
+    "city": "Dunavecse"
+  },
+  {
+    "zip": 6088,
+    "city": "Apostag"
+  },
+  {
+    "zip": 6090,
+    "city": "Kunszentmiklós"
+  },
+  {
+    "zip": 6096,
+    "city": "Kunpeszér"
+  },
+  {
+    "zip": 6097,
+    "city": "Kunadacs"
+  },
+  {
+    "zip": 6098,
+    "city": "Tass"
+  },
+  {
+    "zip": 6100,
+    "city": "Kiskunfélegyháza"
+  },
+  {
+    "zip": 6111,
+    "city": "Gátér"
+  },
+  {
+    "zip": 6112,
+    "city": "Pálmonostora"
+  },
+  {
+    "zip": 6113,
+    "city": "Petőfiszállás"
+  },
+  {
+    "zip": 6114,
+    "city": "Bugac"
+  },
+  {
+    "zip": 6114,
+    "city": "Bugacpusztaháza"
+  },
+  {
+    "zip": 6115,
+    "city": "Kunszállás"
+  },
+  {
+    "zip": 6116,
+    "city": "Fülöpjakab"
+  },
+  {
+    "zip": 6120,
+    "city": "Kiskunmajsa"
+  },
+  {
+    "zip": 6131,
+    "city": "Szank"
+  },
+  {
+    "zip": 6132,
+    "city": "Móricgát"
+  },
+  {
+    "zip": 6133,
+    "city": "Jászszentlászló"
+  },
+  {
+    "zip": 6134,
+    "city": "Kömpöc"
+  },
+  {
+    "zip": 6135,
+    "city": "Csólyospálos"
+  },
+  {
+    "zip": 6136,
+    "city": "Harkakötöny"
+  },
+  {
+    "zip": 6200,
+    "city": "Kiskőrös"
+  },
+  {
+    "zip": 6211,
+    "city": "Kaskantyú"
+  },
+  {
+    "zip": 6221,
+    "city": "Akasztó"
+  },
+  {
+    "zip": 6222,
+    "city": "Csengőd"
+  },
+  {
+    "zip": 6223,
+    "city": "Soltszentimre"
+  },
+  {
+    "zip": 6224,
+    "city": "Tabdi"
+  },
+  {
+    "zip": 6230,
+    "city": "Soltvadkert"
+  },
+  {
+    "zip": 6235,
+    "city": "Bócsa"
+  },
+  {
+    "zip": 6236,
+    "city": "Tázlár"
+  },
+  {
+    "zip": 6237,
+    "city": "Kecel"
+  },
+  {
+    "zip": 6238,
+    "city": "Imrehegy"
+  },
+  {
+    "zip": 6239,
+    "city": "Császártöltés"
+  },
+  {
+    "zip": 6300,
+    "city": "Kalocsa"
+  },
+  {
+    "zip": 6311,
+    "city": "Öregcsertő"
+  },
+  {
+    "zip": 6320,
+    "city": "Solt"
+  },
+  {
+    "zip": 6321,
+    "city": "Újsolt"
+  },
+  {
+    "zip": 6323,
+    "city": "Dunaegyháza"
+  },
+  {
+    "zip": 6325,
+    "city": "Dunatetétlen"
+  },
+  {
+    "zip": 6326,
+    "city": "Harta"
+  },
+  {
+    "zip": 6327,
+    "city": "Harta",
+    "region": "Állampuszta"
+  },
+  {
+    "zip": 6328,
+    "city": "Dunapataj"
+  },
+  {
+    "zip": 6331,
+    "city": "Foktő"
+  },
+  {
+    "zip": 6332,
+    "city": "Uszód"
+  },
+  {
+    "zip": 6333,
+    "city": "Dunaszentbenedek"
+  },
+  {
+    "zip": 6334,
+    "city": "Géderlak"
+  },
+  {
+    "zip": 6335,
+    "city": "Ordas"
+  },
+  {
+    "zip": 6336,
+    "city": "Szakmár"
+  },
+  {
+    "zip": 6337,
+    "city": "Újtelek"
+  },
+  {
+    "zip": 6341,
+    "city": "Homokmégy"
+  },
+  {
+    "zip": 6342,
+    "city": "Drágszél"
+  },
+  {
+    "zip": 6343,
+    "city": "Miske"
+  },
+  {
+    "zip": 6344,
+    "city": "Hajós"
+  },
+  {
+    "zip": 6345,
+    "city": "Nemesnádudvar"
+  },
+  {
+    "zip": 6346,
+    "city": "Sükösd"
+  },
+  {
+    "zip": 6347,
+    "city": "Érsekcsanád"
+  },
+  {
+    "zip": 6348,
+    "city": "Érsekhalma"
+  },
+  {
+    "zip": 6351,
+    "city": "Bátya"
+  },
+  {
+    "zip": 6352,
+    "city": "Fajsz"
+  },
+  {
+    "zip": 6353,
+    "city": "Dusnok"
+  },
+  {
+    "zip": 6400,
+    "city": "Kiskunhalas"
+  },
+  {
+    "zip": 6411,
+    "city": "Zsana"
+  },
+  {
+    "zip": 6412,
+    "city": "Balotaszállás"
+  },
+  {
+    "zip": 6413,
+    "city": "Kunfehértó"
+  },
+  {
+    "zip": 6414,
+    "city": "Pirtó"
+  },
+  {
+    "zip": 6421,
+    "city": "Kisszállás"
+  },
+  {
+    "zip": 6422,
+    "city": "Tompa"
+  },
+  {
+    "zip": 6423,
+    "city": "Kelebia"
+  },
+  {
+    "zip": 6424,
+    "city": "Csikéria"
+  },
+  {
+    "zip": 6425,
+    "city": "Bácsszőlős"
+  },
+  {
+    "zip": 6430,
+    "city": "Bácsalmás"
+  },
+  {
+    "zip": 6435,
+    "city": "Kunbaja"
+  },
+  {
+    "zip": 6440,
+    "city": "Jánoshalma"
+  },
+  {
+    "zip": 6444,
+    "city": "Kéleshalom"
+  },
+  {
+    "zip": 6445,
+    "city": "Borota"
+  },
+  {
+    "zip": 6446,
+    "city": "Rém"
+  },
+  {
+    "zip": 6447,
+    "city": "Felsőszentiván"
+  },
+  {
+    "zip": 6448,
+    "city": "Csávoly"
+  },
+  {
+    "zip": 6449,
+    "city": "Mélykút"
+  },
+  {
+    "zip": 6451,
+    "city": "Tataháza"
+  },
+  {
+    "zip": 6452,
+    "city": "Mátételke"
+  },
+  {
+    "zip": 6453,
+    "city": "Bácsbokod"
+  },
+  {
+    "zip": 6454,
+    "city": "Bácsborsód"
+  },
+  {
+    "zip": 6455,
+    "city": "Katymár"
+  },
+  {
+    "zip": 6456,
+    "city": "Madaras"
+  },
+  {
+    "zip": 6500,
+    "city": "Baja"
+  },
+  {
+    "zip": 6503,
+    "city": "Baja",
+    "region": "Bajaszentistván"
+  },
+  {
+    "zip": 6511,
+    "city": "Bácsszentgyörgy"
+  },
+  {
+    "zip": 6512,
+    "city": "Szeremle"
+  },
+  {
+    "zip": 6513,
+    "city": "Dunafalva"
+  },
+  {
+    "zip": 6521,
+    "city": "Vaskút"
+  },
+  {
+    "zip": 6522,
+    "city": "Gara"
+  },
+  {
+    "zip": 6523,
+    "city": "Csátalja"
+  },
+  {
+    "zip": 6524,
+    "city": "Dávod"
+  },
+  {
+    "zip": 6525,
+    "city": "Hercegszántó"
+  },
+  {
+    "zip": 6527,
+    "city": "Nagybaracska"
+  },
+  {
+    "zip": 6528,
+    "city": "Bátmonostor"
+  },
+  {
+    "zip": 6600,
+    "city": "Szentes"
+  },
+  {
+    "zip": 6612,
+    "city": "Nagytőke"
+  },
+  {
+    "zip": 6621,
+    "city": "Derekegyház"
+  },
+  {
+    "zip": 6622,
+    "city": "Nagymágocs"
+  },
+  {
+    "zip": 6623,
+    "city": "Árpádhalom"
+  },
+  {
+    "zip": 6624,
+    "city": "Eperjes"
+  },
+  {
+    "zip": 6625,
+    "city": "Fábiánsebestyén"
+  },
+  {
+    "zip": 6630,
+    "city": "Mindszent"
+  },
+  {
+    "zip": 6635,
+    "city": "Szegvár"
+  },
+  {
+    "zip": 6636,
+    "city": "Mártély"
+  },
+  {
+    "zip": 6640,
+    "city": "Csongrád"
+  },
+  {
+    "zip": 6645,
+    "city": "Felgyő"
+  },
+  {
+    "zip": 6646,
+    "city": "Tömörkény"
+  },
+  {
+    "zip": 6647,
+    "city": "Csanytelek"
+  },
+  {
+    "zip": 6648,
+    "city": "Csongrád",
+    "region": "Bokros"
+  },
+  {
+    "zip": 6700,
+    "city": "Szeged*"
+  },
+  {
+    "zip": 6750,
+    "city": "Algyő"
+  },
+  {
+    "zip": 6754,
+    "city": "Újszentiván"
+  },
+  {
+    "zip": 6755,
+    "city": "Kübekháza"
+  },
+  {
+    "zip": 6756,
+    "city": "Tiszasziget"
+  },
+  {
+    "zip": 6758,
+    "city": "Röszke"
+  },
+  {
+    "zip": 6760,
+    "city": "Kistelek"
+  },
+  {
+    "zip": 6762,
+    "city": "Sándorfalva"
+  },
+  {
+    "zip": 6763,
+    "city": "Szatymaz"
+  },
+  {
+    "zip": 6764,
+    "city": "Balástya"
+  },
+  {
+    "zip": 6765,
+    "city": "Csengele"
+  },
+  {
+    "zip": 6766,
+    "city": "Dóc"
+  },
+  {
+    "zip": 6767,
+    "city": "Ópusztaszer"
+  },
+  {
+    "zip": 6768,
+    "city": "Baks"
+  },
+  {
+    "zip": 6769,
+    "city": "Pusztaszer"
+  },
+  {
+    "zip": 6772,
+    "city": "Deszk"
+  },
+  {
+    "zip": 6773,
+    "city": "Klárafalva"
+  },
+  {
+    "zip": 6774,
+    "city": "Ferencszállás"
+  },
+  {
+    "zip": 6775,
+    "city": "Kiszombor"
+  },
+  {
+    "zip": 6781,
+    "city": "Domaszék"
+  },
+  {
+    "zip": 6782,
+    "city": "Mórahalom"
+  },
+  {
+    "zip": 6783,
+    "city": "Ásotthalom"
+  },
+  {
+    "zip": 6784,
+    "city": "Öttömös"
+  },
+  {
+    "zip": 6785,
+    "city": "Pusztamérges"
+  },
+  {
+    "zip": 6786,
+    "city": "Ruzsa"
+  },
+  {
+    "zip": 6787,
+    "city": "Zákányszék"
+  },
+  {
+    "zip": 6792,
+    "city": "Zsombó"
+  },
+  {
+    "zip": 6793,
+    "city": "Forráskút"
+  },
+  {
+    "zip": 6794,
+    "city": "Üllés"
+  },
+  {
+    "zip": 6795,
+    "city": "Bordány"
+  },
+  {
+    "zip": 6800,
+    "city": "Hódmezővásárhely"
+  },
+  {
+    "zip": 6805,
+    "city": "Hódmezővásárhely",
+    "region": "Kútvölgy"
+  },
+  {
+    "zip": 6806,
+    "city": "Hódmezővásárhely",
+    "region": "Szikáncs"
+  },
+  {
+    "zip": 6821,
+    "city": "Székkutas"
+  },
+  {
+    "zip": 6900,
+    "city": "Makó"
+  },
+  {
+    "zip": 6903,
+    "city": "Makó",
+    "region": "Rákos"
+  },
+  {
+    "zip": 6911,
+    "city": "Királyhegyes"
+  },
+  {
+    "zip": 6912,
+    "city": "Kövegy"
+  },
+  {
+    "zip": 6913,
+    "city": "Csanádpalota"
+  },
+  {
+    "zip": 6914,
+    "city": "Pitvaros"
+  },
+  {
+    "zip": 6915,
+    "city": "Csanádalberti"
+  },
+  {
+    "zip": 6916,
+    "city": "Ambrózfalva"
+  },
+  {
+    "zip": 6917,
+    "city": "Nagyér"
+  },
+  {
+    "zip": 6921,
+    "city": "Maroslele"
+  },
+  {
+    "zip": 6922,
+    "city": "Földeák"
+  },
+  {
+    "zip": 6923,
+    "city": "Óföldeák"
+  },
+  {
+    "zip": 6931,
+    "city": "Apátfalva"
+  },
+  {
+    "zip": 6932,
+    "city": "Magyarcsanád"
+  },
+  {
+    "zip": 6933,
+    "city": "Nagylak"
+  },
+  {
+    "zip": 7000,
+    "city": "Sárbogárd"
+  },
+  {
+    "zip": 7003,
+    "city": "Sárbogárd",
+    "region": "Sárszentmiklós"
+  },
+  {
+    "zip": 7011,
+    "city": "Alap"
+  },
+  {
+    "zip": 7012,
+    "city": "Alsószentiván"
+  },
+  {
+    "zip": 7013,
+    "city": "Cece"
+  },
+  {
+    "zip": 7014,
+    "city": "Sáregres"
+  },
+  {
+    "zip": 7015,
+    "city": "Igar"
+  },
+  {
+    "zip": 7017,
+    "city": "Mezőszilas"
+  },
+  {
+    "zip": 7018,
+    "city": "Sárbogárd",
+    "region": "Pusztaegres"
+  },
+  {
+    "zip": 7019,
+    "city": "Sárbogárd",
+    "region": "Sárhatvan"
+  },
+  {
+    "zip": 7020,
+    "city": "Dunaföldvár"
+  },
+  {
+    "zip": 7025,
+    "city": "Bölcske"
+  },
+  {
+    "zip": 7026,
+    "city": "Madocsa"
+  },
+  {
+    "zip": 7027,
+    "city": "Paks",
+    "region": "Dunakömlőd"
+  },
+  {
+    "zip": 7030,
+    "city": "Paks"
+  },
+  {
+    "zip": 7038,
+    "city": "Pusztahencse"
+  },
+  {
+    "zip": 7039,
+    "city": "Németkér"
+  },
+  {
+    "zip": 7041,
+    "city": "Vajta"
+  },
+  {
+    "zip": 7042,
+    "city": "Pálfa"
+  },
+  {
+    "zip": 7043,
+    "city": "Bikács"
+  },
+  {
+    "zip": 7044,
+    "city": "Nagydorog"
+  },
+  {
+    "zip": 7045,
+    "city": "Györköny"
+  },
+  {
+    "zip": 7047,
+    "city": "Sárszentlőrinc"
+  },
+  {
+    "zip": 7051,
+    "city": "Kajdacs"
+  },
+  {
+    "zip": 7052,
+    "city": "Kölesd"
+  },
+  {
+    "zip": 7054,
+    "city": "Tengelic"
+  },
+  {
+    "zip": 7056,
+    "city": "Szedres"
+  },
+  {
+    "zip": 7057,
+    "city": "Medina"
+  },
+  {
+    "zip": 7061,
+    "city": "Belecska"
+  },
+  {
+    "zip": 7062,
+    "city": "Keszőhidegkút"
+  },
+  {
+    "zip": 7063,
+    "city": "Szárazd"
+  },
+  {
+    "zip": 7064,
+    "city": "Gyönk"
+  },
+  {
+    "zip": 7065,
+    "city": "Miszla"
+  },
+  {
+    "zip": 7066,
+    "city": "Udvari"
+  },
+  {
+    "zip": 7067,
+    "city": "Varsád"
+  },
+  {
+    "zip": 7068,
+    "city": "Kistormás"
+  },
+  {
+    "zip": 7071,
+    "city": "Szakadát"
+  },
+  {
+    "zip": 7072,
+    "city": "Diósberény"
+  },
+  {
+    "zip": 7081,
+    "city": "Simontornya"
+  },
+  {
+    "zip": 7082,
+    "city": "Kisszékely"
+  },
+  {
+    "zip": 7083,
+    "city": "Tolnanémedi"
+  },
+  {
+    "zip": 7084,
+    "city": "Pincehely"
+  },
+  {
+    "zip": 7085,
+    "city": "Nagyszékely"
+  },
+  {
+    "zip": 7086,
+    "city": "Ozora"
+  },
+  {
+    "zip": 7087,
+    "city": "Fürged"
+  },
+  {
+    "zip": 7090,
+    "city": "Tamási"
+  },
+  {
+    "zip": 7091,
+    "city": "Pári"
+  },
+  {
+    "zip": 7092,
+    "city": "Nagykónyi"
+  },
+  {
+    "zip": 7093,
+    "city": "Értény"
+  },
+  {
+    "zip": 7094,
+    "city": "Koppányszántó"
+  },
+  {
+    "zip": 7095,
+    "city": "Iregszemcse"
+  },
+  {
+    "zip": 7095,
+    "city": "Újireg"
+  },
+  {
+    "zip": 7097,
+    "city": "Nagyszokoly"
+  },
+  {
+    "zip": 7098,
+    "city": "Magyarkeszi"
+  },
+  {
+    "zip": 7099,
+    "city": "Felsőnyék"
+  },
+  {
+    "zip": 7100,
+    "city": "Szekszárd"
+  },
+  {
+    "zip": 7121,
+    "city": "Szálka"
+  },
+  {
+    "zip": 7122,
+    "city": "Kakasd"
+  },
+  {
+    "zip": 7130,
+    "city": "Tolna"
+  },
+  {
+    "zip": 7131,
+    "city": "Tolna",
+    "region": "Mözs"
+  },
+  {
+    "zip": 7132,
+    "city": "Bogyiszló"
+  },
+  {
+    "zip": 7133,
+    "city": "Fadd"
+  },
+  {
+    "zip": 7134,
+    "city": "Gerjen"
+  },
+  {
+    "zip": 7135,
+    "city": "Dunaszentgyörgy"
+  },
+  {
+    "zip": 7136,
+    "city": "Fácánkert"
+  },
+  {
+    "zip": 7140,
+    "city": "Bátaszék"
+  },
+  {
+    "zip": 7142,
+    "city": "Pörböly"
+  },
+  {
+    "zip": 7143,
+    "city": "Őcsény"
+  },
+  {
+    "zip": 7144,
+    "city": "Decs"
+  },
+  {
+    "zip": 7145,
+    "city": "Sárpilis"
+  },
+  {
+    "zip": 7146,
+    "city": "Várdomb"
+  },
+  {
+    "zip": 7147,
+    "city": "Alsónána"
+  },
+  {
+    "zip": 7148,
+    "city": "Alsónyék"
+  },
+  {
+    "zip": 7149,
+    "city": "Báta"
+  },
+  {
+    "zip": 7150,
+    "city": "Bonyhád"
+  },
+  {
+    "zip": 7158,
+    "city": "Bonyhádvarasd"
+  },
+  {
+    "zip": 7159,
+    "city": "Kisdorog"
+  },
+  {
+    "zip": 7161,
+    "city": "Cikó"
+  },
+  {
+    "zip": 7162,
+    "city": "Grábóc"
+  },
+  {
+    "zip": 7163,
+    "city": "Mőcsény"
+  },
+  {
+    "zip": 7164,
+    "city": "Bátaapáti"
+  },
+  {
+    "zip": 7165,
+    "city": "Mórágy"
+  },
+  {
+    "zip": 7171,
+    "city": "Sióagárd"
+  },
+  {
+    "zip": 7172,
+    "city": "Harc"
+  },
+  {
+    "zip": 7173,
+    "city": "Zomba"
+  },
+  {
+    "zip": 7174,
+    "city": "Kéty"
+  },
+  {
+    "zip": 7175,
+    "city": "Felsőnána"
+  },
+  {
+    "zip": 7176,
+    "city": "Murga"
+  },
+  {
+    "zip": 7181,
+    "city": "Tevel"
+  },
+  {
+    "zip": 7182,
+    "city": "Závod"
+  },
+  {
+    "zip": 7183,
+    "city": "Kisvejke"
+  },
+  {
+    "zip": 7184,
+    "city": "Lengyel"
+  },
+  {
+    "zip": 7185,
+    "city": "Mucsfa"
+  },
+  {
+    "zip": 7186,
+    "city": "Aparhant"
+  },
+  {
+    "zip": 7186,
+    "city": "Nagyvejke"
+  },
+  {
+    "zip": 7187,
+    "city": "Bonyhád",
+    "region": "Majos"
+  },
+  {
+    "zip": 7188,
+    "city": "Szárász"
+  },
+  {
+    "zip": 7191,
+    "city": "Hőgyész"
+  },
+  {
+    "zip": 7192,
+    "city": "Szakály"
+  },
+  {
+    "zip": 7193,
+    "city": "Regöly"
+  },
+  {
+    "zip": 7194,
+    "city": "Kalaznó"
+  },
+  {
+    "zip": 7195,
+    "city": "Mucsi"
+  },
+  {
+    "zip": 7200,
+    "city": "Dombóvár"
+  },
+  {
+    "zip": 7211,
+    "city": "Dalmand"
+  },
+  {
+    "zip": 7212,
+    "city": "Kocsola"
+  },
+  {
+    "zip": 7213,
+    "city": "Szakcs"
+  },
+  {
+    "zip": 7214,
+    "city": "Lápafő"
+  },
+  {
+    "zip": 7214,
+    "city": "Várong"
+  },
+  {
+    "zip": 7215,
+    "city": "Nak"
+  },
+  {
+    "zip": 7224,
+    "city": "Dúzs"
+  },
+  {
+    "zip": 7225,
+    "city": "Csibrák"
+  },
+  {
+    "zip": 7226,
+    "city": "Kurd"
+  },
+  {
+    "zip": 7227,
+    "city": "Gyulaj"
+  },
+  {
+    "zip": 7228,
+    "city": "Döbrököz"
+  },
+  {
+    "zip": 7251,
+    "city": "Kapospula"
+  },
+  {
+    "zip": 7252,
+    "city": "Attala"
+  },
+  {
+    "zip": 7253,
+    "city": "Csoma"
+  },
+  {
+    "zip": 7253,
+    "city": "Szabadi"
+  },
+  {
+    "zip": 7255,
+    "city": "Nagyberki"
+  },
+  {
+    "zip": 7256,
+    "city": "Kercseliget"
+  },
+  {
+    "zip": 7257,
+    "city": "Mosdós"
+  },
+  {
+    "zip": 7258,
+    "city": "Baté"
+  },
+  {
+    "zip": 7258,
+    "city": "Kaposkeresztúr"
+  },
+  {
+    "zip": 7261,
+    "city": "Taszár"
+  },
+  {
+    "zip": 7261,
+    "city": "Kaposhomok"
+  },
+  {
+    "zip": 7271,
+    "city": "Fonó"
+  },
+  {
+    "zip": 7272,
+    "city": "Gölle"
+  },
+  {
+    "zip": 7273,
+    "city": "Büssü"
+  },
+  {
+    "zip": 7274,
+    "city": "Kazsok"
+  },
+  {
+    "zip": 7275,
+    "city": "Igal"
+  },
+  {
+    "zip": 7276,
+    "city": "Somogyszil"
+  },
+  {
+    "zip": 7276,
+    "city": "Gadács"
+  },
+  {
+    "zip": 7279,
+    "city": "Kisgyalán"
+  },
+  {
+    "zip": 7281,
+    "city": "Bonnya"
+  },
+  {
+    "zip": 7282,
+    "city": "Kisbárapáti"
+  },
+  {
+    "zip": 7282,
+    "city": "Fiad"
+  },
+  {
+    "zip": 7283,
+    "city": "Somogyacsa"
+  },
+  {
+    "zip": 7284,
+    "city": "Somogydöröcske"
+  },
+  {
+    "zip": 7285,
+    "city": "Törökkoppány"
+  },
+  {
+    "zip": 7285,
+    "city": "Kára"
+  },
+  {
+    "zip": 7285,
+    "city": "Szorosad"
+  },
+  {
+    "zip": 7300,
+    "city": "Komló"
+  },
+  {
+    "zip": 7304,
+    "city": "Mánfa"
+  },
+  {
+    "zip": 7305,
+    "city": "Mecsekpölöske"
+  },
+  {
+    "zip": 7331,
+    "city": "Liget"
+  },
+  {
+    "zip": 7332,
+    "city": "Magyaregregy"
+  },
+  {
+    "zip": 7333,
+    "city": "Kárász"
+  },
+  {
+    "zip": 7333,
+    "city": "Vékény"
+  },
+  {
+    "zip": 7334,
+    "city": "Szalatnak"
+  },
+  {
+    "zip": 7334,
+    "city": "Köblény"
+  },
+  {
+    "zip": 7341,
+    "city": "Csikóstőttős"
+  },
+  {
+    "zip": 7342,
+    "city": "Mágocs"
+  },
+  {
+    "zip": 7343,
+    "city": "Nagyhajmás"
+  },
+  {
+    "zip": 7344,
+    "city": "Mekényes"
+  },
+  {
+    "zip": 7345,
+    "city": "Alsómocsolád"
+  },
+  {
+    "zip": 7346,
+    "city": "Bikal"
+  },
+  {
+    "zip": 7347,
+    "city": "Egyházaskozár"
+  },
+  {
+    "zip": 7348,
+    "city": "Hegyhátmaróc"
+  },
+  {
+    "zip": 7348,
+    "city": "Tófű"
+  },
+  {
+    "zip": 7349,
+    "city": "Szászvár"
+  },
+  {
+    "zip": 7351,
+    "city": "Máza"
+  },
+  {
+    "zip": 7352,
+    "city": "Györe"
+  },
+  {
+    "zip": 7353,
+    "city": "Izmény"
+  },
+  {
+    "zip": 7354,
+    "city": "Váralja"
+  },
+  {
+    "zip": 7355,
+    "city": "Nagymányok"
+  },
+  {
+    "zip": 7356,
+    "city": "Kismányok"
+  },
+  {
+    "zip": 7357,
+    "city": "Jágónak"
+  },
+  {
+    "zip": 7361,
+    "city": "Kaposszekcső"
+  },
+  {
+    "zip": 7362,
+    "city": "Vásárosdombó"
+  },
+  {
+    "zip": 7362,
+    "city": "Gerényes"
+  },
+  {
+    "zip": 7362,
+    "city": "Tarrós"
+  },
+  {
+    "zip": 7370,
+    "city": "Sásd"
+  },
+  {
+    "zip": 7370,
+    "city": "Felsőegerszeg"
+  },
+  {
+    "zip": 7370,
+    "city": "Meződ"
+  },
+  {
+    "zip": 7370,
+    "city": "Oroszló"
+  },
+  {
+    "zip": 7370,
+    "city": "Palé"
+  },
+  {
+    "zip": 7370,
+    "city": "Varga"
+  },
+  {
+    "zip": 7370,
+    "city": "Vázsnok"
+  },
+  {
+    "zip": 7381,
+    "city": "Kisvaszar"
+  },
+  {
+    "zip": 7381,
+    "city": "Ág"
+  },
+  {
+    "zip": 7381,
+    "city": "Tékes"
+  },
+  {
+    "zip": 7383,
+    "city": "Tormás"
+  },
+  {
+    "zip": 7383,
+    "city": "Baranyaszentgyörgy"
+  },
+  {
+    "zip": 7383,
+    "city": "Szágy"
+  },
+  {
+    "zip": 7384,
+    "city": "Baranyajenő"
+  },
+  {
+    "zip": 7385,
+    "city": "Gödre",
+    "region": "Gödreszentmárton"
+  },
+  {
+    "zip": 7386,
+    "city": "Gödre",
+    "region": "Gödrekeresztúr"
+  },
+  {
+    "zip": 7391,
+    "city": "Mindszentgodisa"
+  },
+  {
+    "zip": 7391,
+    "city": "Kisbeszterce"
+  },
+  {
+    "zip": 7391,
+    "city": "Kishajmás"
+  },
+  {
+    "zip": 7393,
+    "city": "Bakóca"
+  },
+  {
+    "zip": 7394,
+    "city": "Magyarhertelend"
+  },
+  {
+    "zip": 7394,
+    "city": "Bodolyabér"
+  },
+  {
+    "zip": 7396,
+    "city": "Magyarszék"
+  },
+  {
+    "zip": 7400,
+    "city": "Kaposvár"
+  },
+  {
+    "zip": 7400,
+    "city": "Zselickislak"
+  },
+  {
+    "zip": 7431,
+    "city": "Juta"
+  },
+  {
+    "zip": 7432,
+    "city": "Hetes"
+  },
+  {
+    "zip": 7432,
+    "city": "Csombárd"
+  },
+  {
+    "zip": 7434,
+    "city": "Mezőcsokonya"
+  },
+  {
+    "zip": 7435,
+    "city": "Somogysárd"
+  },
+  {
+    "zip": 7436,
+    "city": "Újvárfalva"
+  },
+  {
+    "zip": 7439,
+    "city": "Bodrog"
+  },
+  {
+    "zip": 7441,
+    "city": "Magyaregres"
+  },
+  {
+    "zip": 7442,
+    "city": "Várda"
+  },
+  {
+    "zip": 7443,
+    "city": "Somogyjád"
+  },
+  {
+    "zip": 7443,
+    "city": "Alsóbogát"
+  },
+  {
+    "zip": 7443,
+    "city": "Edde"
+  },
+  {
+    "zip": 7444,
+    "city": "Osztopán"
+  },
+  {
+    "zip": 7452,
+    "city": "Somogyaszaló"
+  },
+  {
+    "zip": 7451,
+    "city": "Kaposvár",
+    "region": "Kaposfüred"
+  },
+  {
+    "zip": 7453,
+    "city": "Mernye"
+  },
+  {
+    "zip": 7454,
+    "city": "Somodor"
+  },
+  {
+    "zip": 7455,
+    "city": "Somogygeszti"
+  },
+  {
+    "zip": 7456,
+    "city": "Felsőmocsolád"
+  },
+  {
+    "zip": 7457,
+    "city": "Ecseny"
+  },
+  {
+    "zip": 7458,
+    "city": "Polány"
+  },
+  {
+    "zip": 7461,
+    "city": "Orci"
+  },
+  {
+    "zip": 7463,
+    "city": "Magyaratád"
+  },
+  {
+    "zip": 7463,
+    "city": "Patalom"
+  },
+  {
+    "zip": 7464,
+    "city": "Ráksi"
+  },
+  {
+    "zip": 7465,
+    "city": "Szentgáloskér"
+  },
+  {
+    "zip": 7471,
+    "city": "Zimány"
+  },
+  {
+    "zip": 7472,
+    "city": "Szentbalázs"
+  },
+  {
+    "zip": 7472,
+    "city": "Cserénfa"
+  },
+  {
+    "zip": 7473,
+    "city": "Gálosfa"
+  },
+  {
+    "zip": 7473,
+    "city": "Hajmás"
+  },
+  {
+    "zip": 7473,
+    "city": "Kaposgyarmat"
+  },
+  {
+    "zip": 7474,
+    "city": "Simonfa"
+  },
+  {
+    "zip": 7474,
+    "city": "Zselicszentpál"
+  },
+  {
+    "zip": 7475,
+    "city": "Bőszénfa"
+  },
+  {
+    "zip": 7476,
+    "city": "Kaposszerdahely"
+  },
+  {
+    "zip": 7477,
+    "city": "Szenna"
+  },
+  {
+    "zip": 7477,
+    "city": "Patca"
+  },
+  {
+    "zip": 7477,
+    "city": "Szilvásszentmárton"
+  },
+  {
+    "zip": 7477,
+    "city": "Zselickisfalud"
+  },
+  {
+    "zip": 7478,
+    "city": "Bárdudvarnok"
+  },
+  {
+    "zip": 7479,
+    "city": "Sántos"
+  },
+  {
+    "zip": 7500,
+    "city": "Nagyatád"
+  },
+  {
+    "zip": 7511,
+    "city": "Ötvöskónyi"
+  },
+  {
+    "zip": 7512,
+    "city": "Mike"
+  },
+  {
+    "zip": 7513,
+    "city": "Rinyaszentkirály"
+  },
+  {
+    "zip": 7514,
+    "city": "Tarany"
+  },
+  {
+    "zip": 7515,
+    "city": "Somogyudvarhely"
+  },
+  {
+    "zip": 7516,
+    "city": "Berzence"
+  },
+  {
+    "zip": 7517,
+    "city": "Bolhás"
+  },
+  {
+    "zip": 7521,
+    "city": "Kaposmérő"
+  },
+  {
+    "zip": 7522,
+    "city": "Kaposújlak"
+  },
+  {
+    "zip": 7523,
+    "city": "Kaposfő"
+  },
+  {
+    "zip": 7523,
+    "city": "Kisasszond"
+  },
+  {
+    "zip": 7524,
+    "city": "Kiskorpád"
+  },
+  {
+    "zip": 7525,
+    "city": "Jákó"
+  },
+  {
+    "zip": 7526,
+    "city": "Csököly"
+  },
+  {
+    "zip": 7527,
+    "city": "Gige"
+  },
+  {
+    "zip": 7527,
+    "city": "Rinyakovácsi"
+  },
+  {
+    "zip": 7530,
+    "city": "Kadarkút"
+  },
+  {
+    "zip": 7530,
+    "city": "Kőkút"
+  },
+  {
+    "zip": 7532,
+    "city": "Hencse"
+  },
+  {
+    "zip": 7533,
+    "city": "Hedrehely"
+  },
+  {
+    "zip": 7533,
+    "city": "Visnye"
+  },
+  {
+    "zip": 7535,
+    "city": "Lad"
+  },
+  {
+    "zip": 7536,
+    "city": "Patosfa"
+  },
+  {
+    "zip": 7537,
+    "city": "Homokszentgyörgy"
+  },
+  {
+    "zip": 7538,
+    "city": "Kálmáncsa"
+  },
+  {
+    "zip": 7539,
+    "city": "Szulok"
+  },
+  {
+    "zip": 7541,
+    "city": "Kutas"
+  },
+  {
+    "zip": 7542,
+    "city": "Kisbajom"
+  },
+  {
+    "zip": 7543,
+    "city": "Beleg"
+  },
+  {
+    "zip": 7544,
+    "city": "Szabás"
+  },
+  {
+    "zip": 7545,
+    "city": "Nagykorpád"
+  },
+  {
+    "zip": 7551,
+    "city": "Lábod"
+  },
+  {
+    "zip": 7552,
+    "city": "Rinyabesenyő"
+  },
+  {
+    "zip": 7553,
+    "city": "Görgeteg"
+  },
+  {
+    "zip": 7555,
+    "city": "Csokonyavisonta"
+  },
+  {
+    "zip": 7556,
+    "city": "Rinyaújlak"
+  },
+  {
+    "zip": 7557,
+    "city": "Barcs",
+    "region": "Somogytarnóca"
+  },
+  {
+    "zip": 7561,
+    "city": "Nagybajom"
+  },
+  {
+    "zip": 7561,
+    "city": "Pálmajor"
+  },
+  {
+    "zip": 7562,
+    "city": "Segesd"
+  },
+  {
+    "zip": 7563,
+    "city": "Somogyszob"
+  },
+  {
+    "zip": 7564,
+    "city": "Kaszó"
+  },
+  {
+    "zip": 7570,
+    "city": "Barcs"
+  },
+  {
+    "zip": 7582,
+    "city": "Komlósd"
+  },
+  {
+    "zip": 7582,
+    "city": "Péterhida"
+  },
+  {
+    "zip": 7584,
+    "city": "Babócsa"
+  },
+  {
+    "zip": 7584,
+    "city": "Rinyaújnép"
+  },
+  {
+    "zip": 7584,
+    "city": "Somogyaracs"
+  },
+  {
+    "zip": 7585,
+    "city": "Háromfa"
+  },
+  {
+    "zip": 7585,
+    "city": "Bakháza"
+  },
+  {
+    "zip": 7586,
+    "city": "Bolhó"
+  },
+  {
+    "zip": 7587,
+    "city": "Heresznye"
+  },
+  {
+    "zip": 7588,
+    "city": "Vízvár"
+  },
+  {
+    "zip": 7589,
+    "city": "Bélavár"
+  },
+  {
+    "zip": 7600,
+    "city": "Pécs*"
+  },
+  {
+    "zip": 7639,
+    "city": "Kökény"
+  },
+  {
+    "zip": 7661,
+    "city": "Erzsébet"
+  },
+  {
+    "zip": 7661,
+    "city": "Kátoly"
+  },
+  {
+    "zip": 7661,
+    "city": "Kékesd"
+  },
+  {
+    "zip": 7661,
+    "city": "Szellő"
+  },
+  {
+    "zip": 7663,
+    "city": "Máriakéménd"
+  },
+  {
+    "zip": 7664,
+    "city": "Berkesd"
+  },
+  {
+    "zip": 7664,
+    "city": "Pereked"
+  },
+  {
+    "zip": 7664,
+    "city": "Szilágy"
+  },
+  {
+    "zip": 7666,
+    "city": "Pogány"
+  },
+  {
+    "zip": 7668,
+    "city": "Keszü"
+  },
+  {
+    "zip": 7668,
+    "city": "Gyód"
+  },
+  {
+    "zip": 7671,
+    "city": "Bicsérd"
+  },
+  {
+    "zip": 7671,
+    "city": "Aranyosgadány"
+  },
+  {
+    "zip": 7671,
+    "city": "Zók"
+  },
+  {
+    "zip": 7672,
+    "city": "Boda"
+  },
+  {
+    "zip": 7673,
+    "city": "Kővágószőlős"
+  },
+  {
+    "zip": 7673,
+    "city": "Cserkút"
+  },
+  {
+    "zip": 7675,
+    "city": "Bakonya"
+  },
+  {
+    "zip": 7675,
+    "city": "Kővágótöttös"
+  },
+  {
+    "zip": 7677,
+    "city": "Orfű"
+  },
+  {
+    "zip": 7678,
+    "city": "Abaliget"
+  },
+  {
+    "zip": 7678,
+    "city": "Husztót"
+  },
+  {
+    "zip": 7678,
+    "city": "Kovácsszénája"
+  },
+  {
+    "zip": 7681,
+    "city": "Hetvehely"
+  },
+  {
+    "zip": 7681,
+    "city": "Okorvölgy"
+  },
+  {
+    "zip": 7681,
+    "city": "Szentkatalin"
+  },
+  {
+    "zip": 7682,
+    "city": "Bükkösd"
+  },
+  {
+    "zip": 7683,
+    "city": "Helesfa"
+  },
+  {
+    "zip": 7683,
+    "city": "Cserdi"
+  },
+  {
+    "zip": 7683,
+    "city": "Dinnyeberki"
+  },
+  {
+    "zip": 7694,
+    "city": "Hosszúhetény"
+  },
+  {
+    "zip": 7695,
+    "city": "Mecseknádasd"
+  },
+  {
+    "zip": 7695,
+    "city": "Óbánya"
+  },
+  {
+    "zip": 7695,
+    "city": "Ófalu"
+  },
+  {
+    "zip": 7696,
+    "city": "Hidas"
+  },
+  {
+    "zip": 7700,
+    "city": "Mohács"
+  },
+  {
+    "zip": 7711,
+    "city": "Bár"
+  },
+  {
+    "zip": 7712,
+    "city": "Dunaszekcső"
+  },
+  {
+    "zip": 7714,
+    "city": "Mohács",
+    "region": "Újmohács"
+  },
+  {
+    "zip": 7715,
+    "city": "Mohács",
+    "region": "Sárhát"
+  },
+  {
+    "zip": 7716,
+    "city": "Homorúd"
+  },
+  {
+    "zip": 7717,
+    "city": "Kölked"
+  },
+  {
+    "zip": 7718,
+    "city": "Udvar"
+  },
+  {
+    "zip": 7720,
+    "city": "Pécsvárad"
+  },
+  {
+    "zip": 7720,
+    "city": "Apátvarasd"
+  },
+  {
+    "zip": 7720,
+    "city": "Lovászhetény"
+  },
+  {
+    "zip": 7720,
+    "city": "Martonfa"
+  },
+  {
+    "zip": 7720,
+    "city": "Zengővárkony"
+  },
+  {
+    "zip": 7723,
+    "city": "Erdősmecske"
+  },
+  {
+    "zip": 7724,
+    "city": "Feked"
+  },
+  {
+    "zip": 7725,
+    "city": "Szebény"
+  },
+  {
+    "zip": 7726,
+    "city": "Véménd"
+  },
+  {
+    "zip": 7727,
+    "city": "Palotabozsok"
+  },
+  {
+    "zip": 7728,
+    "city": "Somberek"
+  },
+  {
+    "zip": 7728,
+    "city": "Görcsönydoboka"
+  },
+  {
+    "zip": 7731,
+    "city": "Nagypall"
+  },
+  {
+    "zip": 7732,
+    "city": "Fazekasboda"
+  },
+  {
+    "zip": 7733,
+    "city": "Geresdlak"
+  },
+  {
+    "zip": 7733,
+    "city": "Maráza"
+  },
+  {
+    "zip": 7735,
+    "city": "Himesháza"
+  },
+  {
+    "zip": 7735,
+    "city": "Erdősmárok"
+  },
+  {
+    "zip": 7735,
+    "city": "Szűr"
+  },
+  {
+    "zip": 7737,
+    "city": "Székelyszabar"
+  },
+  {
+    "zip": 7741,
+    "city": "Nagykozár"
+  },
+  {
+    "zip": 7742,
+    "city": "Bogád"
+  },
+  {
+    "zip": 7743,
+    "city": "Romonya"
+  },
+  {
+    "zip": 7744,
+    "city": "Ellend"
+  },
+  {
+    "zip": 7745,
+    "city": "Olasz"
+  },
+  {
+    "zip": 7745,
+    "city": "Hásságy"
+  },
+  {
+    "zip": 7747,
+    "city": "Belvárdgyula"
+  },
+  {
+    "zip": 7747,
+    "city": "Birján"
+  },
+  {
+    "zip": 7751,
+    "city": "Szederkény"
+  },
+  {
+    "zip": 7751,
+    "city": "Monyoród"
+  },
+  {
+    "zip": 7752,
+    "city": "Versend"
+  },
+  {
+    "zip": 7753,
+    "city": "Szajk"
+  },
+  {
+    "zip": 7754,
+    "city": "Bóly"
+  },
+  {
+    "zip": 7755,
+    "city": "Töttös"
+  },
+  {
+    "zip": 7756,
+    "city": "Borjád"
+  },
+  {
+    "zip": 7756,
+    "city": "Kisbudmér"
+  },
+  {
+    "zip": 7756,
+    "city": "Nagybudmér"
+  },
+  {
+    "zip": 7756,
+    "city": "Pócsa"
+  },
+  {
+    "zip": 7757,
+    "city": "Babarc"
+  },
+  {
+    "zip": 7757,
+    "city": "Liptód"
+  },
+  {
+    "zip": 7759,
+    "city": "Lánycsók"
+  },
+  {
+    "zip": 7759,
+    "city": "Kisnyárád"
+  },
+  {
+    "zip": 7761,
+    "city": "Kozármisleny"
+  },
+  {
+    "zip": 7761,
+    "city": "Lothárd"
+  },
+  {
+    "zip": 7761,
+    "city": "Magyarsarlós"
+  },
+  {
+    "zip": 7762,
+    "city": "Pécsudvard"
+  },
+  {
+    "zip": 7763,
+    "city": "Egerág"
+  },
+  {
+    "zip": 7763,
+    "city": "Áta"
+  },
+  {
+    "zip": 7763,
+    "city": "Kisherend"
+  },
+  {
+    "zip": 7763,
+    "city": "Szemely"
+  },
+  {
+    "zip": 7763,
+    "city": "Szőkéd"
+  },
+  {
+    "zip": 7766,
+    "city": "Újpetre"
+  },
+  {
+    "zip": 7766,
+    "city": "Kiskassa"
+  },
+  {
+    "zip": 7766,
+    "city": "Peterd"
+  },
+  {
+    "zip": 7766,
+    "city": "Pécsdevecser"
+  },
+  {
+    "zip": 7768,
+    "city": "Vokány"
+  },
+  {
+    "zip": 7768,
+    "city": "Kistótfalu"
+  },
+  {
+    "zip": 7771,
+    "city": "Palkonya"
+  },
+  {
+    "zip": 7772,
+    "city": "Villánykövesd"
+  },
+  {
+    "zip": 7772,
+    "city": "Ivánbattyán"
+  },
+  {
+    "zip": 7773,
+    "city": "Villány"
+  },
+  {
+    "zip": 7773,
+    "city": "Kisjakabfalva"
+  },
+  {
+    "zip": 7774,
+    "city": "Márok"
+  },
+  {
+    "zip": 7775,
+    "city": "Magyarbóly"
+  },
+  {
+    "zip": 7775,
+    "city": "Illocska"
+  },
+  {
+    "zip": 7775,
+    "city": "Kislippó"
+  },
+  {
+    "zip": 7775,
+    "city": "Lapáncsa"
+  },
+  {
+    "zip": 7781,
+    "city": "Lippó"
+  },
+  {
+    "zip": 7781,
+    "city": "Ivándárda"
+  },
+  {
+    "zip": 7781,
+    "city": "Sárok"
+  },
+  {
+    "zip": 7782,
+    "city": "Bezedek"
+  },
+  {
+    "zip": 7783,
+    "city": "Majs"
+  },
+  {
+    "zip": 7784,
+    "city": "Nagynyárád"
+  },
+  {
+    "zip": 7785,
+    "city": "Sátorhely"
+  },
+  {
+    "zip": 7800,
+    "city": "Siklós"
+  },
+  {
+    "zip": 7800,
+    "city": "Kisharsány"
+  },
+  {
+    "zip": 7800,
+    "city": "Nagytótfalu"
+  },
+  {
+    "zip": 7811,
+    "city": "Szalánta"
+  },
+  {
+    "zip": 7811,
+    "city": "Bisse"
+  },
+  {
+    "zip": 7811,
+    "city": "Bosta"
+  },
+  {
+    "zip": 7811,
+    "city": "Csarnóta"
+  },
+  {
+    "zip": 7811,
+    "city": "Szilvás"
+  },
+  {
+    "zip": 7811,
+    "city": "Túrony"
+  },
+  {
+    "zip": 7812,
+    "city": "Garé"
+  },
+  {
+    "zip": 7813,
+    "city": "Szava"
+  },
+  {
+    "zip": 7814,
+    "city": "Ócsárd"
+  },
+  {
+    "zip": 7814,
+    "city": "Babarcszőlős"
+  },
+  {
+    "zip": 7814,
+    "city": "Kisdér"
+  },
+  {
+    "zip": 7814,
+    "city": "Siklósbodony"
+  },
+  {
+    "zip": 7815,
+    "city": "Harkány"
+  },
+  {
+    "zip": 7817,
+    "city": "Diósviszló"
+  },
+  {
+    "zip": 7817,
+    "city": "Márfa"
+  },
+  {
+    "zip": 7817,
+    "city": "Rádfalva"
+  },
+  {
+    "zip": 7822,
+    "city": "Nagyharsány"
+  },
+  {
+    "zip": 7823,
+    "city": "Siklósnagyfalu"
+  },
+  {
+    "zip": 7823,
+    "city": "Kistapolca"
+  },
+  {
+    "zip": 7824,
+    "city": "Egyházasharaszti"
+  },
+  {
+    "zip": 7825,
+    "city": "Old"
+  },
+  {
+    "zip": 7826,
+    "city": "Alsószentmárton"
+  },
+  {
+    "zip": 7827,
+    "city": "Beremend"
+  },
+  {
+    "zip": 7827,
+    "city": "Kásád"
+  },
+  {
+    "zip": 7831,
+    "city": "Pellérd"
+  },
+  {
+    "zip": 7833,
+    "city": "Görcsöny"
+  },
+  {
+    "zip": 7833,
+    "city": "Regenye"
+  },
+  {
+    "zip": 7833,
+    "city": "Szőke"
+  },
+  {
+    "zip": 7834,
+    "city": "Baksa"
+  },
+  {
+    "zip": 7834,
+    "city": "Tengeri"
+  },
+  {
+    "zip": 7834,
+    "city": "Téseny"
+  },
+  {
+    "zip": 7836,
+    "city": "Bogádmindszent"
+  },
+  {
+    "zip": 7836,
+    "city": "Ózdfalu"
+  },
+  {
+    "zip": 7837,
+    "city": "Hegyszentmárton"
+  },
+  {
+    "zip": 7838,
+    "city": "Vajszló"
+  },
+  {
+    "zip": 7838,
+    "city": "Besence"
+  },
+  {
+    "zip": 7838,
+    "city": "Hirics"
+  },
+  {
+    "zip": 7838,
+    "city": "Lúzsok"
+  },
+  {
+    "zip": 7838,
+    "city": "Nagycsány"
+  },
+  {
+    "zip": 7838,
+    "city": "Páprád"
+  },
+  {
+    "zip": 7838,
+    "city": "Piskó"
+  },
+  {
+    "zip": 7838,
+    "city": "Vejti"
+  },
+  {
+    "zip": 7839,
+    "city": "Zaláta"
+  },
+  {
+    "zip": 7839,
+    "city": "Kemse"
+  },
+  {
+    "zip": 7841,
+    "city": "Sámod"
+  },
+  {
+    "zip": 7841,
+    "city": "Adorjás"
+  },
+  {
+    "zip": 7841,
+    "city": "Baranyahídvég"
+  },
+  {
+    "zip": 7841,
+    "city": "Kisszentmárton"
+  },
+  {
+    "zip": 7841,
+    "city": "Kórós"
+  },
+  {
+    "zip": 7843,
+    "city": "Kémes"
+  },
+  {
+    "zip": 7843,
+    "city": "Cún"
+  },
+  {
+    "zip": 7843,
+    "city": "Drávapiski"
+  },
+  {
+    "zip": 7843,
+    "city": "Szaporca"
+  },
+  {
+    "zip": 7843,
+    "city": "Tésenfa"
+  },
+  {
+    "zip": 7846,
+    "city": "Drávacsepely"
+  },
+  {
+    "zip": 7847,
+    "city": "Kovácshida"
+  },
+  {
+    "zip": 7847,
+    "city": "Drávaszerdahely"
+  },
+  {
+    "zip": 7847,
+    "city": "Ipacsfa"
+  },
+  {
+    "zip": 7849,
+    "city": "Drávacsehi"
+  },
+  {
+    "zip": 7850,
+    "city": "Drávapalkonya"
+  },
+  {
+    "zip": 7851,
+    "city": "Drávaszabolcs"
+  },
+  {
+    "zip": 7853,
+    "city": "Gordisa"
+  },
+  {
+    "zip": 7854,
+    "city": "Matty"
+  },
+  {
+    "zip": 7900,
+    "city": "Szigetvár"
+  },
+  {
+    "zip": 7900,
+    "city": "Botykapeterd"
+  },
+  {
+    "zip": 7900,
+    "city": "Csertő"
+  },
+  {
+    "zip": 7912,
+    "city": "Nagypeterd"
+  },
+  {
+    "zip": 7912,
+    "city": "Nyugotszenterzsébet"
+  },
+  {
+    "zip": 7912,
+    "city": "Nagyváty"
+  },
+  {
+    "zip": 7913,
+    "city": "Szentdénes"
+  },
+  {
+    "zip": 7914,
+    "city": "Rózsafa"
+  },
+  {
+    "zip": 7914,
+    "city": "Bánfa"
+  },
+  {
+    "zip": 7914,
+    "city": "Katádfa"
+  },
+  {
+    "zip": 7915,
+    "city": "Dencsháza"
+  },
+  {
+    "zip": 7915,
+    "city": "Szentegát"
+  },
+  {
+    "zip": 7918,
+    "city": "Lakócsa"
+  },
+  {
+    "zip": 7918,
+    "city": "Szentborbás"
+  },
+  {
+    "zip": 7918,
+    "city": "Tótújfalu"
+  },
+  {
+    "zip": 7921,
+    "city": "Somogyhatvan"
+  },
+  {
+    "zip": 7922,
+    "city": "Somogyapáti"
+  },
+  {
+    "zip": 7923,
+    "city": "Basal"
+  },
+  {
+    "zip": 7923,
+    "city": "Patapoklosi"
+  },
+  {
+    "zip": 7924,
+    "city": "Somogyviszló"
+  },
+  {
+    "zip": 7925,
+    "city": "Somogyhárságy"
+  },
+  {
+    "zip": 7925,
+    "city": "Magyarlukafa"
+  },
+  {
+    "zip": 7926,
+    "city": "Vásárosbéc"
+  },
+  {
+    "zip": 7932,
+    "city": "Mozsgó"
+  },
+  {
+    "zip": 7932,
+    "city": "Almáskeresztúr"
+  },
+  {
+    "zip": 7932,
+    "city": "Szulimán"
+  },
+  {
+    "zip": 7934,
+    "city": "Almamellék"
+  },
+  {
+    "zip": 7935,
+    "city": "Ibafa"
+  },
+  {
+    "zip": 7935,
+    "city": "Csebény"
+  },
+  {
+    "zip": 7935,
+    "city": "Horváthertelend"
+  },
+  {
+    "zip": 7936,
+    "city": "Szentlászló"
+  },
+  {
+    "zip": 7937,
+    "city": "Boldogasszonyfa"
+  },
+  {
+    "zip": 7940,
+    "city": "Szentlőrinc"
+  },
+  {
+    "zip": 7940,
+    "city": "Csonkamindszent"
+  },
+  {
+    "zip": 7940,
+    "city": "Kacsóta"
+  },
+  {
+    "zip": 7951,
+    "city": "Szabadszentkirály"
+  },
+  {
+    "zip": 7951,
+    "city": "Gerde"
+  },
+  {
+    "zip": 7951,
+    "city": "Pécsbagota"
+  },
+  {
+    "zip": 7951,
+    "city": "Velény"
+  },
+  {
+    "zip": 7953,
+    "city": "Királyegyháza"
+  },
+  {
+    "zip": 7954,
+    "city": "Magyarmecske"
+  },
+  {
+    "zip": 7954,
+    "city": "Gilvánfa"
+  },
+  {
+    "zip": 7954,
+    "city": "Gyöngyfa"
+  },
+  {
+    "zip": 7954,
+    "city": "Kisasszonyfa"
+  },
+  {
+    "zip": 7954,
+    "city": "Magyartelek"
+  },
+  {
+    "zip": 7957,
+    "city": "Okorág"
+  },
+  {
+    "zip": 7958,
+    "city": "Kákics"
+  },
+  {
+    "zip": 7960,
+    "city": "Sellye"
+  },
+  {
+    "zip": 7960,
+    "city": "Drávaiványi"
+  },
+  {
+    "zip": 7960,
+    "city": "Drávasztára"
+  },
+  {
+    "zip": 7960,
+    "city": "Marócsa"
+  },
+  {
+    "zip": 7960,
+    "city": "Sósvertike"
+  },
+  {
+    "zip": 7960,
+    "city": "Sumony"
+  },
+  {
+    "zip": 7964,
+    "city": "Csányoszró"
+  },
+  {
+    "zip": 7966,
+    "city": "Bogdása"
+  },
+  {
+    "zip": 7967,
+    "city": "Drávafok"
+  },
+  {
+    "zip": 7967,
+    "city": "Drávakeresztúr"
+  },
+  {
+    "zip": 7967,
+    "city": "Markóc"
+  },
+  {
+    "zip": 7968,
+    "city": "Felsőszentmárton"
+  },
+  {
+    "zip": 7971,
+    "city": "Hobol"
+  },
+  {
+    "zip": 7972,
+    "city": "Gyöngyösmellék"
+  },
+  {
+    "zip": 7973,
+    "city": "Teklafalu"
+  },
+  {
+    "zip": 7973,
+    "city": "Bürüs"
+  },
+  {
+    "zip": 7973,
+    "city": "Endrőc"
+  },
+  {
+    "zip": 7973,
+    "city": "Várad"
+  },
+  {
+    "zip": 7975,
+    "city": "Kétújfalu"
+  },
+  {
+    "zip": 7976,
+    "city": "Zádor"
+  },
+  {
+    "zip": 7976,
+    "city": "Szörény"
+  },
+  {
+    "zip": 7977,
+    "city": "Kastélyosdombó"
+  },
+  {
+    "zip": 7977,
+    "city": "Drávagárdony"
+  },
+  {
+    "zip": 7977,
+    "city": "Potony"
+  },
+  {
+    "zip": 7979,
+    "city": "Drávatamási"
+  },
+  {
+    "zip": 7980,
+    "city": "Pettend"
+  },
+  {
+    "zip": 7981,
+    "city": "Nemeske"
+  },
+  {
+    "zip": 7981,
+    "city": "Kistamási"
+  },
+  {
+    "zip": 7981,
+    "city": "Merenye"
+  },
+  {
+    "zip": 7981,
+    "city": "Molvány"
+  },
+  {
+    "zip": 7981,
+    "city": "Tótszentgyörgy"
+  },
+  {
+    "zip": 7985,
+    "city": "Nagydobsza"
+  },
+  {
+    "zip": 7985,
+    "city": "Kisdobsza"
+  },
+  {
+    "zip": 7987,
+    "city": "Istvándi"
+  },
+  {
+    "zip": 7988,
+    "city": "Darány"
+  },
+  {
+    "zip": 8000,
+    "city": "Székesfehérvár"
+  },
+  {
+    "zip": 8019,
+    "city": "Székesfehérvár",
+    "region": "Börgönd"
+  },
+  {
+    "zip": 8041,
+    "city": "Csór"
+  },
+  {
+    "zip": 8042,
+    "city": "Moha"
+  },
+  {
+    "zip": 8043,
+    "city": "Iszkaszentgyörgy"
+  },
+  {
+    "zip": 8044,
+    "city": "Kincsesbánya"
+  },
+  {
+    "zip": 8045,
+    "city": "Isztimér"
+  },
+  {
+    "zip": 8046,
+    "city": "Bakonykúti"
+  },
+  {
+    "zip": 8051,
+    "city": "Sárkeresztes"
+  },
+  {
+    "zip": 8052,
+    "city": "Fehérvárcsurgó"
+  },
+  {
+    "zip": 8053,
+    "city": "Bodajk"
+  },
+  {
+    "zip": 8054,
+    "city": "Balinka",
+    "region": "Eszény"
+  },
+  {
+    "zip": 8055,
+    "city": "Balinka"
+  },
+  {
+    "zip": 8056,
+    "city": "Bakonycsernye"
+  },
+  {
+    "zip": 8060,
+    "city": "Mór"
+  },
+  {
+    "zip": 8065,
+    "city": "Nagyveleg"
+  },
+  {
+    "zip": 8066,
+    "city": "Pusztavám"
+  },
+  {
+    "zip": 8071,
+    "city": "Magyaralmás"
+  },
+  {
+    "zip": 8072,
+    "city": "Söréd"
+  },
+  {
+    "zip": 8073,
+    "city": "Csákberény"
+  },
+  {
+    "zip": 8074,
+    "city": "Csókakő"
+  },
+  {
+    "zip": 8080,
+    "city": "Bodmér"
+  },
+  {
+    "zip": 8081,
+    "city": "Zámoly"
+  },
+  {
+    "zip": 8082,
+    "city": "Gánt"
+  },
+  {
+    "zip": 8083,
+    "city": "Csákvár"
+  },
+  {
+    "zip": 8085,
+    "city": "Vértesboglár"
+  },
+  {
+    "zip": 8086,
+    "city": "Felcsút"
+  },
+  {
+    "zip": 8087,
+    "city": "Alcsútdoboz"
+  },
+  {
+    "zip": 8088,
+    "city": "Tabajd"
+  },
+  {
+    "zip": 8089,
+    "city": "Vértesacsa"
+  },
+  {
+    "zip": 8092,
+    "city": "Pátka"
+  },
+  {
+    "zip": 8093,
+    "city": "Lovasberény"
+  },
+  {
+    "zip": 8095,
+    "city": "Pákozd"
+  },
+  {
+    "zip": 8096,
+    "city": "Sukoró"
+  },
+  {
+    "zip": 8097,
+    "city": "Nadap"
+  },
+  {
+    "zip": 8100,
+    "city": "Várpalota"
+  },
+  {
+    "zip": 8105,
+    "city": "Pétfürdő"
+  },
+  {
+    "zip": 8109,
+    "city": "Tés"
+  },
+  {
+    "zip": 8111,
+    "city": "Seregélyes"
+  },
+  {
+    "zip": 8112,
+    "city": "Zichyújfalu"
+  },
+  {
+    "zip": 8121,
+    "city": "Tác"
+  },
+  {
+    "zip": 8122,
+    "city": "Csősz"
+  },
+  {
+    "zip": 8123,
+    "city": "Soponya"
+  },
+  {
+    "zip": 8124,
+    "city": "Káloz"
+  },
+  {
+    "zip": 8125,
+    "city": "Sárkeresztúr"
+  },
+  {
+    "zip": 8126,
+    "city": "Sárszentágota"
+  },
+  {
+    "zip": 8127,
+    "city": "Aba"
+  },
+  {
+    "zip": 8130,
+    "city": "Enying"
+  },
+  {
+    "zip": 8131,
+    "city": "Enying",
+    "region": "Balatonbozsok"
+  },
+  {
+    "zip": 8132,
+    "city": "Lepsény"
+  },
+  {
+    "zip": 8133,
+    "city": "Mezőszentgyörgy"
+  },
+  {
+    "zip": 8134,
+    "city": "Mátyásdomb"
+  },
+  {
+    "zip": 8135,
+    "city": "Dég"
+  },
+  {
+    "zip": 8136,
+    "city": "Lajoskomárom"
+  },
+  {
+    "zip": 8137,
+    "city": "Mezőkomárom"
+  },
+  {
+    "zip": 8138,
+    "city": "Szabadhídvég"
+  },
+  {
+    "zip": 8142,
+    "city": "Úrhida"
+  },
+  {
+    "zip": 8143,
+    "city": "Sárszentmihály"
+  },
+  {
+    "zip": 8144,
+    "city": "Sárkeszi"
+  },
+  {
+    "zip": 8145,
+    "city": "Nádasdladány"
+  },
+  {
+    "zip": 8146,
+    "city": "Jenő"
+  },
+  {
+    "zip": 8151,
+    "city": "Szabadbattyán"
+  },
+  {
+    "zip": 8152,
+    "city": "Kőszárhegy"
+  },
+  {
+    "zip": 8154,
+    "city": "Polgárdi"
+  },
+  {
+    "zip": 8156,
+    "city": "Kisláng"
+  },
+  {
+    "zip": 8157,
+    "city": "Füle"
+  },
+  {
+    "zip": 8161,
+    "city": "Ősi"
+  },
+  {
+    "zip": 8162,
+    "city": "Küngös"
+  },
+  {
+    "zip": 8163,
+    "city": "Csajág"
+  },
+  {
+    "zip": 8164,
+    "city": "Balatonfőkajár"
+  },
+  {
+    "zip": 8171,
+    "city": "Balatonvilágos"
+  },
+  {
+    "zip": 8172,
+    "city": "Balatonakarattya"
+  },
+  {
+    "zip": 8174,
+    "city": "Balatonkenese"
+  },
+  {
+    "zip": 8175,
+    "city": "Balatonfűzfő"
+  },
+  {
+    "zip": 8181,
+    "city": "Berhida"
+  },
+  {
+    "zip": 8182,
+    "city": "Berhida",
+    "region": "Peremartongyártelep"
+  },
+  {
+    "zip": 8183,
+    "city": "Papkeszi"
+  },
+  {
+    "zip": 8184,
+    "city": "Balatonfűzfő",
+    "region": "Fűzfőgyártelep"
+  },
+  {
+    "zip": 8191,
+    "city": "Öskü"
+  },
+  {
+    "zip": 8192,
+    "city": "Hajmáskér"
+  },
+  {
+    "zip": 8193,
+    "city": "Sóly"
+  },
+  {
+    "zip": 8194,
+    "city": "Vilonya"
+  },
+  {
+    "zip": 8195,
+    "city": "Királyszentistván"
+  },
+  {
+    "zip": 8196,
+    "city": "Litér"
+  },
+  {
+    "zip": 8200,
+    "city": "Veszprém"
+  },
+  {
+    "zip": 8220,
+    "city": "Balatonalmádi"
+  },
+  {
+    "zip": 8225,
+    "city": "Szentkirályszabadja"
+  },
+  {
+    "zip": 8226,
+    "city": "Alsóörs"
+  },
+  {
+    "zip": 8227,
+    "city": "Felsőörs"
+  },
+  {
+    "zip": 8228,
+    "city": "Lovas"
+  },
+  {
+    "zip": 8229,
+    "city": "Csopak"
+  },
+  {
+    "zip": 8229,
+    "city": "Paloznak"
+  },
+  {
+    "zip": 8230,
+    "city": "Balatonfüred"
+  },
+  {
+    "zip": 8233,
+    "city": "Balatonszőlős"
+  },
+  {
+    "zip": 8237,
+    "city": "Tihany"
+  },
+  {
+    "zip": 8241,
+    "city": "Aszófő"
+  },
+  {
+    "zip": 8242,
+    "city": "Balatonudvari"
+  },
+  {
+    "zip": 8242,
+    "city": "Örvényes"
+  },
+  {
+    "zip": 8243,
+    "city": "Balatonakali"
+  },
+  {
+    "zip": 8244,
+    "city": "Dörgicse"
+  },
+  {
+    "zip": 8245,
+    "city": "Pécsely"
+  },
+  {
+    "zip": 8245,
+    "city": "Vászoly"
+  },
+  {
+    "zip": 8246,
+    "city": "Tótvázsony"
+  },
+  {
+    "zip": 8247,
+    "city": "Hidegkút"
+  },
+  {
+    "zip": 8248,
+    "city": "Nemesvámos"
+  },
+  {
+    "zip": 8248,
+    "city": "Veszprémfajsz"
+  },
+  {
+    "zip": 8251,
+    "city": "Zánka"
+  },
+  {
+    "zip": 8252,
+    "city": "Balatonszepezd"
+  },
+  {
+    "zip": 8253,
+    "city": "Révfülöp"
+  },
+  {
+    "zip": 8254,
+    "city": "Kővágóörs"
+  },
+  {
+    "zip": 8254,
+    "city": "Kékkút"
+  },
+  {
+    "zip": 8255,
+    "city": "Balatonrendes"
+  },
+  {
+    "zip": 8255,
+    "city": "Kővágóörs",
+    "region": "Pálköve"
+  },
+  {
+    "zip": 8256,
+    "city": "Ábrahámhegy"
+  },
+  {
+    "zip": 8256,
+    "city": "Salföld"
+  },
+  {
+    "zip": 8257,
+    "city": "Badacsonytomaj",
+    "region": "Badacsonyörs"
+  },
+  {
+    "zip": 8258,
+    "city": "Badacsonytomaj"
+  },
+  {
+    "zip": 8261,
+    "city": "Badacsonytomaj",
+    "region": "Badacsony"
+  },
+  {
+    "zip": 8263,
+    "city": "Badacsonytördemic"
+  },
+  {
+    "zip": 8264,
+    "city": "Szigliget"
+  },
+  {
+    "zip": 8265,
+    "city": "Hegymagas"
+  },
+  {
+    "zip": 8271,
+    "city": "Mencshely"
+  },
+  {
+    "zip": 8272,
+    "city": "Szentantalfa"
+  },
+  {
+    "zip": 8272,
+    "city": "Balatoncsicsó"
+  },
+  {
+    "zip": 8272,
+    "city": "Óbudavár"
+  },
+  {
+    "zip": 8272,
+    "city": "Szentjakabfa"
+  },
+  {
+    "zip": 8272,
+    "city": "Tagyon"
+  },
+  {
+    "zip": 8273,
+    "city": "Monoszló"
+  },
+  {
+    "zip": 8274,
+    "city": "Köveskál"
+  },
+  {
+    "zip": 8275,
+    "city": "Balatonhenye"
+  },
+  {
+    "zip": 8281,
+    "city": "Szentbékkálla"
+  },
+  {
+    "zip": 8282,
+    "city": "Mindszentkálla"
+  },
+  {
+    "zip": 8283,
+    "city": "Káptalantóti"
+  },
+  {
+    "zip": 8284,
+    "city": "Nemesgulács"
+  },
+  {
+    "zip": 8284,
+    "city": "Kisapáti"
+  },
+  {
+    "zip": 8286,
+    "city": "Gyulakeszi"
+  },
+  {
+    "zip": 8291,
+    "city": "Nagyvázsony"
+  },
+  {
+    "zip": 8291,
+    "city": "Barnag"
+  },
+  {
+    "zip": 8291,
+    "city": "Pula"
+  },
+  {
+    "zip": 8291,
+    "city": "Vöröstó"
+  },
+  {
+    "zip": 8292,
+    "city": "Öcs"
+  },
+  {
+    "zip": 8294,
+    "city": "Kapolcs"
+  },
+  {
+    "zip": 8294,
+    "city": "Vigántpetend"
+  },
+  {
+    "zip": 8295,
+    "city": "Taliándörögd"
+  },
+  {
+    "zip": 8296,
+    "city": "Monostorapáti"
+  },
+  {
+    "zip": 8296,
+    "city": "Hegyesd"
+  },
+  {
+    "zip": 8297,
+    "city": "Tapolca",
+    "region": "Diszel"
+  },
+  {
+    "zip": 8300,
+    "city": "Tapolca"
+  },
+  {
+    "zip": 8300,
+    "city": "Raposka"
+  },
+  {
+    "zip": 8308,
+    "city": "Zalahaláp"
+  },
+  {
+    "zip": 8308,
+    "city": "Sáska"
+  },
+  {
+    "zip": 8311,
+    "city": "Nemesvita"
+  },
+  {
+    "zip": 8312,
+    "city": "Balatonederics"
+  },
+  {
+    "zip": 8313,
+    "city": "Balatongyörök"
+  },
+  {
+    "zip": 8314,
+    "city": "Vonyarcvashegy"
+  },
+  {
+    "zip": 8315,
+    "city": "Gyenesdiás"
+  },
+  {
+    "zip": 8316,
+    "city": "Várvölgy"
+  },
+  {
+    "zip": 8316,
+    "city": "Vállus"
+  },
+  {
+    "zip": 8317,
+    "city": "Lesencefalu"
+  },
+  {
+    "zip": 8318,
+    "city": "Lesencetomaj"
+  },
+  {
+    "zip": 8319,
+    "city": "Lesenceistvánd"
+  },
+  {
+    "zip": 8321,
+    "city": "Uzsa"
+  },
+  {
+    "zip": 8330,
+    "city": "Sümeg"
+  },
+  {
+    "zip": 8341,
+    "city": "Mihályfa"
+  },
+  {
+    "zip": 8341,
+    "city": "Kisvásárhely"
+  },
+  {
+    "zip": 8341,
+    "city": "Szalapa"
+  },
+  {
+    "zip": 8342,
+    "city": "Óhíd"
+  },
+  {
+    "zip": 8344,
+    "city": "Zalaerdőd"
+  },
+  {
+    "zip": 8344,
+    "city": "Hetyefő"
+  },
+  {
+    "zip": 8345,
+    "city": "Dabronc"
+  },
+  {
+    "zip": 8346,
+    "city": "Gógánfa"
+  },
+  {
+    "zip": 8347,
+    "city": "Ukk"
+  },
+  {
+    "zip": 8348,
+    "city": "Rigács"
+  },
+  {
+    "zip": 8348,
+    "city": "Megyer"
+  },
+  {
+    "zip": 8348,
+    "city": "Zalameggyes"
+  },
+  {
+    "zip": 8349,
+    "city": "Zalagyömörő"
+  },
+  {
+    "zip": 8351,
+    "city": "Sümegprága"
+  },
+  {
+    "zip": 8352,
+    "city": "Bazsi"
+  },
+  {
+    "zip": 8353,
+    "city": "Zalaszántó"
+  },
+  {
+    "zip": 8353,
+    "city": "Vindornyalak"
+  },
+  {
+    "zip": 8354,
+    "city": "Karmacs"
+  },
+  {
+    "zip": 8354,
+    "city": "Vindornyafok"
+  },
+  {
+    "zip": 8354,
+    "city": "Zalaköveskút"
+  },
+  {
+    "zip": 8355,
+    "city": "Vindornyaszőlős"
+  },
+  {
+    "zip": 8356,
+    "city": "Kisgörbő"
+  },
+  {
+    "zip": 8356,
+    "city": "Nagygörbő"
+  },
+  {
+    "zip": 8357,
+    "city": "Sümegcsehi"
+  },
+  {
+    "zip": 8357,
+    "city": "Döbröce"
+  },
+  {
+    "zip": 8360,
+    "city": "Keszthely"
+  },
+  {
+    "zip": 8371,
+    "city": "Nemesbük"
+  },
+  {
+    "zip": 8372,
+    "city": "Cserszegtomaj"
+  },
+  {
+    "zip": 8373,
+    "city": "Rezi"
+  },
+  {
+    "zip": 8380,
+    "city": "Hévíz"
+  },
+  {
+    "zip": 8391,
+    "city": "Sármellék"
+  },
+  {
+    "zip": 8392,
+    "city": "Zalavár"
+  },
+  {
+    "zip": 8393,
+    "city": "Szentgyörgyvár"
+  },
+  {
+    "zip": 8394,
+    "city": "Alsópáhok"
+  },
+  {
+    "zip": 8395,
+    "city": "Felsőpáhok"
+  },
+  {
+    "zip": 8400,
+    "city": "Ajka"
+  },
+  {
+    "zip": 8409,
+    "city": "Úrkút"
+  },
+  {
+    "zip": 8411,
+    "city": "Veszprém",
+    "region": "Kádárta"
+  },
+  {
+    "zip": 8412,
+    "city": "Veszprém",
+    "region": "Gyulafirátót"
+  },
+  {
+    "zip": 8413,
+    "city": "Eplény"
+  },
+  {
+    "zip": 8414,
+    "city": "Olaszfalu"
+  },
+  {
+    "zip": 8415,
+    "city": "Nagyesztergár"
+  },
+  {
+    "zip": 8416,
+    "city": "Dudar"
+  },
+  {
+    "zip": 8417,
+    "city": "Csetény"
+  },
+  {
+    "zip": 8418,
+    "city": "Bakonyoszlop"
+  },
+  {
+    "zip": 8419,
+    "city": "Csesznek"
+  },
+  {
+    "zip": 8420,
+    "city": "Zirc"
+  },
+  {
+    "zip": 8422,
+    "city": "Bakonynána"
+  },
+  {
+    "zip": 8423,
+    "city": "Szápár"
+  },
+  {
+    "zip": 8424,
+    "city": "Jásd"
+  },
+  {
+    "zip": 8425,
+    "city": "Lókút"
+  },
+  {
+    "zip": 8426,
+    "city": "Pénzesgyőr"
+  },
+  {
+    "zip": 8427,
+    "city": "Bakonybél"
+  },
+  {
+    "zip": 8428,
+    "city": "Borzavár"
+  },
+  {
+    "zip": 8429,
+    "city": "Porva"
+  },
+  {
+    "zip": 8430,
+    "city": "Bakonyszentkirály"
+  },
+  {
+    "zip": 8431,
+    "city": "Bakonyszentlászló"
+  },
+  {
+    "zip": 8432,
+    "city": "Fenyőfő"
+  },
+  {
+    "zip": 8433,
+    "city": "Bakonygyirót"
+  },
+  {
+    "zip": 8434,
+    "city": "Románd"
+  },
+  {
+    "zip": 8435,
+    "city": "Gic"
+  },
+  {
+    "zip": 8438,
+    "city": "Veszprémvarsány"
+  },
+  {
+    "zip": 8439,
+    "city": "Sikátor"
+  },
+  {
+    "zip": 8440,
+    "city": "Herend"
+  },
+  {
+    "zip": 8441,
+    "city": "Márkó"
+  },
+  {
+    "zip": 8442,
+    "city": "Hárskút"
+  },
+  {
+    "zip": 8443,
+    "city": "Bánd"
+  },
+  {
+    "zip": 8444,
+    "city": "Szentgál"
+  },
+  {
+    "zip": 8445,
+    "city": "Városlőd"
+  },
+  {
+    "zip": 8445,
+    "city": "Csehbánya"
+  },
+  {
+    "zip": 8446,
+    "city": "Kislőd"
+  },
+  {
+    "zip": 8447,
+    "city": "Ajka",
+    "region": "Ajkarendek"
+  },
+  {
+    "zip": 8448,
+    "city": "Ajka",
+    "region": "Bakonygyepes"
+  },
+  {
+    "zip": 8449,
+    "city": "Magyarpolány"
+  },
+  {
+    "zip": 8451,
+    "city": "Ajka",
+    "region": "Padragkút"
+  },
+  {
+    "zip": 8452,
+    "city": "Halimba"
+  },
+  {
+    "zip": 8452,
+    "city": "Szőc"
+  },
+  {
+    "zip": 8454,
+    "city": "Nyirád"
+  },
+  {
+    "zip": 8455,
+    "city": "Pusztamiske"
+  },
+  {
+    "zip": 8456,
+    "city": "Noszlop"
+  },
+  {
+    "zip": 8457,
+    "city": "Bakonypölöske"
+  },
+  {
+    "zip": 8458,
+    "city": "Oroszi"
+  },
+  {
+    "zip": 8460,
+    "city": "Devecser"
+  },
+  {
+    "zip": 8468,
+    "city": "Kolontár"
+  },
+  {
+    "zip": 8469,
+    "city": "Kamond"
+  },
+  {
+    "zip": 8471,
+    "city": "Káptalanfa"
+  },
+  {
+    "zip": 8471,
+    "city": "Bodorfa"
+  },
+  {
+    "zip": 8471,
+    "city": "Nemeshany"
+  },
+  {
+    "zip": 8473,
+    "city": "Gyepükaján"
+  },
+  {
+    "zip": 8474,
+    "city": "Csabrendek"
+  },
+  {
+    "zip": 8475,
+    "city": "Veszprémgalsa"
+  },
+  {
+    "zip": 8475,
+    "city": "Hosztót"
+  },
+  {
+    "zip": 8475,
+    "city": "Szentimrefalva"
+  },
+  {
+    "zip": 8476,
+    "city": "Zalaszegvár"
+  },
+  {
+    "zip": 8477,
+    "city": "Tüskevár"
+  },
+  {
+    "zip": 8477,
+    "city": "Apácatorna"
+  },
+  {
+    "zip": 8477,
+    "city": "Kisberzseny"
+  },
+  {
+    "zip": 8478,
+    "city": "Somlójenő"
+  },
+  {
+    "zip": 8479,
+    "city": "Borszörcsök"
+  },
+  {
+    "zip": 8481,
+    "city": "Somlóvásárhely"
+  },
+  {
+    "zip": 8482,
+    "city": "Doba"
+  },
+  {
+    "zip": 8483,
+    "city": "Somlószőlős"
+  },
+  {
+    "zip": 8483,
+    "city": "Kisszőlős"
+  },
+  {
+    "zip": 8484,
+    "city": "Nagyalásony"
+  },
+  {
+    "zip": 8484,
+    "city": "Somlóvecse"
+  },
+  {
+    "zip": 8484,
+    "city": "Vid"
+  },
+  {
+    "zip": 8485,
+    "city": "Dabrony"
+  },
+  {
+    "zip": 8491,
+    "city": "Karakószörcsök"
+  },
+  {
+    "zip": 8492,
+    "city": "Kerta"
+  },
+  {
+    "zip": 8493,
+    "city": "Iszkáz"
+  },
+  {
+    "zip": 8494,
+    "city": "Kiscsősz"
+  },
+  {
+    "zip": 8495,
+    "city": "Csögle"
+  },
+  {
+    "zip": 8496,
+    "city": "Nagypirit"
+  },
+  {
+    "zip": 8496,
+    "city": "Kispirit"
+  },
+  {
+    "zip": 8497,
+    "city": "Adorjánháza"
+  },
+  {
+    "zip": 8497,
+    "city": "Egeralja"
+  },
+  {
+    "zip": 8500,
+    "city": "Pápa"
+  },
+  {
+    "zip": 8511,
+    "city": "Pápa",
+    "region": "Borsosgyőr"
+  },
+  {
+    "zip": 8512,
+    "city": "Nyárád"
+  },
+  {
+    "zip": 8513,
+    "city": "Mihályháza"
+  },
+  {
+    "zip": 8514,
+    "city": "Mezőlak"
+  },
+  {
+    "zip": 8515,
+    "city": "Békás"
+  },
+  {
+    "zip": 8516,
+    "city": "Kemeneshőgyész"
+  },
+  {
+    "zip": 8517,
+    "city": "Magyargencs"
+  },
+  {
+    "zip": 8518,
+    "city": "Kemenesszentpéter"
+  },
+  {
+    "zip": 8521,
+    "city": "Nagyacsád"
+  },
+  {
+    "zip": 8522,
+    "city": "Nemesgörzsöny"
+  },
+  {
+    "zip": 8523,
+    "city": "Egyházaskesző"
+  },
+  {
+    "zip": 8523,
+    "city": "Várkesző"
+  },
+  {
+    "zip": 8531,
+    "city": "Marcaltő",
+    "region": "Ihász"
+  },
+  {
+    "zip": 8532,
+    "city": "Marcaltő"
+  },
+  {
+    "zip": 8533,
+    "city": "Malomsok"
+  },
+  {
+    "zip": 8541,
+    "city": "Takácsi"
+  },
+  {
+    "zip": 8542,
+    "city": "Vaszar"
+  },
+  {
+    "zip": 8543,
+    "city": "Gecse"
+  },
+  {
+    "zip": 8551,
+    "city": "Nagygyimót"
+  },
+  {
+    "zip": 8552,
+    "city": "Vanyola"
+  },
+  {
+    "zip": 8553,
+    "city": "Lovászpatona"
+  },
+  {
+    "zip": 8554,
+    "city": "Nagydém"
+  },
+  {
+    "zip": 8555,
+    "city": "Bakonytamási"
+  },
+  {
+    "zip": 8556,
+    "city": "Pápateszér"
+  },
+  {
+    "zip": 8557,
+    "city": "Bakonyszentiván"
+  },
+  {
+    "zip": 8557,
+    "city": "Bakonyság"
+  },
+  {
+    "zip": 8558,
+    "city": "Csót"
+  },
+  {
+    "zip": 8561,
+    "city": "Adásztevel"
+  },
+  {
+    "zip": 8562,
+    "city": "Nagytevel"
+  },
+  {
+    "zip": 8563,
+    "city": "Homokbödöge"
+  },
+  {
+    "zip": 8564,
+    "city": "Ugod"
+  },
+  {
+    "zip": 8565,
+    "city": "Béb"
+  },
+  {
+    "zip": 8571,
+    "city": "Bakonykoppány"
+  },
+  {
+    "zip": 8572,
+    "city": "Bakonyszücs"
+  },
+  {
+    "zip": 8581,
+    "city": "Bakonyjákó"
+  },
+  {
+    "zip": 8581,
+    "city": "Németbánya"
+  },
+  {
+    "zip": 8582,
+    "city": "Farkasgyepű"
+  },
+  {
+    "zip": 8591,
+    "city": "Pápa",
+    "region": "Kéttornyúlak"
+  },
+  {
+    "zip": 8591,
+    "city": "Nóráp"
+  },
+  {
+    "zip": 8592,
+    "city": "Dáka"
+  },
+  {
+    "zip": 8593,
+    "city": "Pápadereske"
+  },
+  {
+    "zip": 8594,
+    "city": "Pápasalamon"
+  },
+  {
+    "zip": 8595,
+    "city": "Kup"
+  },
+  {
+    "zip": 8596,
+    "city": "Pápakovácsi"
+  },
+  {
+    "zip": 8597,
+    "city": "Ganna"
+  },
+  {
+    "zip": 8597,
+    "city": "Döbrönte"
+  },
+  {
+    "zip": 8598,
+    "city": "Pápa",
+    "region": "Tapolcafő"
+  },
+  {
+    "zip": 8600,
+    "city": "Siófok"
+  },
+  {
+    "zip": 8612,
+    "city": "Nyim"
+  },
+  {
+    "zip": 8613,
+    "city": "Balatonendréd"
+  },
+  {
+    "zip": 8614,
+    "city": "Bálványos"
+  },
+  {
+    "zip": 8617,
+    "city": "Kőröshegy"
+  },
+  {
+    "zip": 8618,
+    "city": "Kereki"
+  },
+  {
+    "zip": 8619,
+    "city": "Pusztaszemes"
+  },
+  {
+    "zip": 8621,
+    "city": "Zamárdi"
+  },
+  {
+    "zip": 8622,
+    "city": "Szántód"
+  },
+  {
+    "zip": 8623,
+    "city": "Balatonföldvár"
+  },
+  {
+    "zip": 8624,
+    "city": "Balatonszárszó"
+  },
+  {
+    "zip": 8625,
+    "city": "Szólád"
+  },
+  {
+    "zip": 8626,
+    "city": "Teleki"
+  },
+  {
+    "zip": 8627,
+    "city": "Kötcse"
+  },
+  {
+    "zip": 8628,
+    "city": "Nagycsepely"
+  },
+  {
+    "zip": 8630,
+    "city": "Balatonboglár"
+  },
+  {
+    "zip": 8635,
+    "city": "Ordacsehi"
+  },
+  {
+    "zip": 8636,
+    "city": "Balatonszemes"
+  },
+  {
+    "zip": 8637,
+    "city": "Balatonőszöd"
+  },
+  {
+    "zip": 8638,
+    "city": "Balatonlelle"
+  },
+  {
+    "zip": 8640,
+    "city": "Fonyód"
+  },
+  {
+    "zip": 8646,
+    "city": "Balatonfenyves"
+  },
+  {
+    "zip": 8647,
+    "city": "Balatonmáriafürdő"
+  },
+  {
+    "zip": 8648,
+    "city": "Balatonkeresztúr"
+  },
+  {
+    "zip": 8649,
+    "city": "Balatonberény"
+  },
+  {
+    "zip": 8651,
+    "city": "Balatonszabadi"
+  },
+  {
+    "zip": 8652,
+    "city": "Siójut"
+  },
+  {
+    "zip": 8653,
+    "city": "Ádánd"
+  },
+  {
+    "zip": 8654,
+    "city": "Ságvár"
+  },
+  {
+    "zip": 8655,
+    "city": "Som"
+  },
+  {
+    "zip": 8656,
+    "city": "Nagyberény"
+  },
+  {
+    "zip": 8658,
+    "city": "Bábonymegyer"
+  },
+  {
+    "zip": 8660,
+    "city": "Tab"
+  },
+  {
+    "zip": 8660,
+    "city": "Lulla"
+  },
+  {
+    "zip": 8660,
+    "city": "Sérsekszőlős"
+  },
+  {
+    "zip": 8660,
+    "city": "Torvaj"
+  },
+  {
+    "zip": 8660,
+    "city": "Zala"
+  },
+  {
+    "zip": 8666,
+    "city": "Bedegkér"
+  },
+  {
+    "zip": 8666,
+    "city": "Somogyegres"
+  },
+  {
+    "zip": 8667,
+    "city": "Kánya"
+  },
+  {
+    "zip": 8668,
+    "city": "Tengőd"
+  },
+  {
+    "zip": 8669,
+    "city": "Miklósi"
+  },
+  {
+    "zip": 8671,
+    "city": "Kapoly"
+  },
+  {
+    "zip": 8672,
+    "city": "Zics"
+  },
+  {
+    "zip": 8673,
+    "city": "Somogymeggyes"
+  },
+  {
+    "zip": 8674,
+    "city": "Nágocs"
+  },
+  {
+    "zip": 8675,
+    "city": "Andocs"
+  },
+  {
+    "zip": 8676,
+    "city": "Karád"
+  },
+  {
+    "zip": 8681,
+    "city": "Látrány"
+  },
+  {
+    "zip": 8681,
+    "city": "Visz"
+  },
+  {
+    "zip": 8683,
+    "city": "Somogytúr"
+  },
+  {
+    "zip": 8684,
+    "city": "Somogybabod"
+  },
+  {
+    "zip": 8685,
+    "city": "Gamás"
+  },
+  {
+    "zip": 8691,
+    "city": "Balatonboglár",
+    "region": "Szőlőskislak"
+  },
+  {
+    "zip": 8692,
+    "city": "Szőlősgyörök"
+  },
+  {
+    "zip": 8692,
+    "city": "Gyugy"
+  },
+  {
+    "zip": 8693,
+    "city": "Lengyeltóti"
+  },
+  {
+    "zip": 8693,
+    "city": "Kisberény"
+  },
+  {
+    "zip": 8694,
+    "city": "Hács"
+  },
+  {
+    "zip": 8695,
+    "city": "Buzsák"
+  },
+  {
+    "zip": 8696,
+    "city": "Táska"
+  },
+  {
+    "zip": 8697,
+    "city": "Öreglak"
+  },
+  {
+    "zip": 8698,
+    "city": "Somogyvár"
+  },
+  {
+    "zip": 8698,
+    "city": "Pamuk"
+  },
+  {
+    "zip": 8699,
+    "city": "Somogyvámos"
+  },
+  {
+    "zip": 8700,
+    "city": "Marcali"
+  },
+  {
+    "zip": 8700,
+    "city": "Csömend"
+  },
+  {
+    "zip": 8705,
+    "city": "Somogyszentpál"
+  },
+  {
+    "zip": 8706,
+    "city": "Nikla"
+  },
+  {
+    "zip": 8707,
+    "city": "Pusztakovácsi"
+  },
+  {
+    "zip": 8707,
+    "city": "Libickozma"
+  },
+  {
+    "zip": 8708,
+    "city": "Somogyfajsz"
+  },
+  {
+    "zip": 8709,
+    "city": "Marcali",
+    "region": "Horvátkút"
+  },
+  {
+    "zip": 8710,
+    "city": "Balatonszentgyörgy"
+  },
+  {
+    "zip": 8711,
+    "city": "Vörs"
+  },
+  {
+    "zip": 8712,
+    "city": "Balatonújlak"
+  },
+  {
+    "zip": 8713,
+    "city": "Kéthely"
+  },
+  {
+    "zip": 8714,
+    "city": "Marcali",
+    "region": "Bize"
+  },
+  {
+    "zip": 8714,
+    "city": "Kelevíz"
+  },
+  {
+    "zip": 8716,
+    "city": "Mesztegnyő"
+  },
+  {
+    "zip": 8716,
+    "city": "Hosszúvíz"
+  },
+  {
+    "zip": 8716,
+    "city": "Gadány"
+  },
+  {
+    "zip": 8717,
+    "city": "Szenyér"
+  },
+  {
+    "zip": 8717,
+    "city": "Nemeskisfalud"
+  },
+  {
+    "zip": 8718,
+    "city": "Tapsony"
+  },
+  {
+    "zip": 8719,
+    "city": "Böhönye"
+  },
+  {
+    "zip": 8721,
+    "city": "Vése"
+  },
+  {
+    "zip": 8722,
+    "city": "Nemesdéd"
+  },
+  {
+    "zip": 8723,
+    "city": "Varászló"
+  },
+  {
+    "zip": 8724,
+    "city": "Inke"
+  },
+  {
+    "zip": 8725,
+    "city": "Iharosberény"
+  },
+  {
+    "zip": 8726,
+    "city": "Iharos"
+  },
+  {
+    "zip": 8726,
+    "city": "Somogycsicsó"
+  },
+  {
+    "zip": 8728,
+    "city": "Pogányszentpéter"
+  },
+  {
+    "zip": 8731,
+    "city": "Hollád"
+  },
+  {
+    "zip": 8731,
+    "city": "Tikos"
+  },
+  {
+    "zip": 8732,
+    "city": "Sávoly"
+  },
+  {
+    "zip": 8732,
+    "city": "Főnyed"
+  },
+  {
+    "zip": 8732,
+    "city": "Szegerdő"
+  },
+  {
+    "zip": 8733,
+    "city": "Somogysámson"
+  },
+  {
+    "zip": 8734,
+    "city": "Somogyzsitfa"
+  },
+  {
+    "zip": 8735,
+    "city": "Csákány"
+  },
+  {
+    "zip": 8736,
+    "city": "Szőkedencs"
+  },
+  {
+    "zip": 8737,
+    "city": "Somogysimonyi"
+  },
+  {
+    "zip": 8738,
+    "city": "Nemesvid"
+  },
+  {
+    "zip": 8739,
+    "city": "Nagyszakácsi"
+  },
+  {
+    "zip": 8741,
+    "city": "Zalaapáti"
+  },
+  {
+    "zip": 8741,
+    "city": "Bókaháza"
+  },
+  {
+    "zip": 8742,
+    "city": "Esztergályhorváti"
+  },
+  {
+    "zip": 8743,
+    "city": "Zalaszabar"
+  },
+  {
+    "zip": 8744,
+    "city": "Orosztony"
+  },
+  {
+    "zip": 8745,
+    "city": "Kerecseny"
+  },
+  {
+    "zip": 8746,
+    "city": "Nagyrada"
+  },
+  {
+    "zip": 8747,
+    "city": "Garabonc"
+  },
+  {
+    "zip": 8747,
+    "city": "Zalamerenye"
+  },
+  {
+    "zip": 8749,
+    "city": "Zalakaros"
+  },
+  {
+    "zip": 8751,
+    "city": "Zalakomár",
+    "region": "Kiskomárom"
+  },
+  {
+    "zip": 8752,
+    "city": "Zalakomár",
+    "region": "Komárváros"
+  },
+  {
+    "zip": 8753,
+    "city": "Balatonmagyaród"
+  },
+  {
+    "zip": 8754,
+    "city": "Galambok"
+  },
+  {
+    "zip": 8756,
+    "city": "Nagyrécse"
+  },
+  {
+    "zip": 8756,
+    "city": "Csapi"
+  },
+  {
+    "zip": 8756,
+    "city": "Kisrécse"
+  },
+  {
+    "zip": 8756,
+    "city": "Zalasárszeg"
+  },
+  {
+    "zip": 8761,
+    "city": "Pacsa"
+  },
+  {
+    "zip": 8761,
+    "city": "Zalaigrice"
+  },
+  {
+    "zip": 8762,
+    "city": "Szentpéterúr"
+  },
+  {
+    "zip": 8762,
+    "city": "Gétye"
+  },
+  {
+    "zip": 8764,
+    "city": "Dióskál"
+  },
+  {
+    "zip": 8764,
+    "city": "Zalaszentmárton"
+  },
+  {
+    "zip": 8765,
+    "city": "Egeraracsa"
+  },
+  {
+    "zip": 8767,
+    "city": "Felsőrajk"
+  },
+  {
+    "zip": 8767,
+    "city": "Alsórajk"
+  },
+  {
+    "zip": 8767,
+    "city": "Pötréte"
+  },
+  {
+    "zip": 8771,
+    "city": "Hahót"
+  },
+  {
+    "zip": 8772,
+    "city": "Zalaszentbalázs"
+  },
+  {
+    "zip": 8772,
+    "city": "Börzönce"
+  },
+  {
+    "zip": 8773,
+    "city": "Pölöskefő"
+  },
+  {
+    "zip": 8773,
+    "city": "Kacorlak"
+  },
+  {
+    "zip": 8774,
+    "city": "Gelse"
+  },
+  {
+    "zip": 8774,
+    "city": "Gelsesziget"
+  },
+  {
+    "zip": 8774,
+    "city": "Kilimán"
+  },
+  {
+    "zip": 8776,
+    "city": "Magyarszerdahely"
+  },
+  {
+    "zip": 8776,
+    "city": "Bocska"
+  },
+  {
+    "zip": 8776,
+    "city": "Magyarszentmiklós"
+  },
+  {
+    "zip": 8777,
+    "city": "Hosszúvölgy"
+  },
+  {
+    "zip": 8777,
+    "city": "Fűzvölgy"
+  },
+  {
+    "zip": 8777,
+    "city": "Homokkomárom"
+  },
+  {
+    "zip": 8778,
+    "city": "Újudvar"
+  },
+  {
+    "zip": 8782,
+    "city": "Zalacsány"
+  },
+  {
+    "zip": 8782,
+    "city": "Ligetfalva"
+  },
+  {
+    "zip": 8782,
+    "city": "Tilaj"
+  },
+  {
+    "zip": 8784,
+    "city": "Kehidakustány"
+  },
+  {
+    "zip": 8785,
+    "city": "Zalaszentgrót",
+    "region": "Zalakoppány"
+  },
+  {
+    "zip": 8785,
+    "city": "Kallósd"
+  },
+  {
+    "zip": 8788,
+    "city": "Zalaszentlászló"
+  },
+  {
+    "zip": 8788,
+    "city": "Sénye"
+  },
+  {
+    "zip": 8789,
+    "city": "Zalaszentgrót",
+    "region": "Zalaudvarnok"
+  },
+  {
+    "zip": 8790,
+    "city": "Zalaszentgrót"
+  },
+  {
+    "zip": 8792,
+    "city": "Zalavég"
+  },
+  {
+    "zip": 8793,
+    "city": "Tekenye"
+  },
+  {
+    "zip": 8795,
+    "city": "Zalaszentgrót",
+    "region": "Csáford"
+  },
+  {
+    "zip": 8796,
+    "city": "Türje"
+  },
+  {
+    "zip": 8797,
+    "city": "Batyk"
+  },
+  {
+    "zip": 8798,
+    "city": "Zalabér"
+  },
+  {
+    "zip": 8799,
+    "city": "Pakod"
+  },
+  {
+    "zip": 8799,
+    "city": "Dötk"
+  },
+  {
+    "zip": 8800,
+    "city": "Nagykanizsa"
+  },
+  {
+    "zip": 8808,
+    "city": "Nagykanizsa",
+    "region": "Palin"
+  },
+  {
+    "zip": 8809,
+    "city": "Nagykanizsa",
+    "region": "Sánc"
+  },
+  {
+    "zip": 8821,
+    "city": "Nagybakónak"
+  },
+  {
+    "zip": 8822,
+    "city": "Zalaújlak"
+  },
+  {
+    "zip": 8824,
+    "city": "Sand"
+  },
+  {
+    "zip": 8825,
+    "city": "Miháld"
+  },
+  {
+    "zip": 8825,
+    "city": "Pat"
+  },
+  {
+    "zip": 8827,
+    "city": "Zalaszentjakab"
+  },
+  {
+    "zip": 8831,
+    "city": "Nagykanizsa",
+    "region": "Miklósfa"
+  },
+  {
+    "zip": 8832,
+    "city": "Liszó"
+  },
+  {
+    "zip": 8834,
+    "city": "Murakeresztúr"
+  },
+  {
+    "zip": 8835,
+    "city": "Fityeház"
+  },
+  {
+    "zip": 8840,
+    "city": "Csurgó"
+  },
+  {
+    "zip": 8840,
+    "city": "Csurgónagymarton"
+  },
+  {
+    "zip": 8849,
+    "city": "Szenta"
+  },
+  {
+    "zip": 8851,
+    "city": "Gyékényes"
+  },
+  {
+    "zip": 8852,
+    "city": "Zákány"
+  },
+  {
+    "zip": 8853,
+    "city": "Zákányfalu"
+  },
+  {
+    "zip": 8854,
+    "city": "Őrtilos"
+  },
+  {
+    "zip": 8855,
+    "city": "Belezna"
+  },
+  {
+    "zip": 8856,
+    "city": "Surd"
+  },
+  {
+    "zip": 8857,
+    "city": "Nemespátró"
+  },
+  {
+    "zip": 8858,
+    "city": "Porrog"
+  },
+  {
+    "zip": 8858,
+    "city": "Porrogszentkirály"
+  },
+  {
+    "zip": 8858,
+    "city": "Porrogszentpál"
+  },
+  {
+    "zip": 8858,
+    "city": "Somogybükkösd"
+  },
+  {
+    "zip": 8861,
+    "city": "Szepetnek"
+  },
+  {
+    "zip": 8862,
+    "city": "Semjénháza"
+  },
+  {
+    "zip": 8863,
+    "city": "Molnári"
+  },
+  {
+    "zip": 8864,
+    "city": "Tótszerdahely"
+  },
+  {
+    "zip": 8865,
+    "city": "Tótszentmárton"
+  },
+  {
+    "zip": 8866,
+    "city": "Becsehely"
+  },
+  {
+    "zip": 8866,
+    "city": "Petrivente"
+  },
+  {
+    "zip": 8868,
+    "city": "Letenye"
+  },
+  {
+    "zip": 8868,
+    "city": "Kistolmács"
+  },
+  {
+    "zip": 8868,
+    "city": "Murarátka"
+  },
+  {
+    "zip": 8868,
+    "city": "Zajk"
+  },
+  {
+    "zip": 8872,
+    "city": "Muraszemenye"
+  },
+  {
+    "zip": 8872,
+    "city": "Szentmargitfalva"
+  },
+  {
+    "zip": 8873,
+    "city": "Csörnyeföld"
+  },
+  {
+    "zip": 8874,
+    "city": "Dobri"
+  },
+  {
+    "zip": 8874,
+    "city": "Kerkaszentkirály"
+  },
+  {
+    "zip": 8876,
+    "city": "Tormafölde"
+  },
+  {
+    "zip": 8877,
+    "city": "Tornyiszentmiklós"
+  },
+  {
+    "zip": 8878,
+    "city": "Lovászi"
+  },
+  {
+    "zip": 8879,
+    "city": "Szécsisziget"
+  },
+  {
+    "zip": 8879,
+    "city": "Kerkateskánd"
+  },
+  {
+    "zip": 8881,
+    "city": "Sormás"
+  },
+  {
+    "zip": 8882,
+    "city": "Eszteregnye"
+  },
+  {
+    "zip": 8883,
+    "city": "Rigyác"
+  },
+  {
+    "zip": 8885,
+    "city": "Borsfa"
+  },
+  {
+    "zip": 8885,
+    "city": "Valkonya"
+  },
+  {
+    "zip": 8886,
+    "city": "Oltárc"
+  },
+  {
+    "zip": 8887,
+    "city": "Bázakerettye"
+  },
+  {
+    "zip": 8887,
+    "city": "Lasztonya"
+  },
+  {
+    "zip": 8888,
+    "city": "Lispeszentadorján"
+  },
+  {
+    "zip": 8888,
+    "city": "Kiscsehi"
+  },
+  {
+    "zip": 8888,
+    "city": "Maróc"
+  },
+  {
+    "zip": 8891,
+    "city": "Bánokszentgyörgy"
+  },
+  {
+    "zip": 8891,
+    "city": "Várfölde"
+  },
+  {
+    "zip": 8893,
+    "city": "Szentliszló"
+  },
+  {
+    "zip": 8893,
+    "city": "Bucsuta"
+  },
+  {
+    "zip": 8895,
+    "city": "Pusztamagyaród"
+  },
+  {
+    "zip": 8896,
+    "city": "Pusztaszentlászló"
+  },
+  {
+    "zip": 8897,
+    "city": "Söjtör"
+  },
+  {
+    "zip": 8900,
+    "city": "Zalaegerszeg"
+  },
+  {
+    "zip": 8904,
+    "city": "Zalaegerszeg",
+    "region": "Andráshida"
+  },
+  {
+    "zip": 8911,
+    "city": "Nagykutas"
+  },
+  {
+    "zip": 8911,
+    "city": "Kiskutas"
+  },
+  {
+    "zip": 8912,
+    "city": "Kispáli"
+  },
+  {
+    "zip": 8912,
+    "city": "Nagypáli"
+  },
+  {
+    "zip": 8913,
+    "city": "Egervár"
+  },
+  {
+    "zip": 8913,
+    "city": "Gősfa"
+  },
+  {
+    "zip": 8913,
+    "city": "Lakhegy"
+  },
+  {
+    "zip": 8914,
+    "city": "Vasboldogasszony"
+  },
+  {
+    "zip": 8915,
+    "city": "Nemesrádó"
+  },
+  {
+    "zip": 8917,
+    "city": "Milejszeg"
+  },
+  {
+    "zip": 8918,
+    "city": "Csonkahegyhát"
+  },
+  {
+    "zip": 8918,
+    "city": "Németfalu"
+  },
+  {
+    "zip": 8919,
+    "city": "Kustánszeg"
+  },
+  {
+    "zip": 8921,
+    "city": "Zalaszentiván"
+  },
+  {
+    "zip": 8921,
+    "city": "Alibánfa"
+  },
+  {
+    "zip": 8921,
+    "city": "Pethőhenye"
+  },
+  {
+    "zip": 8921,
+    "city": "Zalaszentlőrinc"
+  },
+  {
+    "zip": 8923,
+    "city": "Nemesapáti"
+  },
+  {
+    "zip": 8924,
+    "city": "Alsónemesapáti"
+  },
+  {
+    "zip": 8925,
+    "city": "Búcsúszentlászló"
+  },
+  {
+    "zip": 8925,
+    "city": "Nemessándorháza"
+  },
+  {
+    "zip": 8925,
+    "city": "Nemesszentandrás"
+  },
+  {
+    "zip": 8926,
+    "city": "Kisbucsa"
+  },
+  {
+    "zip": 8928,
+    "city": "Nemeshetés"
+  },
+  {
+    "zip": 8929,
+    "city": "Pölöske"
+  },
+  {
+    "zip": 8931,
+    "city": "Kemendollár"
+  },
+  {
+    "zip": 8931,
+    "city": "Vöckönd"
+  },
+  {
+    "zip": 8932,
+    "city": "Pókaszepetk"
+  },
+  {
+    "zip": 8932,
+    "city": "Gyűrűs"
+  },
+  {
+    "zip": 8932,
+    "city": "Zalaistvánd"
+  },
+  {
+    "zip": 8934,
+    "city": "Bezeréd"
+  },
+  {
+    "zip": 8935,
+    "city": "Nagykapornak"
+  },
+  {
+    "zip": 8935,
+    "city": "Almásháza"
+  },
+  {
+    "zip": 8935,
+    "city": "Misefa"
+  },
+  {
+    "zip": 8935,
+    "city": "Orbányosfa"
+  },
+  {
+    "zip": 8935,
+    "city": "Padár"
+  },
+  {
+    "zip": 8936,
+    "city": "Zalaszentmihály"
+  },
+  {
+    "zip": 8943,
+    "city": "Bocfölde"
+  },
+  {
+    "zip": 8943,
+    "city": "Csatár"
+  },
+  {
+    "zip": 8944,
+    "city": "Sárhida"
+  },
+  {
+    "zip": 8945,
+    "city": "Bak"
+  },
+  {
+    "zip": 8946,
+    "city": "Tófej"
+  },
+  {
+    "zip": 8946,
+    "city": "Baktüttös"
+  },
+  {
+    "zip": 8946,
+    "city": "Pusztaederics"
+  },
+  {
+    "zip": 8947,
+    "city": "Zalatárnok"
+  },
+  {
+    "zip": 8947,
+    "city": "Szentkozmadombja"
+  },
+  {
+    "zip": 8948,
+    "city": "Nova"
+  },
+  {
+    "zip": 8948,
+    "city": "Barlahida"
+  },
+  {
+    "zip": 8949,
+    "city": "Mikekarácsonyfa"
+  },
+  {
+    "zip": 8951,
+    "city": "Gutorfölde"
+  },
+  {
+    "zip": 8951,
+    "city": "Csertalakos"
+  },
+  {
+    "zip": 8953,
+    "city": "Szentpéterfölde"
+  },
+  {
+    "zip": 8954,
+    "city": "Ortaháza"
+  },
+  {
+    "zip": 8956,
+    "city": "Páka"
+  },
+  {
+    "zip": 8956,
+    "city": "Kányavár"
+  },
+  {
+    "zip": 8956,
+    "city": "Pördefölde"
+  },
+  {
+    "zip": 8957,
+    "city": "Csömödér"
+  },
+  {
+    "zip": 8957,
+    "city": "Hernyék"
+  },
+  {
+    "zip": 8957,
+    "city": "Kissziget"
+  },
+  {
+    "zip": 8957,
+    "city": "Zebecke"
+  },
+  {
+    "zip": 8958,
+    "city": "Iklódbördőce"
+  },
+  {
+    "zip": 8960,
+    "city": "Lenti"
+  },
+  {
+    "zip": 8960,
+    "city": "Gosztola"
+  },
+  {
+    "zip": 8966,
+    "city": "Lenti",
+    "region": "Lentikápolna"
+  },
+  {
+    "zip": 8969,
+    "city": "Gáborjánháza"
+  },
+  {
+    "zip": 8969,
+    "city": "Bödeháza"
+  },
+  {
+    "zip": 8969,
+    "city": "Szijártóháza"
+  },
+  {
+    "zip": 8969,
+    "city": "Zalaszombatfa"
+  },
+  {
+    "zip": 8971,
+    "city": "Zalabaksa"
+  },
+  {
+    "zip": 8971,
+    "city": "Kerkabarabás"
+  },
+  {
+    "zip": 8973,
+    "city": "Csesztreg"
+  },
+  {
+    "zip": 8973,
+    "city": "Alsószenterzsébet"
+  },
+  {
+    "zip": 8973,
+    "city": "Felsőszenterzsébet"
+  },
+  {
+    "zip": 8973,
+    "city": "Kerkafalva"
+  },
+  {
+    "zip": 8973,
+    "city": "Kerkakutas"
+  },
+  {
+    "zip": 8973,
+    "city": "Magyarföld"
+  },
+  {
+    "zip": 8973,
+    "city": "Ramocsa"
+  },
+  {
+    "zip": 8975,
+    "city": "Szentgyörgyvölgy"
+  },
+  {
+    "zip": 8976,
+    "city": "Nemesnép"
+  },
+  {
+    "zip": 8976,
+    "city": "Márokföld"
+  },
+  {
+    "zip": 8977,
+    "city": "Resznek"
+  },
+  {
+    "zip": 8977,
+    "city": "Baglad"
+  },
+  {
+    "zip": 8977,
+    "city": "Lendvajakabfa"
+  },
+  {
+    "zip": 8978,
+    "city": "Rédics"
+  },
+  {
+    "zip": 8978,
+    "city": "Belsősárd"
+  },
+  {
+    "zip": 8978,
+    "city": "Külsősárd"
+  },
+  {
+    "zip": 8978,
+    "city": "Lendvadedes"
+  },
+  {
+    "zip": 8981,
+    "city": "Gellénháza"
+  },
+  {
+    "zip": 8981,
+    "city": "Lickóvadamos"
+  },
+  {
+    "zip": 8983,
+    "city": "Nagylengyel"
+  },
+  {
+    "zip": 8983,
+    "city": "Babosdöbréte"
+  },
+  {
+    "zip": 8983,
+    "city": "Ormándlak"
+  },
+  {
+    "zip": 8984,
+    "city": "Petrikeresztúr"
+  },
+  {
+    "zip": 8984,
+    "city": "Gombosszeg"
+  },
+  {
+    "zip": 8984,
+    "city": "Iborfia"
+  },
+  {
+    "zip": 8985,
+    "city": "Becsvölgye"
+  },
+  {
+    "zip": 8986,
+    "city": "Pórszombat"
+  },
+  {
+    "zip": 8986,
+    "city": "Pusztaapáti"
+  },
+  {
+    "zip": 8986,
+    "city": "Szilvágy"
+  },
+  {
+    "zip": 8988,
+    "city": "Kálócfa"
+  },
+  {
+    "zip": 8988,
+    "city": "Kozmadombja"
+  },
+  {
+    "zip": 8989,
+    "city": "Dobronhegy"
+  },
+  {
+    "zip": 8990,
+    "city": "Pálfiszeg"
+  },
+  {
+    "zip": 8991,
+    "city": "Teskánd"
+  },
+  {
+    "zip": 8991,
+    "city": "Böde"
+  },
+  {
+    "zip": 8991,
+    "city": "Hottó"
+  },
+  {
+    "zip": 8992,
+    "city": "Bagod"
+  },
+  {
+    "zip": 8992,
+    "city": "Boncodfölde"
+  },
+  {
+    "zip": 8992,
+    "city": "Hagyárosbörönd"
+  },
+  {
+    "zip": 8992,
+    "city": "Zalaboldogfa"
+  },
+  {
+    "zip": 8994,
+    "city": "Zalaszentgyörgy"
+  },
+  {
+    "zip": 8994,
+    "city": "Kávás"
+  },
+  {
+    "zip": 8995,
+    "city": "Salomvár"
+  },
+  {
+    "zip": 8995,
+    "city": "Keménfa"
+  },
+  {
+    "zip": 8996,
+    "city": "Zalacséb"
+  },
+  {
+    "zip": 8997,
+    "city": "Zalaháshágy"
+  },
+  {
+    "zip": 8998,
+    "city": "Vaspör"
+  },
+  {
+    "zip": 8998,
+    "city": "Ozmánbük"
+  },
+  {
+    "zip": 8999,
+    "city": "Zalalövő"
+  },
+  {
+    "zip": 8999,
+    "city": "Csöde"
+  },
+  {
+    "zip": 9000,
+    "city": "Győr*"
+  },
+  {
+    "zip": 9061,
+    "city": "Vámosszabadi"
+  },
+  {
+    "zip": 9062,
+    "city": "Kisbajcs"
+  },
+  {
+    "zip": 9062,
+    "city": "Vének"
+  },
+  {
+    "zip": 9063,
+    "city": "Nagybajcs"
+  },
+  {
+    "zip": 9064,
+    "city": "Vámosszabadi",
+    "region": "Szitásdomb"
+  },
+  {
+    "zip": 9071,
+    "city": "Gönyű"
+  },
+  {
+    "zip": 9072,
+    "city": "Nagyszentjános"
+  },
+  {
+    "zip": 9073,
+    "city": "Bőny"
+  },
+  {
+    "zip": 9074,
+    "city": "Rétalap"
+  },
+  {
+    "zip": 9081,
+    "city": "Győrújbarát"
+  },
+  {
+    "zip": 9082,
+    "city": "Nyúl"
+  },
+  {
+    "zip": 9083,
+    "city": "Écs"
+  },
+  {
+    "zip": 9084,
+    "city": "Győrság"
+  },
+  {
+    "zip": 9085,
+    "city": "Pázmándfalu"
+  },
+  {
+    "zip": 9086,
+    "city": "Töltéstava"
+  },
+  {
+    "zip": 9088,
+    "city": "Bakonypéterd"
+  },
+  {
+    "zip": 9089,
+    "city": "Lázi"
+  },
+  {
+    "zip": 9090,
+    "city": "Pannonhalma"
+  },
+  {
+    "zip": 9091,
+    "city": "Ravazd"
+  },
+  {
+    "zip": 9092,
+    "city": "Tarjánpuszta"
+  },
+  {
+    "zip": 9093,
+    "city": "Győrasszonyfa"
+  },
+  {
+    "zip": 9094,
+    "city": "Tápszentmiklós"
+  },
+  {
+    "zip": 9095,
+    "city": "Táp"
+  },
+  {
+    "zip": 9096,
+    "city": "Nyalka"
+  },
+  {
+    "zip": 9097,
+    "city": "Mezőörs"
+  },
+  {
+    "zip": 9098,
+    "city": "Pér",
+    "region": "Mindszentpuszta"
+  },
+  {
+    "zip": 9099,
+    "city": "Pér"
+  },
+  {
+    "zip": 9100,
+    "city": "Tét"
+  },
+  {
+    "zip": 9111,
+    "city": "Tényő"
+  },
+  {
+    "zip": 9112,
+    "city": "Sokorópátka"
+  },
+  {
+    "zip": 9113,
+    "city": "Koroncó"
+  },
+  {
+    "zip": 9121,
+    "city": "Győrszemere"
+  },
+  {
+    "zip": 9122,
+    "city": "Felpéc"
+  },
+  {
+    "zip": 9123,
+    "city": "Kajárpéc"
+  },
+  {
+    "zip": 9124,
+    "city": "Gyömöre"
+  },
+  {
+    "zip": 9125,
+    "city": "Szerecseny"
+  },
+  {
+    "zip": 9126,
+    "city": "Gyarmat"
+  },
+  {
+    "zip": 9127,
+    "city": "Csikvánd"
+  },
+  {
+    "zip": 9131,
+    "city": "Mórichida"
+  },
+  {
+    "zip": 9132,
+    "city": "Árpás"
+  },
+  {
+    "zip": 9133,
+    "city": "Kisbabot"
+  },
+  {
+    "zip": 9133,
+    "city": "Rábaszentmiklós"
+  },
+  {
+    "zip": 9134,
+    "city": "Bodonhely"
+  },
+  {
+    "zip": 9135,
+    "city": "Rábaszentmihály"
+  },
+  {
+    "zip": 9136,
+    "city": "Rábacsécsény"
+  },
+  {
+    "zip": 9136,
+    "city": "Mérges"
+  },
+  {
+    "zip": 9141,
+    "city": "Ikrény"
+  },
+  {
+    "zip": 9142,
+    "city": "Rábapatona"
+  },
+  {
+    "zip": 9143,
+    "city": "Enese"
+  },
+  {
+    "zip": 9144,
+    "city": "Kóny"
+  },
+  {
+    "zip": 9145,
+    "city": "Bágyogszovát"
+  },
+  {
+    "zip": 9146,
+    "city": "Rábapordány"
+  },
+  {
+    "zip": 9147,
+    "city": "Dör"
+  },
+  {
+    "zip": 9151,
+    "city": "Abda"
+  },
+  {
+    "zip": 9152,
+    "city": "Börcs"
+  },
+  {
+    "zip": 9153,
+    "city": "Öttevény"
+  },
+  {
+    "zip": 9154,
+    "city": "Mosonszentmiklós"
+  },
+  {
+    "zip": 9155,
+    "city": "Lébény"
+  },
+  {
+    "zip": 9161,
+    "city": "Győrsövényház"
+  },
+  {
+    "zip": 9162,
+    "city": "Bezi"
+  },
+  {
+    "zip": 9163,
+    "city": "Fehértó"
+  },
+  {
+    "zip": 9164,
+    "city": "Markotabödöge"
+  },
+  {
+    "zip": 9165,
+    "city": "Rábcakapi"
+  },
+  {
+    "zip": 9165,
+    "city": "Cakóháza"
+  },
+  {
+    "zip": 9165,
+    "city": "Tárnokréti"
+  },
+  {
+    "zip": 9167,
+    "city": "Bősárkány"
+  },
+  {
+    "zip": 9167,
+    "city": "Jánossomorja",
+    "region": "Hanságliget"
+  },
+  {
+    "zip": 9168,
+    "city": "Acsalag"
+  },
+  {
+    "zip": 9168,
+    "city": "Csorna",
+    "region": "Földsziget"
+  },
+  {
+    "zip": 9169,
+    "city": "Barbacs"
+  },
+  {
+    "zip": 9169,
+    "city": "Maglóca"
+  },
+  {
+    "zip": 9171,
+    "city": "Győrújfalu"
+  },
+  {
+    "zip": 9172,
+    "city": "Győrzámoly"
+  },
+  {
+    "zip": 9173,
+    "city": "Győrladamér"
+  },
+  {
+    "zip": 9174,
+    "city": "Dunaszeg"
+  },
+  {
+    "zip": 9175,
+    "city": "Dunaszentpál"
+  },
+  {
+    "zip": 9176,
+    "city": "Mecsér"
+  },
+  {
+    "zip": 9177,
+    "city": "Ásványráró"
+  },
+  {
+    "zip": 9178,
+    "city": "Hédervár"
+  },
+  {
+    "zip": 9181,
+    "city": "Kimle"
+  },
+  {
+    "zip": 9182,
+    "city": "Károlyháza"
+  },
+  {
+    "zip": 9183,
+    "city": "Mosonszentmiklós",
+    "region": "Mosonújhely"
+  },
+  {
+    "zip": 9184,
+    "city": "Kunsziget"
+  },
+  {
+    "zip": 9200,
+    "city": "Mosonmagyaróvár"
+  },
+  {
+    "zip": 9211,
+    "city": "Feketeerdő"
+  },
+  {
+    "zip": 9221,
+    "city": "Levél"
+  },
+  {
+    "zip": 9222,
+    "city": "Hegyeshalom"
+  },
+  {
+    "zip": 9223,
+    "city": "Bezenye"
+  },
+  {
+    "zip": 9224,
+    "city": "Rajka"
+  },
+  {
+    "zip": 9225,
+    "city": "Dunakiliti"
+  },
+  {
+    "zip": 9226,
+    "city": "Dunasziget"
+  },
+  {
+    "zip": 9228,
+    "city": "Halászi"
+  },
+  {
+    "zip": 9231,
+    "city": "Máriakálnok"
+  },
+  {
+    "zip": 9232,
+    "city": "Darnózseli"
+  },
+  {
+    "zip": 9233,
+    "city": "Lipót"
+  },
+  {
+    "zip": 9234,
+    "city": "Kisbodak"
+  },
+  {
+    "zip": 9235,
+    "city": "Püski"
+  },
+  {
+    "zip": 9235,
+    "city": "Dunaremete"
+  },
+  {
+    "zip": 9241,
+    "city": "Jánossomorja",
+    "region": "Mosonszentjános"
+  },
+  {
+    "zip": 9242,
+    "city": "Jánossomorja",
+    "region": "Pusztasomorja"
+  },
+  {
+    "zip": 9243,
+    "city": "Jánossomorja",
+    "region": "Újtanya"
+  },
+  {
+    "zip": 9243,
+    "city": "Várbalog"
+  },
+  {
+    "zip": 9244,
+    "city": "Újrónafő"
+  },
+  {
+    "zip": 9245,
+    "city": "Mosonszolnok"
+  },
+  {
+    "zip": 9246,
+    "city": "Mosonudvar"
+  },
+  {
+    "zip": 9300,
+    "city": "Csorna"
+  },
+  {
+    "zip": 9311,
+    "city": "Pásztori"
+  },
+  {
+    "zip": 9312,
+    "city": "Szilsárkány"
+  },
+  {
+    "zip": 9313,
+    "city": "Rábacsanak"
+  },
+  {
+    "zip": 9314,
+    "city": "Egyed"
+  },
+  {
+    "zip": 9315,
+    "city": "Sobor"
+  },
+  {
+    "zip": 9316,
+    "city": "Rábaszentandrás"
+  },
+  {
+    "zip": 9317,
+    "city": "Szany"
+  },
+  {
+    "zip": 9321,
+    "city": "Farád"
+  },
+  {
+    "zip": 9322,
+    "city": "Rábatamási"
+  },
+  {
+    "zip": 9323,
+    "city": "Jobaháza"
+  },
+  {
+    "zip": 9324,
+    "city": "Bogyoszló"
+  },
+  {
+    "zip": 9324,
+    "city": "Potyond"
+  },
+  {
+    "zip": 9325,
+    "city": "Sopronnémeti"
+  },
+  {
+    "zip": 9326,
+    "city": "Szil"
+  },
+  {
+    "zip": 9327,
+    "city": "Vág"
+  },
+  {
+    "zip": 9327,
+    "city": "Rábasebes"
+  },
+  {
+    "zip": 9330,
+    "city": "Kapuvár"
+  },
+  {
+    "zip": 9339,
+    "city": "Kapuvár",
+    "region": "Öntésmajor"
+  },
+  {
+    "zip": 9341,
+    "city": "Kisfalud"
+  },
+  {
+    "zip": 9342,
+    "city": "Mihályi"
+  },
+  {
+    "zip": 9343,
+    "city": "Beled"
+  },
+  {
+    "zip": 9343,
+    "city": "Edve"
+  },
+  {
+    "zip": 9343,
+    "city": "Vásárosfalu"
+  },
+  {
+    "zip": 9344,
+    "city": "Rábakecöl"
+  },
+  {
+    "zip": 9345,
+    "city": "Páli"
+  },
+  {
+    "zip": 9346,
+    "city": "Magyarkeresztúr"
+  },
+  {
+    "zip": 9346,
+    "city": "Vadosfa"
+  },
+  {
+    "zip": 9346,
+    "city": "Zsebeháza"
+  },
+  {
+    "zip": 9351,
+    "city": "Babót"
+  },
+  {
+    "zip": 9352,
+    "city": "Veszkény"
+  },
+  {
+    "zip": 9353,
+    "city": "Szárföld"
+  },
+  {
+    "zip": 9354,
+    "city": "Osli"
+  },
+  {
+    "zip": 9361,
+    "city": "Hövej"
+  },
+  {
+    "zip": 9362,
+    "city": "Himod"
+  },
+  {
+    "zip": 9363,
+    "city": "Gyóró"
+  },
+  {
+    "zip": 9364,
+    "city": "Cirák"
+  },
+  {
+    "zip": 9365,
+    "city": "Dénesfa"
+  },
+  {
+    "zip": 9371,
+    "city": "Vitnyéd"
+  },
+  {
+    "zip": 9372,
+    "city": "Csapod"
+  },
+  {
+    "zip": 9373,
+    "city": "Pusztacsalád"
+  },
+  {
+    "zip": 9374,
+    "city": "Iván"
+  },
+  {
+    "zip": 9375,
+    "city": "Répceszemere"
+  },
+  {
+    "zip": 9375,
+    "city": "Csáfordjánosfa"
+  },
+  {
+    "zip": 9375,
+    "city": "Csér"
+  },
+  {
+    "zip": 9400,
+    "city": "Sopron"
+  },
+  {
+    "zip": 9407,
+    "city": "Sopron",
+    "region": "Sopronkőhida"
+  },
+  {
+    "zip": 9408,
+    "city": "Sopron",
+    "region": "Brennbergbánya"
+  },
+  {
+    "zip": 9421,
+    "city": "Fertőrákos"
+  },
+  {
+    "zip": 9422,
+    "city": "Harka"
+  },
+  {
+    "zip": 9423,
+    "city": "Ágfalva"
+  },
+  {
+    "zip": 9431,
+    "city": "Fertőd"
+  },
+  {
+    "zip": 9433,
+    "city": "Fertőd",
+    "region": "Tőzeggyármajor"
+  },
+  {
+    "zip": 9434,
+    "city": "Sarród",
+    "region": "Fertőújlak"
+  },
+  {
+    "zip": 9435,
+    "city": "Sarród"
+  },
+  {
+    "zip": 9436,
+    "city": "Fertőszéplak"
+  },
+  {
+    "zip": 9437,
+    "city": "Hegykő"
+  },
+  {
+    "zip": 9438,
+    "city": "Sarród",
+    "region": "Nyárliget"
+  },
+  {
+    "zip": 9441,
+    "city": "Agyagosszergény"
+  },
+  {
+    "zip": 9442,
+    "city": "Fertőendréd"
+  },
+  {
+    "zip": 9443,
+    "city": "Petőháza"
+  },
+  {
+    "zip": 9444,
+    "city": "Fertőszentmiklós"
+  },
+  {
+    "zip": 9451,
+    "city": "Röjtökmuzsaj"
+  },
+  {
+    "zip": 9451,
+    "city": "Ebergőc"
+  },
+  {
+    "zip": 9461,
+    "city": "Lövő"
+  },
+  {
+    "zip": 9462,
+    "city": "Völcsej"
+  },
+  {
+    "zip": 9463,
+    "city": "Sopronhorpács"
+  },
+  {
+    "zip": 9464,
+    "city": "Und"
+  },
+  {
+    "zip": 9471,
+    "city": "Nemeskér"
+  },
+  {
+    "zip": 9472,
+    "city": "Újkér"
+  },
+  {
+    "zip": 9473,
+    "city": "Egyházasfalu"
+  },
+  {
+    "zip": 9474,
+    "city": "Szakony"
+  },
+  {
+    "zip": 9474,
+    "city": "Gyalóka"
+  },
+  {
+    "zip": 9475,
+    "city": "Répcevis"
+  },
+  {
+    "zip": 9476,
+    "city": "Zsira"
+  },
+  {
+    "zip": 9481,
+    "city": "Pinnye"
+  },
+  {
+    "zip": 9482,
+    "city": "Nagylózs"
+  },
+  {
+    "zip": 9483,
+    "city": "Sopronkövesd"
+  },
+  {
+    "zip": 9484,
+    "city": "Pereszteg"
+  },
+  {
+    "zip": 9485,
+    "city": "Nagycenk"
+  },
+  {
+    "zip": 9491,
+    "city": "Hidegség"
+  },
+  {
+    "zip": 9492,
+    "city": "Fertőhomok"
+  },
+  {
+    "zip": 9493,
+    "city": "Fertőboz"
+  },
+  {
+    "zip": 9494,
+    "city": "Sopron",
+    "region": "Balf"
+  },
+  {
+    "zip": 9495,
+    "city": "Kópháza"
+  },
+  {
+    "zip": 9500,
+    "city": "Celldömölk"
+  },
+  {
+    "zip": 9511,
+    "city": "Kemenesmihályfa"
+  },
+  {
+    "zip": 9512,
+    "city": "Ostffyasszonyfa"
+  },
+  {
+    "zip": 9513,
+    "city": "Csönge"
+  },
+  {
+    "zip": 9514,
+    "city": "Kenyeri"
+  },
+  {
+    "zip": 9515,
+    "city": "Pápoc"
+  },
+  {
+    "zip": 9516,
+    "city": "Vönöck"
+  },
+  {
+    "zip": 9517,
+    "city": "Kemenessömjén"
+  },
+  {
+    "zip": 9521,
+    "city": "Kemenesszentmárton"
+  },
+  {
+    "zip": 9522,
+    "city": "Kemenesmagasi"
+  },
+  {
+    "zip": 9523,
+    "city": "Szergény"
+  },
+  {
+    "zip": 9531,
+    "city": "Mersevát"
+  },
+  {
+    "zip": 9532,
+    "city": "Külsővat"
+  },
+  {
+    "zip": 9533,
+    "city": "Nemesszalók"
+  },
+  {
+    "zip": 9534,
+    "city": "Marcalgergelyi"
+  },
+  {
+    "zip": 9534,
+    "city": "Vinár"
+  },
+  {
+    "zip": 9541,
+    "city": "Celldömölk",
+    "region": "Izsákfa"
+  },
+  {
+    "zip": 9542,
+    "city": "Boba"
+  },
+  {
+    "zip": 9542,
+    "city": "Nemeskocs"
+  },
+  {
+    "zip": 9544,
+    "city": "Kemenespálfa"
+  },
+  {
+    "zip": 9545,
+    "city": "Jánosháza"
+  },
+  {
+    "zip": 9547,
+    "city": "Karakó"
+  },
+  {
+    "zip": 9548,
+    "city": "Nemeskeresztúr"
+  },
+  {
+    "zip": 9549,
+    "city": "Keléd"
+  },
+  {
+    "zip": 9551,
+    "city": "Mesteri"
+  },
+  {
+    "zip": 9552,
+    "city": "Vásárosmiske"
+  },
+  {
+    "zip": 9553,
+    "city": "Köcsk"
+  },
+  {
+    "zip": 9553,
+    "city": "Kemeneskápolna"
+  },
+  {
+    "zip": 9554,
+    "city": "Egyházashetye"
+  },
+  {
+    "zip": 9554,
+    "city": "Borgáta"
+  },
+  {
+    "zip": 9555,
+    "city": "Kissomlyó"
+  },
+  {
+    "zip": 9556,
+    "city": "Duka"
+  },
+  {
+    "zip": 9561,
+    "city": "Nagysimonyi"
+  },
+  {
+    "zip": 9561,
+    "city": "Tokorcs"
+  },
+  {
+    "zip": 9600,
+    "city": "Sárvár"
+  },
+  {
+    "zip": 9608,
+    "city": "Sárvár",
+    "region": "Rábasömjén"
+  },
+  {
+    "zip": 9609,
+    "city": "Sárvár",
+    "region": "Lánkapuszta"
+  },
+  {
+    "zip": 9611,
+    "city": "Csénye"
+  },
+  {
+    "zip": 9612,
+    "city": "Bögöt"
+  },
+  {
+    "zip": 9612,
+    "city": "Porpác"
+  },
+  {
+    "zip": 9621,
+    "city": "Ölbő"
+  },
+  {
+    "zip": 9622,
+    "city": "Szeleste"
+  },
+  {
+    "zip": 9623,
+    "city": "Répceszentgyörgy"
+  },
+  {
+    "zip": 9624,
+    "city": "Chernelházadamonya"
+  },
+  {
+    "zip": 9625,
+    "city": "Bő"
+  },
+  {
+    "zip": 9625,
+    "city": "Gór"
+  },
+  {
+    "zip": 9631,
+    "city": "Hegyfalu"
+  },
+  {
+    "zip": 9632,
+    "city": "Sajtoskál"
+  },
+  {
+    "zip": 9633,
+    "city": "Simaság"
+  },
+  {
+    "zip": 9634,
+    "city": "Lócs"
+  },
+  {
+    "zip": 9634,
+    "city": "Iklanberény"
+  },
+  {
+    "zip": 9635,
+    "city": "Zsédeny"
+  },
+  {
+    "zip": 9636,
+    "city": "Pósfa"
+  },
+  {
+    "zip": 9641,
+    "city": "Rábapaty"
+  },
+  {
+    "zip": 9643,
+    "city": "Jákfa"
+  },
+  {
+    "zip": 9651,
+    "city": "Uraiújfalu"
+  },
+  {
+    "zip": 9652,
+    "city": "Nick"
+  },
+  {
+    "zip": 9653,
+    "city": "Répcelak"
+  },
+  {
+    "zip": 9654,
+    "city": "Csánig"
+  },
+  {
+    "zip": 9661,
+    "city": "Vasegerszeg"
+  },
+  {
+    "zip": 9662,
+    "city": "Tompaládony"
+  },
+  {
+    "zip": 9662,
+    "city": "Mesterháza"
+  },
+  {
+    "zip": 9663,
+    "city": "Nemesládony"
+  },
+  {
+    "zip": 9664,
+    "city": "Nagygeresd"
+  },
+  {
+    "zip": 9665,
+    "city": "Vámoscsalád"
+  },
+  {
+    "zip": 9671,
+    "city": "Sitke"
+  },
+  {
+    "zip": 9672,
+    "city": "Gérce"
+  },
+  {
+    "zip": 9673,
+    "city": "Káld"
+  },
+  {
+    "zip": 9674,
+    "city": "Vashosszúfalu"
+  },
+  {
+    "zip": 9675,
+    "city": "Bögöte"
+  },
+  {
+    "zip": 9676,
+    "city": "Hosszúpereszteg"
+  },
+  {
+    "zip": 9681,
+    "city": "Sótony"
+  },
+  {
+    "zip": 9682,
+    "city": "Nyőgér"
+  },
+  {
+    "zip": 9683,
+    "city": "Bejcgyertyános"
+  },
+  {
+    "zip": 9684,
+    "city": "Egervölgy"
+  },
+  {
+    "zip": 9685,
+    "city": "Szemenye"
+  },
+  {
+    "zip": 9700,
+    "city": "Szombathely"
+  },
+  {
+    "zip": 9707,
+    "city": "Szombathely",
+    "region": "Herény"
+  },
+  {
+    "zip": 9721,
+    "city": "Gencsapáti"
+  },
+  {
+    "zip": 9722,
+    "city": "Perenye"
+  },
+  {
+    "zip": 9723,
+    "city": "Gyöngyösfalu"
+  },
+  {
+    "zip": 9724,
+    "city": "Lukácsháza"
+  },
+  {
+    "zip": 9725,
+    "city": "Kőszegszerdahely"
+  },
+  {
+    "zip": 9725,
+    "city": "Cák"
+  },
+  {
+    "zip": 9725,
+    "city": "Kőszegdoroszló"
+  },
+  {
+    "zip": 9726,
+    "city": "Velem"
+  },
+  {
+    "zip": 9727,
+    "city": "Bozsok"
+  },
+  {
+    "zip": 9730,
+    "city": "Kőszeg"
+  },
+  {
+    "zip": 9733,
+    "city": "Horvátzsidány"
+  },
+  {
+    "zip": 9733,
+    "city": "Kiszsidány"
+  },
+  {
+    "zip": 9733,
+    "city": "Ólmod"
+  },
+  {
+    "zip": 9734,
+    "city": "Peresznye"
+  },
+  {
+    "zip": 9735,
+    "city": "Csepreg"
+  },
+  {
+    "zip": 9736,
+    "city": "Tormásliget"
+  },
+  {
+    "zip": 9737,
+    "city": "Bük"
+  },
+  {
+    "zip": 9738,
+    "city": "Tömörd"
+  },
+  {
+    "zip": 9739,
+    "city": "Nemescsó"
+  },
+  {
+    "zip": 9739,
+    "city": "Kőszegpaty"
+  },
+  {
+    "zip": 9739,
+    "city": "Pusztacsó"
+  },
+  {
+    "zip": 9740,
+    "city": "Bük",
+    "region": "Bükfürdő"
+  },
+  {
+    "zip": 9741,
+    "city": "Vassurány"
+  },
+  {
+    "zip": 9742,
+    "city": "Salköveskút"
+  },
+  {
+    "zip": 9743,
+    "city": "Söpte"
+  },
+  {
+    "zip": 9744,
+    "city": "Vasasszonyfa"
+  },
+  {
+    "zip": 9745,
+    "city": "Meszlen"
+  },
+  {
+    "zip": 9746,
+    "city": "Acsád"
+  },
+  {
+    "zip": 9747,
+    "city": "Vasszilvágy"
+  },
+  {
+    "zip": 9748,
+    "city": "Vát"
+  },
+  {
+    "zip": 9749,
+    "city": "Nemesbőd"
+  },
+  {
+    "zip": 9751,
+    "city": "Vép"
+  },
+  {
+    "zip": 9752,
+    "city": "Bozzai"
+  },
+  {
+    "zip": 9752,
+    "city": "Kenéz"
+  },
+  {
+    "zip": 9754,
+    "city": "Pecöl"
+  },
+  {
+    "zip": 9754,
+    "city": "Megyehíd"
+  },
+  {
+    "zip": 9756,
+    "city": "Ikervár"
+  },
+  {
+    "zip": 9757,
+    "city": "Meggyeskovácsi"
+  },
+  {
+    "zip": 9761,
+    "city": "Táplánszentkereszt"
+  },
+  {
+    "zip": 9762,
+    "city": "Tanakajd"
+  },
+  {
+    "zip": 9763,
+    "city": "Vasszécseny"
+  },
+  {
+    "zip": 9764,
+    "city": "Csempeszkopács"
+  },
+  {
+    "zip": 9764,
+    "city": "Meggyeskovácsi",
+    "region": "Ilonapuszta"
+  },
+  {
+    "zip": 9766,
+    "city": "Rum"
+  },
+  {
+    "zip": 9766,
+    "city": "Rábatöttös"
+  },
+  {
+    "zip": 9766,
+    "city": "Zsennye"
+  },
+  {
+    "zip": 9771,
+    "city": "Balogunyom"
+  },
+  {
+    "zip": 9772,
+    "city": "Kisunyom"
+  },
+  {
+    "zip": 9773,
+    "city": "Sorokpolány"
+  },
+  {
+    "zip": 9774,
+    "city": "Sorkifalud"
+  },
+  {
+    "zip": 9774,
+    "city": "Gyanógeregye"
+  },
+  {
+    "zip": 9774,
+    "city": "Sorkikápolna"
+  },
+  {
+    "zip": 9775,
+    "city": "Nemeskolta"
+  },
+  {
+    "zip": 9776,
+    "city": "Püspökmolnári"
+  },
+  {
+    "zip": 9777,
+    "city": "Rábahídvég"
+  },
+  {
+    "zip": 9781,
+    "city": "Egyházashollós"
+  },
+  {
+    "zip": 9782,
+    "city": "Nemesrempehollós"
+  },
+  {
+    "zip": 9783,
+    "city": "Egyházasrádóc"
+  },
+  {
+    "zip": 9784,
+    "city": "Rádóckölked"
+  },
+  {
+    "zip": 9784,
+    "city": "Harasztifalu"
+  },
+  {
+    "zip": 9784,
+    "city": "Nagykölked"
+  },
+  {
+    "zip": 9789,
+    "city": "Sé"
+  },
+  {
+    "zip": 9791,
+    "city": "Torony"
+  },
+  {
+    "zip": 9791,
+    "city": "Dozmat"
+  },
+  {
+    "zip": 9792,
+    "city": "Bucsu"
+  },
+  {
+    "zip": 9793,
+    "city": "Narda"
+  },
+  {
+    "zip": 9794,
+    "city": "Felsőcsatár"
+  },
+  {
+    "zip": 9795,
+    "city": "Vaskeresztes"
+  },
+  {
+    "zip": 9796,
+    "city": "Pornóapáti"
+  },
+  {
+    "zip": 9796,
+    "city": "Horvátlövő"
+  },
+  {
+    "zip": 9797,
+    "city": "Nárai"
+  },
+  {
+    "zip": 9798,
+    "city": "Ják"
+  },
+  {
+    "zip": 9799,
+    "city": "Szentpéterfa"
+  },
+  {
+    "zip": 9800,
+    "city": "Vasvár"
+  },
+  {
+    "zip": 9811,
+    "city": "Andrásfa"
+  },
+  {
+    "zip": 9812,
+    "city": "Telekes"
+  },
+  {
+    "zip": 9813,
+    "city": "Gersekarát"
+  },
+  {
+    "zip": 9813,
+    "city": "Sárfimizdó"
+  },
+  {
+    "zip": 9814,
+    "city": "Halastó"
+  },
+  {
+    "zip": 9821,
+    "city": "Győrvár"
+  },
+  {
+    "zip": 9821,
+    "city": "Hegyhátszentpéter"
+  },
+  {
+    "zip": 9823,
+    "city": "Pácsony"
+  },
+  {
+    "zip": 9824,
+    "city": "Olaszfa"
+  },
+  {
+    "zip": 9825,
+    "city": "Oszkó"
+  },
+  {
+    "zip": 9826,
+    "city": "Petőmihályfa"
+  },
+  {
+    "zip": 9831,
+    "city": "Bérbaltavár"
+  },
+  {
+    "zip": 9832,
+    "city": "Nagytilaj"
+  },
+  {
+    "zip": 9833,
+    "city": "Csehi"
+  },
+  {
+    "zip": 9834,
+    "city": "Csehimindszent"
+  },
+  {
+    "zip": 9835,
+    "city": "Mikosszéplak"
+  },
+  {
+    "zip": 9836,
+    "city": "Csipkerek"
+  },
+  {
+    "zip": 9841,
+    "city": "Kám"
+  },
+  {
+    "zip": 9842,
+    "city": "Alsóújlak"
+  },
+  {
+    "zip": 9900,
+    "city": "Körmend"
+  },
+  {
+    "zip": 9909,
+    "city": "Körmend",
+    "region": "Horvátnádalja"
+  },
+  {
+    "zip": 9909,
+    "city": "Magyarnádalja"
+  },
+  {
+    "zip": 9912,
+    "city": "Molnaszecsőd"
+  },
+  {
+    "zip": 9912,
+    "city": "Magyarszecsőd"
+  },
+  {
+    "zip": 9913,
+    "city": "Szarvaskend"
+  },
+  {
+    "zip": 9913,
+    "city": "Döröske"
+  },
+  {
+    "zip": 9913,
+    "city": "Nagymizdó"
+  },
+  {
+    "zip": 9914,
+    "city": "Döbörhegy"
+  },
+  {
+    "zip": 9915,
+    "city": "Nádasd"
+  },
+  {
+    "zip": 9915,
+    "city": "Hegyháthodász"
+  },
+  {
+    "zip": 9915,
+    "city": "Hegyhátsál"
+  },
+  {
+    "zip": 9915,
+    "city": "Katafa"
+  },
+  {
+    "zip": 9917,
+    "city": "Halogy"
+  },
+  {
+    "zip": 9917,
+    "city": "Daraboshegy"
+  },
+  {
+    "zip": 9918,
+    "city": "Felsőmarác"
+  },
+  {
+    "zip": 9919,
+    "city": "Csákánydoroszló"
+  },
+  {
+    "zip": 9921,
+    "city": "Vasalja"
+  },
+  {
+    "zip": 9922,
+    "city": "Pinkamindszent"
+  },
+  {
+    "zip": 9923,
+    "city": "Kemestaródfa"
+  },
+  {
+    "zip": 9931,
+    "city": "Ivánc"
+  },
+  {
+    "zip": 9931,
+    "city": "Hegyhátszentmárton"
+  },
+  {
+    "zip": 9932,
+    "city": "Viszák"
+  },
+  {
+    "zip": 9933,
+    "city": "Őrimagyarósd"
+  },
+  {
+    "zip": 9934,
+    "city": "Hegyhátszentjakab"
+  },
+  {
+    "zip": 9934,
+    "city": "Felsőjánosfa"
+  },
+  {
+    "zip": 9934,
+    "city": "Szaknyér"
+  },
+  {
+    "zip": 9935,
+    "city": "Szőce"
+  },
+  {
+    "zip": 9936,
+    "city": "Kisrákos"
+  },
+  {
+    "zip": 9937,
+    "city": "Pankasz"
+  },
+  {
+    "zip": 9938,
+    "city": "Nagyrákos"
+  },
+  {
+    "zip": 9938,
+    "city": "Szatta"
+  },
+  {
+    "zip": 9941,
+    "city": "Őriszentpéter"
+  },
+  {
+    "zip": 9941,
+    "city": "Ispánk"
+  },
+  {
+    "zip": 9942,
+    "city": "Szalafő"
+  },
+  {
+    "zip": 9943,
+    "city": "Kondorfa"
+  },
+  {
+    "zip": 9944,
+    "city": "Bajánsenye"
+  },
+  {
+    "zip": 9944,
+    "city": "Kerkáskápolna"
+  },
+  {
+    "zip": 9945,
+    "city": "Kercaszomor"
+  },
+  {
+    "zip": 9946,
+    "city": "Magyarszombatfa"
+  },
+  {
+    "zip": 9946,
+    "city": "Velemér"
+  },
+  {
+    "zip": 9951,
+    "city": "Rátót"
+  },
+  {
+    "zip": 9952,
+    "city": "Gasztony"
+  },
+  {
+    "zip": 9953,
+    "city": "Vasszentmihály"
+  },
+  {
+    "zip": 9953,
+    "city": "Nemesmedves"
+  },
+  {
+    "zip": 9954,
+    "city": "Rönök"
+  },
+  {
+    "zip": 9955,
+    "city": "Szentgotthárd",
+    "region": "Rábafüzes"
+  },
+  {
+    "zip": 9961,
+    "city": "Rábagyarmat"
+  },
+  {
+    "zip": 9962,
+    "city": "Csörötnek"
+  },
+  {
+    "zip": 9962,
+    "city": "Magyarlak"
+  },
+  {
+    "zip": 9970,
+    "city": "Szentgotthárd"
+  },
+  {
+    "zip": 9981,
+    "city": "Szentgotthárd",
+    "region": "Farkasfa"
+  },
+  {
+    "zip": 9982,
+    "city": "Apátistvánfalva"
+  },
+  {
+    "zip": 9982,
+    "city": "Kétvölgy"
+  },
+  {
+    "zip": 9982,
+    "city": "Orfalu"
+  },
+  {
+    "zip": 9983,
+    "city": "Alsószölnök"
+  },
+  {
+    "zip": 9983,
+    "city": "Szakonyfalu"
+  },
+  {
+    "zip": 9985,
+    "city": "Felsőszölnök"
+  }
+]
