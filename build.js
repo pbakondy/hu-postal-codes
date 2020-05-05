@@ -44,7 +44,7 @@ function convert() {
   var workbook = XLSX.read(LOCAL_XLSX, { type: 'file' });
 
   processTotal(workbook.Sheets[workbook.SheetNames[0]]);
-  processCapital(workbook.Sheets[workbook.SheetNames[2]], BUDAPEST_JSON, true);
+  processCapital(workbook.Sheets[workbook.SheetNames[2]]);
   processCity(workbook.Sheets[workbook.SheetNames[3]], MISKOLC_JSON);
   processCity(workbook.Sheets[workbook.SheetNames[4]], DEBRECEN_JSON);
   processCity(workbook.Sheets[workbook.SheetNames[5]], SZEGED_JSON);

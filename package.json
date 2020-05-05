@@ -1,6 +1,6 @@
 {
   "name": "hu-postal-codes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Postal Codes of Hungary",
   "main": "postal-codes.json",
   "scripts": {

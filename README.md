@@ -1,4 +1,4 @@
-# Hungary Postal Codes
+# Postal Codes of Hungary
 
 [![npm](https://img.shields.io/npm/v/hu-postal-codes.svg)](https://www.npmjs.com/package/hu-postal-codes)
 
@@ -6,7 +6,7 @@ A list of all postal (ZIP) codes of Hungany in JSON format.
  
 Source: https://www.posta.hu/szolgaltatasok/iranyitoszam-kereso
 
-Last update of source file: Marc 25. 2019
+Last update of source file: May 24. 2019
 
 ## Data files
 
@@ -23,7 +23,6 @@ Last update of source file: Marc 25. 2019
 ```shell
 npm install hu-postal-codes
 ```
-
 
 ## License
 
