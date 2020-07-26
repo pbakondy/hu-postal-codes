@@ -46724,7 +46724,7 @@
     "district": 14
   },
   {
-    "zip": 1112,
+    "zip": 1118,
     "streetName": "Szedersor",
     "streetType": "utca",
     "district": 11
@@ -54055,7 +54055,7 @@
     "zip": 1134,
     "streetName": "Váci",
     "streetType": "út",
-    "numbers": "7 to 67",
+    "numbers": "9 to 67",
     "district": 13
   },
   {
@@ -56230,6 +56230,12 @@
   {
     "zip": 1035,
     "streetName": "Vihar",
+    "streetType": "köz",
+    "district": 3
+  },
+  {
+    "zip": 1035,
+    "streetName": "Vihar",
     "streetType": "utca",
     "district": 3
   },
@@ -57456,7 +57462,7 @@
     "district": 18
   },
   {
-    "zip": 1042,
+    "zip": 1047,
     "streetName": "Wolfner",
     "streetType": "utca",
     "district": 4

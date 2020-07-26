@@ -1,6 +1,6 @@
 {
   "name": "hu-postal-codes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Postal Codes of Hungary",
   "main": "postal-codes.json",
   "scripts": {
@@ -28,7 +28,7 @@
   "homepage": "https://github.com/pbakondy/hu-postal-codes#readme",
   "devDependencies": {
     "axios": "^0.19.2",
-    "eslint": "^6.8.0",
-    "xlsx": "^0.16.0"
+    "eslint": "^7.5.0",
+    "xlsx": "^0.16.4"
   }
 }

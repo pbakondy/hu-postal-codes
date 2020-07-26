@@ -372,6 +372,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Babéros",
+    "streetType": "tanya"
+  },
+  {
     "zip": 4032,
     "streetName": "Babits Mihály",
     "streetType": "utca"
@@ -6314,6 +6319,11 @@
     "zip": 4032,
     "streetName": "Nagyerdei",
     "streetType": "park"
+  },
+  {
+    "zip": 4032,
+    "streetName": "Nagyerdő",
+    "streetType": "tanya"
   },
   {
     "zip": 4024,

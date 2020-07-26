@@ -6,7 +6,7 @@ A list of all postal (ZIP) codes of Hungany in JSON format.
  
 Source: https://www.posta.hu/szolgaltatasok/iranyitoszam-kereso
 
-Last update of source file: May 24. 2019
+Last update of source file: May 14. 2020
 
 ## Data files
 
