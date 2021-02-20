@@ -50,14 +50,14 @@
     "streetType": "utca"
   },
   {
-    "zip": 4024,
-    "streetName": "Ady",
-    "streetType": "park"
-  },
-  {
     "zip": 4032,
     "streetName": "Ady Endre",
     "streetType": "sugárút"
+  },
+  {
+    "zip": 4024,
+    "streetName": "Ady",
+    "streetType": "park"
   },
   {
     "zip": 4002,
@@ -110,6 +110,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4033,
+    "streetName": "Alabárd",
+    "streetType": "utca"
+  },
+  {
     "zip": 4002,
     "streetName": "Alig",
     "streetType": "utca"
@@ -151,17 +156,17 @@
   },
   {
     "zip": 4002,
-    "streetName": "Almavirág",
-    "streetType": "utca"
-  },
-  {
-    "zip": 4002,
     "streetName": "Almáskert",
     "streetType": "köz"
   },
   {
     "zip": 4002,
     "streetName": "Almáskert",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Almavirág",
     "streetType": "utca"
   },
   {
@@ -188,6 +193,11 @@
     "zip": 4031,
     "streetName": "Angyalföld",
     "streetType": "tér"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Anikó",
+    "streetType": "utca"
   },
   {
     "zip": 4002,
@@ -320,6 +330,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Árvácska",
+    "streetType": "utca"
+  },
+  {
     "zip": 4031,
     "streetName": "Árvalányhaj",
     "streetType": "utca"
@@ -354,12 +369,12 @@
   {
     "zip": 4002,
     "streetName": "Avar",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4002,
     "streetName": "Avar",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4002,
@@ -410,6 +425,11 @@
     "zip": 4033,
     "streetName": "Bajonett",
     "streetType": "utca"
+  },
+  {
+    "zip": 4033,
+    "streetName": "Bajonett",
+    "streetType": "köz"
   },
   {
     "zip": 4225,
@@ -550,6 +570,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4033,
+    "streetName": "Bárd",
+    "streetType": "utca"
+  },
+  {
     "zip": 4031,
     "streetName": "Barcaság",
     "streetType": "utca"
@@ -557,11 +582,6 @@
   {
     "zip": 4032,
     "streetName": "Bárczi Géza",
-    "streetType": "utca"
-  },
-  {
-    "zip": 4033,
-    "streetName": "Bárd",
     "streetType": "utca"
   },
   {
@@ -705,16 +725,9 @@
     "streetType": "utca"
   },
   {
-    "zip": 4002,
-    "streetName": "Benczúr Gyula",
-    "streetType": "utca",
-    "numbers": "20 to 22"
-  },
-  {
-    "zip": 4032,
-    "streetName": "Benczúr Gyula",
-    "streetType": "utca",
-    "numbers": "the rest"
+    "zip": 4033,
+    "streetName": "Bémer László",
+    "streetType": "utca"
   },
   {
     "zip": 4002,
@@ -725,6 +738,18 @@
     "zip": 4032,
     "streetName": "Bencsik Sándor",
     "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Benczúr Gyula",
+    "streetType": "utca",
+    "numbers": "20 to 22"
+  },
+  {
+    "zip": 4032,
+    "streetName": "Benczúr Gyula",
+    "streetType": "utca",
+    "numbers": "the rest"
   },
   {
     "zip": 4032,
@@ -817,6 +842,11 @@
     "streetType": "tanya"
   },
   {
+    "zip": 4002,
+    "streetName": "Betyár",
+    "streetType": "tanya"
+  },
+  {
     "zip": 4031,
     "streetName": "Bezerédj Imre",
     "streetType": "utca"
@@ -838,13 +868,13 @@
   },
   {
     "zip": 4002,
-    "streetName": "Biczó István",
-    "streetType": "kert"
+    "streetName": "Biczókert",
+    "streetType": "utca"
   },
   {
     "zip": 4002,
-    "streetName": "Biczókert",
-    "streetType": "utca"
+    "streetName": "Biczó István",
+    "streetType": "kert"
   },
   {
     "zip": 4030,
@@ -1043,6 +1073,11 @@
     "zip": 4002,
     "streetName": "Borostyán",
     "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Borostyán",
+    "streetType": "köz"
   },
   {
     "zip": 4002,
@@ -1300,11 +1335,6 @@
   },
   {
     "zip": 4002,
-    "streetName": "Csáky Imre",
-    "streetType": "utca"
-  },
-  {
-    "zip": 4002,
     "streetName": "Csalán",
     "streetType": "utca"
   },
@@ -1316,6 +1346,11 @@
   {
     "zip": 4031,
     "streetName": "Csalogány",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Csáky Imre",
     "streetType": "utca"
   },
   {
@@ -1447,12 +1482,12 @@
   {
     "zip": 4030,
     "streetName": "Cser",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4030,
     "streetName": "Cser",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4002,
@@ -1483,6 +1518,11 @@
     "zip": 4002,
     "streetName": "Cserei-ér",
     "streetType": "dűlő"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Csereivíz",
+    "streetType": "utca"
   },
   {
     "zip": 4026,
@@ -1550,13 +1590,13 @@
     "streetType": "utca"
   },
   {
-    "zip": 4002,
-    "streetName": "Csiperke",
+    "zip": 4031,
+    "streetName": "Csillagvirág",
     "streetType": "utca"
   },
   {
-    "zip": 4031,
-    "streetName": "Csillagvirág",
+    "zip": 4002,
+    "streetName": "Csiperke",
     "streetType": "utca"
   },
   {
@@ -1612,12 +1652,12 @@
   {
     "zip": 4002,
     "streetName": "Csombor",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4002,
     "streetName": "Csombor",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4030,
@@ -1673,6 +1713,11 @@
     "zip": 4002,
     "streetName": "Csucsor",
     "streetType": "utca"
+  },
+  {
+    "zip": 4078,
+    "streetName": "Csuka",
+    "streetType": "tanya"
   },
   {
     "zip": 4034,
@@ -1767,12 +1812,12 @@
   {
     "zip": 4031,
     "streetName": "Derekassy István",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4031,
     "streetName": "Derekassy István",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4002,
@@ -1848,13 +1893,13 @@
     "zip": 4030,
     "streetName": "Diószegi",
     "streetType": "út",
-    "numbers": "2 to 122"
+    "numbers": "1 to 7"
   },
   {
     "zip": 4030,
     "streetName": "Diószegi",
     "streetType": "út",
-    "numbers": "1 to 7"
+    "numbers": "2 to 122"
   },
   {
     "zip": 4002,
@@ -1952,11 +1997,6 @@
     "streetType": "út"
   },
   {
-    "zip": 4027,
-    "streetName": "Domokos Lajos",
-    "streetType": "utca"
-  },
-  {
     "zip": 4002,
     "streetName": "Domokos Márton",
     "streetType": "kert"
@@ -1969,6 +2009,11 @@
   {
     "zip": 4002,
     "streetName": "Domokoskert",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4027,
+    "streetName": "Domokos Lajos",
     "streetType": "utca"
   },
   {
@@ -2197,13 +2242,13 @@
     "streetType": "utca"
   },
   {
-    "zip": 4078,
-    "streetName": "Erdősor",
+    "zip": 4002,
+    "streetName": "Erdőspuszta",
     "streetType": "utca"
   },
   {
-    "zip": 4002,
-    "streetName": "Erdőspuszta",
+    "zip": 4078,
+    "streetName": "Erdősor",
     "streetType": "utca"
   },
   {
@@ -2248,6 +2293,11 @@
   },
   {
     "zip": 4002,
+    "streetName": "Esőcsepp",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
     "streetName": "Estike",
     "streetType": "utca"
   },
@@ -2283,17 +2333,17 @@
   },
   {
     "zip": 4002,
-    "streetName": "Ezüstfenyő",
-    "streetType": "utca"
-  },
-  {
-    "zip": 4002,
     "streetName": "Ezüstmoha",
     "streetType": "köz"
   },
   {
     "zip": 4002,
     "streetName": "Ezüstmoha",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Ezüstfenyő",
     "streetType": "utca"
   },
   {
@@ -2339,12 +2389,12 @@
   {
     "zip": 4002,
     "streetName": "Fancsika",
-    "streetType": "út"
+    "streetType": "tanya"
   },
   {
     "zip": 4002,
     "streetName": "Fancsika",
-    "streetType": "tanya"
+    "streetType": "út"
   },
   {
     "zip": 4002,
@@ -2455,13 +2505,13 @@
     "streetType": "utca"
   },
   {
-    "zip": 4034,
-    "streetName": "Félegyházi Tamás",
+    "zip": 4032,
+    "streetName": "Felleg",
     "streetType": "utca"
   },
   {
-    "zip": 4032,
-    "streetName": "Felleg",
+    "zip": 4034,
+    "streetName": "Félegyházi Tamás",
     "streetType": "utca"
   },
   {
@@ -2507,6 +2557,11 @@
   {
     "zip": 4063,
     "streetName": "Fenyves",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Festő",
     "streetType": "utca"
   },
   {
@@ -2567,6 +2622,11 @@
   {
     "zip": 4031,
     "streetName": "Forgách",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Forgószél",
     "streetType": "utca"
   },
   {
@@ -2705,9 +2765,9 @@
     "streetType": "utca"
   },
   {
-    "zip": 4002,
-    "streetName": "Füzes",
-    "streetType": "dűlő"
+    "zip": 4034,
+    "streetName": "Fűzfa",
+    "streetType": "utca"
   },
   {
     "zip": 4002,
@@ -2715,9 +2775,9 @@
     "streetType": "út"
   },
   {
-    "zip": 4034,
-    "streetName": "Fűzfa",
-    "streetType": "utca"
+    "zip": 4002,
+    "streetName": "Füzes",
+    "streetType": "dűlő"
   },
   {
     "zip": 4002,
@@ -2790,6 +2850,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Gavallér",
+    "streetType": "tanya"
+  },
+  {
     "zip": 4030,
     "streetName": "Gázgyár",
     "streetType": "utca"
@@ -2835,13 +2900,13 @@
     "streetType": "utca"
   },
   {
-    "zip": 4002,
-    "streetName": "Gesztelyi-Nagy László",
+    "zip": 4030,
+    "streetName": "Gesztenye",
     "streetType": "utca"
   },
   {
-    "zip": 4030,
-    "streetName": "Gesztenye",
+    "zip": 4002,
+    "streetName": "Gesztelyi-Nagy László",
     "streetType": "utca"
   },
   {
@@ -2923,6 +2988,11 @@
     "zip": 4225,
     "streetName": "Gönczy Pál",
     "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Göndör",
+    "streetType": "köz"
   },
   {
     "zip": 4026,
@@ -3045,6 +3115,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Gyógyfüves",
+    "streetType": "utca"
+  },
+  {
     "zip": 4031,
     "streetName": "Gyolcsos",
     "streetType": "utca"
@@ -3130,14 +3205,14 @@
     "streetType": "utca"
   },
   {
-    "zip": 4033,
-    "streetName": "Hadnagy",
-    "streetType": "utca"
-  },
-  {
     "zip": 4028,
     "streetName": "Hadházi",
     "streetType": "út"
+  },
+  {
+    "zip": 4033,
+    "streetName": "Hadnagy",
+    "streetType": "utca"
   },
   {
     "zip": 4225,
@@ -3222,12 +3297,12 @@
   {
     "zip": 4031,
     "streetName": "Hámfa",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
-    "zip": 4002,
+    "zip": 4031,
     "streetName": "Hámfa",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4002,
@@ -3237,12 +3312,12 @@
   {
     "zip": 4032,
     "streetName": "Hangyás",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4032,
     "streetName": "Hangyás",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4002,
@@ -3339,6 +3414,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Hattyú",
+    "streetType": "utca"
+  },
+  {
     "zip": 4025,
     "streetName": "Hatvan",
     "streetType": "köz"
@@ -3351,11 +3431,6 @@
   {
     "zip": 4032,
     "streetName": "Hatvani István",
-    "streetType": "utca"
-  },
-  {
-    "zip": 4002,
-    "streetName": "Hattyú",
     "streetType": "utca"
   },
   {
@@ -3379,6 +3454,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Hegedűs",
+    "streetType": "tanya"
+  },
+  {
     "zip": 4225,
     "streetName": "Hegy",
     "streetType": "utca"
@@ -3394,13 +3474,13 @@
     "streetType": "utca"
   },
   {
-    "zip": 4033,
-    "streetName": "Heltai Jenő",
+    "zip": 4002,
+    "streetName": "Heltai Gáspár",
     "streetType": "utca"
   },
   {
-    "zip": 4002,
-    "streetName": "Heltai Gáspár",
+    "zip": 4033,
+    "streetName": "Heltai Jenő",
     "streetType": "utca"
   },
   {
@@ -3434,6 +3514,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Hétkert",
+    "streetType": "utca"
+  },
+  {
     "zip": 4034,
     "streetName": "Hétvezér",
     "streetType": "utca"
@@ -3446,12 +3531,12 @@
   {
     "zip": 4030,
     "streetName": "Híd",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4030,
     "streetName": "Híd",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4002,
@@ -3502,6 +3587,11 @@
     "zip": 4032,
     "streetName": "Hókristály",
     "streetType": "utca"
+  },
+  {
+    "zip": 4032,
+    "streetName": "Hókristály",
+    "streetType": "köz"
   },
   {
     "zip": 4034,
@@ -3599,6 +3689,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Hortenzia",
+    "streetType": "utca"
+  },
+  {
     "zip": 4026,
     "streetName": "Hortobágy",
     "streetType": "utca"
@@ -3681,6 +3776,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Hűvös",
+    "streetType": "utca"
+  },
+  {
     "zip": 4027,
     "streetName": "Ibolya",
     "streetType": "utca"
@@ -3711,13 +3811,13 @@
     "streetType": "utca"
   },
   {
-    "zip": 4033,
-    "streetName": "Ilona",
+    "zip": 4032,
+    "streetName": "Illyés Gyula",
     "streetType": "utca"
   },
   {
-    "zip": 4032,
-    "streetName": "Illyés Gyula",
+    "zip": 4033,
+    "streetName": "Ilona",
     "streetType": "utca"
   },
   {
@@ -3889,12 +3989,12 @@
   {
     "zip": 4002,
     "streetName": "Jégvirág",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4002,
     "streetName": "Jégvirág",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4032,
@@ -4017,13 +4117,13 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Kádárdűlő"
+  },
+  {
     "zip": 4031,
     "streetName": "Kadarcs",
     "streetType": "utca"
-  },
-  {
-    "zip": 4002,
-    "streetName": "Kádárdűlő"
   },
   {
     "zip": 4002,
@@ -4101,6 +4201,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4030,
+    "streetName": "Kalmár",
+    "streetType": "köz"
+  },
+  {
     "zip": 4002,
     "streetName": "Kálmos",
     "streetType": "utca"
@@ -4171,13 +4276,13 @@
     "streetType": "sor"
   },
   {
-    "zip": 4030,
-    "streetName": "Kapás",
+    "zip": 4033,
+    "streetName": "Kapitány",
     "streetType": "utca"
   },
   {
-    "zip": 4033,
-    "streetName": "Kapitány",
+    "zip": 4030,
+    "streetName": "Kapás",
     "streetType": "utca"
   },
   {
@@ -4238,6 +4343,11 @@
   {
     "zip": 4032,
     "streetName": "Karinthy Frigyes",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4031,
+    "streetName": "Karmazsin",
     "streetType": "utca"
   },
   {
@@ -4366,6 +4476,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4032,
+    "streetName": "Kéky Lajos",
+    "streetType": "utca"
+  },
+  {
     "zip": 4002,
     "streetName": "Kéknyelű",
     "streetType": "utca"
@@ -4383,11 +4498,6 @@
   {
     "zip": 4002,
     "streetName": "Kékszőlő",
-    "streetType": "utca"
-  },
-  {
-    "zip": 4032,
-    "streetName": "Kéky Lajos",
     "streetType": "utca"
   },
   {
@@ -4421,14 +4531,14 @@
     "streetType": "utca"
   },
   {
-    "zip": 4031,
-    "streetName": "Kenézy Gyula",
-    "streetType": "utca"
-  },
-  {
     "zip": 4033,
     "streetName": "Kengyel",
     "streetType": "zug"
+  },
+  {
+    "zip": 4031,
+    "streetName": "Kenézy Gyula",
+    "streetType": "utca"
   },
   {
     "zip": 4033,
@@ -4446,11 +4556,6 @@
     "streetType": "utca"
   },
   {
-    "zip": 4225,
-    "streetName": "Kerekerdő",
-    "streetType": "utca"
-  },
-  {
     "zip": 4030,
     "streetName": "Kerekes Ferenc",
     "streetType": "utca"
@@ -4458,6 +4563,11 @@
   {
     "zip": 4030,
     "streetName": "Kerékgyártó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4225,
+    "streetName": "Kerekerdő",
     "streetType": "utca"
   },
   {
@@ -4514,11 +4624,6 @@
     "streetType": "utca"
   },
   {
-    "zip": 4002,
-    "streetName": "Kertség",
-    "streetType": "utca"
-  },
-  {
     "zip": 4032,
     "streetName": "Kertváros",
     "streetType": "utca"
@@ -4546,6 +4651,11 @@
   {
     "zip": 4030,
     "streetName": "Keve",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4031,
+    "streetName": "Kisállomás",
     "streetType": "utca"
   },
   {
@@ -4632,14 +4742,14 @@
     "streetType": "utca"
   },
   {
-    "zip": 4031,
-    "streetName": "Kisállomás",
+    "zip": 4034,
+    "streetName": "Kisbánya",
     "streetType": "utca"
   },
   {
     "zip": 4034,
     "streetName": "Kisbánya",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4031,
@@ -4662,13 +4772,13 @@
     "streetType": "utca"
   },
   {
-    "zip": 4031,
-    "streetName": "Kishatár",
+    "zip": 4002,
+    "streetName": "Kisfenyves",
     "streetType": "utca"
   },
   {
-    "zip": 4002,
-    "streetName": "Kisfenyves",
+    "zip": 4031,
+    "streetName": "Kishatár",
     "streetType": "utca"
   },
   {
@@ -4703,7 +4813,7 @@
   },
   {
     "zip": 4078,
-    "streetName": "Kis Lilik",
+    "streetName": "Kis lilik",
     "streetType": "utca"
   },
   {
@@ -4734,6 +4844,11 @@
   {
     "zip": 4030,
     "streetName": "Kistelek",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Kertség",
     "streetType": "utca"
   },
   {
@@ -5147,12 +5262,12 @@
   {
     "zip": 4002,
     "streetName": "Kuvik",
-    "streetType": "zug"
+    "streetType": "utca"
   },
   {
     "zip": 4002,
     "streetName": "Kuvik",
-    "streetType": "utca"
+    "streetType": "zug"
   },
   {
     "zip": 4031,
@@ -5163,6 +5278,11 @@
     "zip": 4002,
     "streetName": "Külcsere",
     "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Külső Acsádi",
+    "streetType": "út"
   },
   {
     "zip": 4002,
@@ -5297,11 +5417,6 @@
     "streetType": "utca"
   },
   {
-    "zip": 4002,
-    "streetName": "Laura",
-    "streetType": "utca"
-  },
-  {
     "zip": 4030,
     "streetName": "Lázár",
     "streetType": "utca",
@@ -5318,6 +5433,11 @@
     "streetName": "Lázár",
     "streetType": "utca",
     "numbers": "the rest"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Laura",
+    "streetType": "utca"
   },
   {
     "zip": 4002,
@@ -5371,8 +5491,13 @@
   },
   {
     "zip": 4030,
-    "streetName": "Lenc",
+    "streetName": "Lencz",
     "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Lencz",
+    "streetType": "sor"
   },
   {
     "zip": 4034,
@@ -5410,11 +5535,6 @@
     "streetType": "utca"
   },
   {
-    "zip": 4032,
-    "streetName": "Liget",
-    "streetType": "utca"
-  },
-  {
     "zip": 4033,
     "streetName": "Liget",
     "streetType": "tér"
@@ -5423,6 +5543,11 @@
     "zip": 4032,
     "streetName": "Liget",
     "streetType": "lakópark"
+  },
+  {
+    "zip": 4032,
+    "streetName": "Liget",
+    "streetType": "utca"
   },
   {
     "zip": 4002,
@@ -5512,12 +5637,12 @@
   {
     "zip": 4032,
     "streetName": "Lóverseny",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4032,
     "streetName": "Lóverseny",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4030,
@@ -5578,18 +5703,23 @@
     "numbers": "2 to 32"
   },
   {
-    "zip": 4002,
-    "streetName": "Macs",
-    "streetType": "vasútállomás"
-  },
-  {
     "zip": 4025,
     "streetName": "Mácsai Sándor",
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Macs",
+    "streetType": "vasútállomás"
+  },
+  {
     "zip": 4063,
     "streetName": "Macsi",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Macsiszeg",
     "streetType": "utca"
   },
   {
@@ -5693,14 +5823,14 @@
     "streetType": "utca"
   },
   {
-    "zip": 4029,
-    "streetName": "Malom",
-    "streetType": "köz"
-  },
-  {
     "zip": 4030,
     "streetName": "Malom",
     "streetType": "utca"
+  },
+  {
+    "zip": 4029,
+    "streetName": "Malom",
+    "streetType": "köz"
   },
   {
     "zip": 4033,
@@ -5751,6 +5881,11 @@
     "streetType": "tér"
   },
   {
+    "zip": 4002,
+    "streetName": "Máriás",
+    "streetType": "tanya"
+  },
+  {
     "zip": 4028,
     "streetName": "Markotányos",
     "streetType": "utca"
@@ -5763,12 +5898,12 @@
   {
     "zip": 4031,
     "streetName": "Maros",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4031,
     "streetName": "Maros",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4029,
@@ -5846,6 +5981,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4033,
+    "streetName": "Meggyfás",
+    "streetType": "utca"
+  },
+  {
     "zip": 4031,
     "streetName": "Megyer",
     "streetType": "köz"
@@ -5854,11 +5994,6 @@
     "zip": 4031,
     "streetName": "Megyer",
     "streetType": "tér"
-  },
-  {
-    "zip": 4033,
-    "streetName": "Meggyfás",
-    "streetType": "utca"
   },
   {
     "zip": 4002,
@@ -6058,6 +6193,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4033,
+    "streetName": "Miklóssy",
+    "streetType": "utca"
+  },
+  {
     "zip": 4032,
     "streetName": "Mikszáth Kálmán",
     "streetType": "utca"
@@ -6228,8 +6368,18 @@
     "streetType": "utca"
   },
   {
+    "zip": 4024,
+    "streetName": "Nagy-Gál István",
+    "streetType": "utca"
+  },
+  {
     "zip": 4033,
     "streetName": "Nagy Jenő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4034,
+    "streetName": "Nagykároly",
     "streetType": "utca"
   },
   {
@@ -6283,14 +6433,14 @@
     "streetType": "utca"
   },
   {
-    "zip": 4002,
-    "streetName": "Nagycsere",
-    "streetType": "tanya"
-  },
-  {
     "zip": 4030,
     "streetName": "Nagydobos",
     "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Nagycsere",
+    "streetType": "tanya"
   },
   {
     "zip": 4034,
@@ -6326,18 +6476,8 @@
     "streetType": "tanya"
   },
   {
-    "zip": 4024,
-    "streetName": "Nagy-Gál István",
-    "streetType": "utca"
-  },
-  {
     "zip": 4063,
     "streetName": "Nagyhát",
-    "streetType": "utca"
-  },
-  {
-    "zip": 4034,
-    "streetName": "Nagykároly",
     "streetType": "utca"
   },
   {
@@ -6378,6 +6518,11 @@
   {
     "zip": 4002,
     "streetName": "Napnyugta",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Naposkert",
     "streetType": "utca"
   },
   {
@@ -6454,6 +6599,11 @@
     "zip": 4078,
     "streetName": "Nyárfa",
     "streetType": "utca"
+  },
+  {
+    "zip": 4078,
+    "streetName": "Nyárfarm",
+    "streetType": "tanya"
   },
   {
     "zip": 4002,
@@ -6681,6 +6831,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4033,
+    "streetName": "Őrnagy",
+    "streetType": "utca"
+  },
+  {
     "zip": 4002,
     "streetName": "Ösvény",
     "streetType": "utca"
@@ -6738,6 +6893,11 @@
   {
     "zip": 4002,
     "streetName": "Pacikert",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Pacirét",
     "streetType": "utca"
   },
   {
@@ -6826,6 +6986,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Páncélos",
+    "streetType": "sor"
+  },
+  {
     "zip": 4030,
     "streetName": "Pandúr",
     "streetType": "utca"
@@ -6848,6 +7013,11 @@
   {
     "zip": 4002,
     "streetName": "Papzug",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Pára",
     "streetType": "utca"
   },
   {
@@ -6878,6 +7048,11 @@
   {
     "zip": 4032,
     "streetName": "Patai István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4032,
+    "streetName": "Patay István",
     "streetType": "utca"
   },
   {
@@ -6938,16 +7113,21 @@
   {
     "zip": 4002,
     "streetName": "Pempő",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4002,
     "streetName": "Pempő",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4225,
     "streetName": "Perczel Mór",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Pércsiér",
     "streetType": "utca"
   },
   {
@@ -7141,11 +7321,6 @@
   },
   {
     "zip": 4002,
-    "streetName": "Portulácska",
-    "streetType": "utca"
-  },
-  {
-    "zip": 4002,
     "streetName": "Porzó",
     "streetType": "utca"
   },
@@ -7180,6 +7355,11 @@
   {
     "zip": 4002,
     "streetName": "Poszáta",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Portulácska",
     "streetType": "utca"
   },
   {
@@ -7265,6 +7445,11 @@
   {
     "zip": 4031,
     "streetName": "Raktár",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Réce",
     "streetType": "utca"
   },
   {
@@ -7402,11 +7587,6 @@
     "streetType": "utca"
   },
   {
-    "zip": 4028,
-    "streetName": "Rózsahegy",
-    "streetType": "utca"
-  },
-  {
     "zip": 4225,
     "streetName": "Rózsástelep",
     "streetType": "utca"
@@ -7414,6 +7594,11 @@
   {
     "zip": 4225,
     "streetName": "Rózsavölgy",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4028,
+    "streetName": "Rózsahegy",
     "streetType": "utca"
   },
   {
@@ -7625,14 +7810,14 @@
     "streetType": "utca"
   },
   {
-    "zip": 4033,
-    "streetName": "Sátor",
-    "streetType": "zug"
-  },
-  {
     "zip": 4002,
     "streetName": "Sávoly",
     "streetType": "köz"
+  },
+  {
+    "zip": 4033,
+    "streetName": "Sátor",
+    "streetType": "zug"
   },
   {
     "zip": 4030,
@@ -7860,12 +8045,12 @@
   {
     "zip": 4034,
     "streetName": "Stromfeld Aurél",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4034,
     "streetName": "Stromfeld Aurél",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4024,
@@ -7911,6 +8096,11 @@
     "zip": 4033,
     "streetName": "Szabó Pál",
     "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Szabó",
+    "streetType": "tanya"
   },
   {
     "zip": 4031,
@@ -7983,6 +8173,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4032,
+    "streetName": "Szanatórium",
+    "streetType": "utca"
+  },
+  {
     "zip": 4002,
     "streetName": "Szánkó",
     "streetType": "utca"
@@ -7991,6 +8186,11 @@
     "zip": 4002,
     "streetName": "Szántó",
     "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Szántó",
+    "streetType": "tanya"
   },
   {
     "zip": 4002,
@@ -8151,12 +8351,12 @@
   {
     "zip": 4002,
     "streetName": "Szeklice",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4002,
     "streetName": "Szeklice",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4030,
@@ -8325,12 +8525,12 @@
   {
     "zip": 4030,
     "streetName": "Szilágyság",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4030,
     "streetName": "Szilágyság",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4225,
@@ -8480,6 +8680,16 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Tabak",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4033,
+    "streetName": "Tábornok",
+    "streetType": "utca"
+  },
+  {
     "zip": 4032,
     "streetName": "Takács István",
     "streetType": "utca"
@@ -8615,6 +8825,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4030,
+    "streetName": "Telep",
+    "streetType": "utca"
+  },
+  {
     "zip": 4225,
     "streetName": "Templom",
     "streetType": "utca"
@@ -8627,6 +8842,11 @@
   {
     "zip": 4034,
     "streetName": "Tengerész",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4025,
+    "streetName": "Térey János",
     "streetType": "utca"
   },
   {
@@ -8782,13 +9002,18 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Tormay Béla",
+    "streetType": "utca"
+  },
+  {
     "zip": 4033,
     "streetName": "Tormai István",
     "streetType": "utca"
   },
   {
     "zip": 4002,
-    "streetName": "Tormay Béla",
+    "streetName": "Tornyos",
     "streetType": "utca"
   },
   {
@@ -8828,6 +9053,11 @@
   {
     "zip": 4002,
     "streetName": "Tölcsérvirág",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Tölgyesalja",
     "streetType": "utca"
   },
   {
@@ -9034,6 +9264,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4027,
+    "streetName": "Tűzoltó",
+    "streetType": "köz"
+  },
+  {
     "zip": 4002,
     "streetName": "Tűztövis",
     "streetType": "utca"
@@ -9054,13 +9289,13 @@
     "streetType": "utca"
   },
   {
-    "zip": 4002,
-    "streetName": "Újgát",
+    "zip": 4024,
+    "streetName": "Újházi Ede",
     "streetType": "utca"
   },
   {
-    "zip": 4024,
-    "streetName": "Újházi Ede",
+    "zip": 4002,
+    "streetName": "Újgát",
     "streetType": "utca"
   },
   {
@@ -9189,6 +9424,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Vadon",
+    "streetType": "utca"
+  },
+  {
     "zip": 4078,
     "streetName": "Vadőr",
     "streetType": "utca"
@@ -9273,12 +9513,12 @@
   {
     "zip": 4030,
     "streetName": "Vámraktár",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4030,
     "streetName": "Vámraktár",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4078,
@@ -9446,11 +9686,6 @@
     "streetType": "utca"
   },
   {
-    "zip": 4030,
-    "streetName": "Vécsey",
-    "streetType": "utca"
-  },
-  {
     "zip": 4028,
     "streetName": "Vecsey-Bruckner",
     "streetType": "park"
@@ -9458,6 +9693,11 @@
   {
     "zip": 4002,
     "streetName": "Vecsey Tibor",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4030,
+    "streetName": "Vécsey",
     "streetType": "utca"
   },
   {
@@ -9555,12 +9795,12 @@
   {
     "zip": 4002,
     "streetName": "Vető",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4002,
     "streetName": "Vető",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4032,
@@ -9672,6 +9912,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Vízidió",
+    "streetType": "utca"
+  },
+  {
     "zip": 4028,
     "streetName": "Víztorony",
     "streetType": "utca",
@@ -9739,6 +9984,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 4002,
+    "streetName": "Wallau",
+    "streetType": "utca"
+  },
+  {
     "zip": 4030,
     "streetName": "Wekerle",
     "streetType": "utca"
@@ -9801,12 +10051,12 @@
   {
     "zip": 4002,
     "streetName": "Zerge",
-    "streetType": "köz"
+    "streetType": "utca"
   },
   {
     "zip": 4002,
     "streetName": "Zerge",
-    "streetType": "utca"
+    "streetType": "köz"
   },
   {
     "zip": 4028,
@@ -9863,26 +10113,6 @@
   },
   {
     "zip": 4026,
-    "streetName": "Zúgó",
-    "streetType": "utca"
-  },
-  {
-    "zip": 4002,
-    "streetName": "Zúzmara",
-    "streetType": "utca"
-  },
-  {
-    "zip": 4002,
-    "streetName": "Zuzmó",
-    "streetType": "utca"
-  },
-  {
-    "zip": 4033,
-    "streetName": "Zwingli",
-    "streetType": "utca"
-  },
-  {
-    "zip": 4026,
     "streetName": "Zsák",
     "streetType": "utca"
   },
@@ -9914,6 +10144,26 @@
   {
     "zip": 4002,
     "streetName": "Zsurló",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4026,
+    "streetName": "Zúgó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Zúzmara",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Zuzmó",
+    "streetType": "utca"
+  },
+  {
+    "zip": 4033,
+    "streetName": "Zwingli",
     "streetType": "utca"
   }
 ]

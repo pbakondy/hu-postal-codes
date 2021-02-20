@@ -82,7 +82,7 @@
   {
     "zip": 9011,
     "streetName": "Alpesi",
-    "streetType": "utca"
+    "streetType": "út"
   },
   {
     "zip": 9028,
@@ -1024,6 +1024,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 9027,
+    "streetName": "Égerfa",
+    "streetType": "utca"
+  },
+  {
     "zip": 9030,
     "streetName": "Egres",
     "streetType": "köz"
@@ -1273,8 +1278,7 @@
   },
   {
     "zip": 9011,
-    "streetName": "Fenyves",
-    "streetType": "sor"
+    "streetName": "Fenyvessor"
   },
   {
     "zip": 9025,
@@ -1628,7 +1632,7 @@
   {
     "zip": 9012,
     "streetName": "Hegyalja",
-    "streetType": "út"
+    "streetType": "utca"
   },
   {
     "zip": 9012,
@@ -2810,11 +2814,6 @@
     "streetType": "utca"
   },
   {
-    "zip": 9024,
-    "streetName": "Marcalvárosi",
-    "streetType": "aluljáró"
-  },
-  {
     "zip": 9023,
     "streetName": "Március 15.",
     "streetType": "utca"
@@ -3010,11 +3009,6 @@
     "streetType": "tér"
   },
   {
-    "zip": 9011,
-    "streetName": "Nagy",
-    "streetType": "hegy"
-  },
-  {
     "zip": 9024,
     "streetName": "Nagy Imre",
     "streetType": "utca"
@@ -3025,14 +3019,18 @@
     "streetType": "utca"
   },
   {
-    "zip": 9026,
-    "streetName": "Nagymegyeri",
-    "streetType": "út"
-  },
-  {
     "zip": 9027,
     "streetName": "Nagysándor József",
     "streetType": "utca"
+  },
+  {
+    "zip": 9011,
+    "streetName": "Nagyhegy"
+  },
+  {
+    "zip": 9026,
+    "streetName": "Nagymegyeri",
+    "streetType": "út"
   },
   {
     "zip": 9024,
@@ -3335,14 +3333,14 @@
     "streetType": "utca"
   },
   {
-    "zip": 9028,
-    "streetName": "Páva",
-    "streetType": "utca"
-  },
-  {
     "zip": 9012,
     "streetName": "Pavilon",
     "streetType": "sor"
+  },
+  {
+    "zip": 9028,
+    "streetName": "Páva",
+    "streetType": "utca"
   },
   {
     "zip": 9011,
@@ -4366,10 +4364,6 @@
     "streetType": "utca"
   },
   {
-    "zip": 9021,
-    "streetName": "Teherpályaudvar"
-  },
-  {
     "zip": 9025,
     "streetName": "Tél",
     "streetType": "utca"
@@ -4408,11 +4402,6 @@
     "zip": 9024,
     "streetName": "Tessedik Sámuel",
     "streetType": "utca"
-  },
-  {
-    "zip": 9027,
-    "streetName": "Tibor",
-    "streetType": "major"
   },
   {
     "zip": 9019,
@@ -4510,7 +4499,7 @@
   },
   {
     "zip": 9012,
-    "streetName": "Tsz",
+    "streetName": "TSZ",
     "streetType": "major"
   },
   {
@@ -4829,8 +4818,7 @@
   },
   {
     "zip": 9021,
-    "streetName": "Virágpiac",
-    "streetType": "tér"
+    "streetName": "Virágpiac"
   },
   {
     "zip": 9026,

@@ -1239,6 +1239,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 6757,
+    "streetName": "Borostyán",
+    "streetType": "liget"
+  },
+  {
     "zip": 6791,
     "streetName": "Bors",
     "streetType": "utca"
@@ -1837,6 +1842,11 @@
     "zip": 6726,
     "streetName": "Diófa",
     "streetType": "utca"
+  },
+  {
+    "zip": 6710,
+    "streetName": "Dióliget",
+    "streetType": "köz"
   },
   {
     "zip": 6791,
@@ -3158,6 +3168,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 6726,
+    "streetName": "Holt-Maros",
+    "streetType": "sétány"
+  },
+  {
     "zip": 6710,
     "streetName": "Holt-Tisza",
     "streetType": "sor"
@@ -3208,11 +3223,6 @@
     "streetType": "utca"
   },
   {
-    "zip": 6791,
-    "streetName": "Horváth",
-    "streetType": "tanya"
-  },
-  {
     "zip": 6720,
     "streetName": "Horváth Mihály",
     "streetType": "utca"
@@ -3236,6 +3246,11 @@
     "zip": 6791,
     "streetName": "Huba",
     "streetType": "utca"
+  },
+  {
+    "zip": 6791,
+    "streetName": "Huba",
+    "streetType": "köz"
   },
   {
     "zip": 6721,
@@ -4498,6 +4513,11 @@
     "numbers": "odd numbers"
   },
   {
+    "zip": 6791,
+    "streetName": "Lovai",
+    "streetType": "tanya"
+  },
+  {
     "zip": 6771,
     "streetName": "Lovarda",
     "streetType": "utca"
@@ -4543,14 +4563,14 @@
     "streetType": "tanya"
   },
   {
-    "zip": 6791,
-    "streetName": "Mácsonya",
-    "streetType": "köz"
-  },
-  {
     "zip": 6728,
     "streetName": "Macskási",
     "streetType": "út"
+  },
+  {
+    "zip": 6791,
+    "streetName": "Mácsonya",
+    "streetType": "utca"
   },
   {
     "zip": 6721,
@@ -4775,11 +4795,6 @@
     "streetType": "utca"
   },
   {
-    "zip": 6728,
-    "streetName": "Martus",
-    "streetType": "tanya"
-  },
-  {
     "zip": 6710,
     "streetName": "Márvány",
     "streetType": "utca"
@@ -4793,6 +4808,11 @@
     "zip": 6710,
     "streetName": "Mátra",
     "streetType": "köz"
+  },
+  {
+    "zip": 6728,
+    "streetName": "Martus",
+    "streetType": "tanya"
   },
   {
     "zip": 6725,
@@ -6273,7 +6293,7 @@
     "streetType": "utca"
   },
   {
-    "zip": 6728,
+    "zip": 6727,
     "streetName": "Serkédi",
     "streetType": "tanya"
   },
@@ -6488,6 +6508,10 @@
     "zip": 6728,
     "streetName": "Szabó 4",
     "streetType": "tanya"
+  },
+  {
+    "zip": 6791,
+    "streetName": "Szabó 5 tanya"
   },
   {
     "zip": 6729,
@@ -7037,6 +7061,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 6791,
+    "streetName": "Tamás",
+    "streetType": "tanya"
+  },
+  {
     "zip": 6726,
     "streetName": "Tambura",
     "streetType": "utca"
@@ -7145,14 +7174,14 @@
     "streetType": "köz"
   },
   {
-    "zip": 6725,
-    "streetName": "Téglagyár",
-    "streetType": "utca"
-  },
-  {
     "zip": 6771,
     "streetName": "Téglaégető",
     "streetType": "dűlő"
+  },
+  {
+    "zip": 6725,
+    "streetName": "Téglagyár",
+    "streetType": "utca"
   },
   {
     "zip": 6791,
@@ -7393,6 +7422,10 @@
     "zip": 6710,
     "streetName": "Tóth",
     "streetType": "tanya"
+  },
+  {
+    "zip": 6753,
+    "streetName": "Tóth 2 tanya"
   },
   {
     "zip": 6791,
@@ -7728,6 +7761,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 6757,
+    "streetName": "Vágóhorog",
+    "streetType": "utca"
+  },
+  {
     "zip": 6723,
     "streetName": "Vajda",
     "streetType": "utca"
@@ -7741,11 +7779,6 @@
     "zip": 6728,
     "streetName": "Vajner",
     "streetType": "tanya"
-  },
-  {
-    "zip": 6757,
-    "streetName": "Vágóhorog",
-    "streetType": "utca"
   },
   {
     "zip": 6729,
@@ -7803,14 +7836,14 @@
     "streetType": "utca"
   },
   {
-    "zip": 6729,
-    "streetName": "Varga",
-    "streetType": "utca"
-  },
-  {
     "zip": 6791,
     "streetName": "Varjútövis",
     "streetType": "sor"
+  },
+  {
+    "zip": 6729,
+    "streetName": "Varga",
+    "streetType": "utca"
   },
   {
     "zip": 6728,

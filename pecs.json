@@ -491,10 +491,6 @@
     "streetType": "útja"
   },
   {
-    "zip": 7691,
-    "streetName": "Bányatelep"
-  },
-  {
     "zip": 7630,
     "streetName": "Bányavasút",
     "streetType": "utca"
@@ -2061,11 +2057,6 @@
     "streetType": "utca"
   },
   {
-    "zip": 7629,
-    "streetName": "Frankel Leó",
-    "streetType": "utca"
-  },
-  {
     "zip": 7635,
     "streetName": "Füge",
     "streetType": "dűlő"
@@ -2934,8 +2925,7 @@
   },
   {
     "zip": 7628,
-    "streetName": "István",
-    "streetType": "akna"
+    "streetName": "István-akna"
   },
   {
     "zip": 7632,
@@ -3108,11 +3098,6 @@
     "streetType": "utca"
   },
   {
-    "zip": 7627,
-    "streetName": "Kalapács",
-    "streetType": "utca"
-  },
-  {
     "zip": 7693,
     "streetName": "Kalász",
     "streetType": "út"
@@ -3244,11 +3229,6 @@
   {
     "zip": 7627,
     "streetName": "Károly",
-    "streetType": "utca"
-  },
-  {
-    "zip": 7635,
-    "streetName": "Károlyi Mihály",
     "streetType": "utca"
   },
   {
@@ -4404,11 +4384,6 @@
   },
   {
     "zip": 7627,
-    "streetName": "Marx",
-    "streetType": "út"
-  },
-  {
-    "zip": 7627,
     "streetName": "Matakovits",
     "streetType": "utca"
   },
@@ -4721,11 +4696,6 @@
   },
   {
     "zip": 7691,
-    "streetName": "Murom",
-    "streetType": "dűlő"
-  },
-  {
-    "zip": 7691,
     "streetName": "Muromi",
     "streetType": "út"
   },
@@ -4980,11 +4950,6 @@
     "zip": 7633,
     "streetName": "Nendtvich Andor",
     "streetType": "út"
-  },
-  {
-    "zip": 7628,
-    "streetName": "Népfront",
-    "streetType": "utca"
   },
   {
     "zip": 7636,
@@ -5774,11 +5739,6 @@
   },
   {
     "zip": 7630,
-    "streetName": "Ságvári Endre",
-    "streetType": "utca"
-  },
-  {
-    "zip": 7630,
     "streetName": "Salakhegyi",
     "streetType": "út"
   },
@@ -6083,7 +6043,7 @@
   },
   {
     "zip": 7693,
-    "streetName": "Szatmáry György",
+    "streetName": "Szathmáry György",
     "streetType": "utca"
   },
   {

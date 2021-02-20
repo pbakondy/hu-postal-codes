@@ -393,12 +393,12 @@
   },
   {
     "zip": 3525,
-    "streetName": "Bábonyibérc Újtelep"
+    "streetName": "Bábonyi bérc",
+    "streetType": "alsósor"
   },
   {
     "zip": 3525,
-    "streetName": "Bábonyi bérc",
-    "streetType": "alsósor"
+    "streetName": "Bábonyibérc Újtelep"
   },
   {
     "zip": 3516,
@@ -484,11 +484,6 @@
     "streetType": "utca"
   },
   {
-    "zip": 3508,
-    "streetName": "Ballassi Bálint",
-    "streetType": "utca"
-  },
-  {
     "zip": 3529,
     "streetName": "Balogh Ádám",
     "streetType": "utca"
@@ -499,14 +494,14 @@
     "streetType": "utca"
   },
   {
-    "zip": 3501,
-    "streetName": "Bandzsalgó",
-    "streetType": "dűlő"
-  },
-  {
     "zip": 3525,
     "streetName": "Bandzsalgó",
     "streetType": "utca"
+  },
+  {
+    "zip": 3501,
+    "streetName": "Bandzsalgó",
+    "streetType": "dűlő"
   },
   {
     "zip": 3535,
@@ -533,7 +528,7 @@
     "streetType": "utca"
   },
   {
-    "zip": 3535,
+    "zip": 3532,
     "streetName": "Bányaoldal"
   },
   {
@@ -1027,19 +1022,24 @@
     "streetType": "utca"
   },
   {
-    "zip": 3519,
-    "streetName": "Cinege",
+    "zip": 3534,
+    "streetName": "Cinka Panna",
     "streetType": "utca"
   },
   {
-    "zip": 3534,
-    "streetName": "Cinka Panna",
+    "zip": 3519,
+    "streetName": "Cinege",
     "streetType": "utca"
   },
   {
     "zip": 3530,
     "streetName": "Corvin",
     "streetType": "utca"
+  },
+  {
+    "zip": 3519,
+    "streetName": "Csabagyöngye",
+    "streetType": "dűlő"
   },
   {
     "zip": 3530,
@@ -1049,22 +1049,17 @@
   {
     "zip": 3519,
     "streetName": "Csabai",
-    "streetType": "út"
+    "streetType": "utca"
   },
   {
     "zip": 3519,
     "streetName": "Csabai",
-    "streetType": "utca"
+    "streetType": "út"
   },
   {
     "zip": 3529,
     "streetName": "Csabai",
     "streetType": "kapu"
-  },
-  {
-    "zip": 3519,
-    "streetName": "Csabagyöngye",
-    "streetType": "dűlő"
   },
   {
     "zip": 3508,
@@ -1186,13 +1181,19 @@
     "streetType": "utca"
   },
   {
+    "zip": 3515,
+    "streetName": "Csermőke",
+    "streetType": "dűlő",
+    "numbers": "107 to 107"
+  },
+  {
     "zip": 3533,
     "streetName": "Csermőke",
     "streetType": "dűlő"
   },
   {
     "zip": 3533,
-    "streetName": "Csermőke",
+    "streetName": "Csermőkei",
     "streetType": "út"
   },
   {
@@ -1691,12 +1692,12 @@
   {
     "zip": 3519,
     "streetName": "Fajdos",
-    "streetType": "dűlő"
+    "streetType": "utca"
   },
   {
     "zip": 3519,
     "streetName": "Fajdos",
-    "streetType": "utca"
+    "streetType": "dűlő"
   },
   {
     "zip": 3518,
@@ -2643,12 +2644,12 @@
   },
   {
     "zip": 3518,
-    "streetName": "Jónáshegy",
-    "streetType": "dűlő út"
+    "streetName": "Jónáshegy"
   },
   {
     "zip": 3518,
-    "streetName": "Jónáshegy"
+    "streetName": "Jónáshegy",
+    "streetType": "dűlő út"
   },
   {
     "zip": 3516,
@@ -3241,12 +3242,12 @@
   {
     "zip": 3518,
     "streetName": "Kőpad",
-    "streetType": "utca"
+    "streetType": "dűlő"
   },
   {
     "zip": 3518,
     "streetName": "Kőpad",
-    "streetType": "dűlő"
+    "streetType": "utca"
   },
   {
     "zip": 3531,
@@ -3535,7 +3536,7 @@
   {
     "zip": 3516,
     "streetName": "Lippa",
-    "streetType": "dűlőút"
+    "streetType": "dűlő"
   },
   {
     "zip": 3518,
@@ -5184,7 +5185,7 @@
     "streetType": "dűlő"
   },
   {
-    "zip": 3523,
+    "zip": 3532,
     "streetName": "Szarkahegy-Rózsa",
     "streetType": "dűlő"
   },
@@ -5584,11 +5585,6 @@
     "zip": 3516,
     "streetName": "Tarcsa",
     "streetType": "dülő"
-  },
-  {
-    "zip": 3521,
-    "streetName": "Tarcsay Vilmos",
-    "streetType": "utca"
   },
   {
     "zip": 3525,

@@ -1719,11 +1719,6 @@
     "city": "Bátonyterenye"
   },
   {
-    "zip": 3071,
-    "city": "Bátonyterenye",
-    "region": "Nagybátony"
-  },
-  {
     "zip": 3073,
     "city": "Tar"
   },
@@ -12108,6 +12103,11 @@
   {
     "zip": 9182,
     "city": "Károlyháza"
+  },
+  {
+    "zip": 9183,
+    "city": "Mosonszentmiklós",
+    "region": "Gyártelep"
   },
   {
     "zip": 9183,
