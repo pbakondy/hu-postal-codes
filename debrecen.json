@@ -250,7 +250,7 @@
     "streetType": "utca"
   },
   {
-    "zip": 4027,
+    "zip": 4026,
     "streetName": "Arany János",
     "streetType": "tér"
   },
@@ -1317,6 +1317,11 @@
     "zip": 4002,
     "streetName": "Cukros",
     "streetType": "út"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Czifra",
+    "streetType": "tanya"
   },
   {
     "zip": 4002,
@@ -8566,6 +8571,11 @@
     "zip": 4033,
     "streetName": "Szitás",
     "streetType": "utca"
+  },
+  {
+    "zip": 4002,
+    "streetName": "Szitha",
+    "streetType": "tanya"
   },
   {
     "zip": 4025,

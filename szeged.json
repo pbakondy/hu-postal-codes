@@ -2050,7 +2050,7 @@
   },
   {
     "zip": 6771,
-    "streetName": "Engels",
+    "streetName": "Ezüstfa",
     "streetType": "utca"
   },
   {
@@ -6469,20 +6469,7 @@
   {
     "zip": 6729,
     "streetName": "Szabadkai",
-    "streetType": "út",
-    "numbers": "1 to 91"
-  },
-  {
-    "zip": 6729,
-    "streetName": "Szabadkai",
-    "streetType": "út",
-    "numbers": "2 to 106"
-  },
-  {
-    "zip": 6710,
-    "streetName": "Szabadkai",
-    "streetType": "út",
-    "numbers": "the rest"
+    "streetType": "út"
   },
   {
     "zip": 6725,
