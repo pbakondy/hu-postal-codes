@@ -2777,7 +2777,7 @@
     "district": 2
   },
   {
-    "zip": 1029,
+    "zip": 1028,
     "streetName": "Árpád",
     "streetType": "tér",
     "district": 2
@@ -4355,6 +4355,12 @@
   {
     "zip": 1025,
     "streetName": "Barlang",
+    "streetType": "utca",
+    "district": 2
+  },
+  {
+    "zip": 1025,
+    "streetName": "Barlangkapu",
     "streetType": "utca",
     "district": 2
   },
@@ -7505,6 +7511,12 @@
     "district": 18
   },
   {
+    "zip": 1033,
+    "streetName": "Bud Spencer",
+    "streetType": "park",
+    "district": 3
+  },
+  {
     "zip": 1117,
     "streetName": "Buda-part",
     "streetType": "tér",
@@ -8699,7 +8711,7 @@
     "district": 3
   },
   {
-    "zip": 1223,
+    "zip": 1224,
     "streetName": "Csemetekert",
     "streetType": "utca",
     "district": 22
@@ -9938,7 +9950,7 @@
     "district": 11
   },
   {
-    "zip": 1029,
+    "zip": 1028,
     "streetName": "Csurgó",
     "streetType": "utca",
     "district": 2
@@ -10152,6 +10164,12 @@
     "streetName": "Dal",
     "streetType": "utca",
     "district": 15
+  },
+  {
+    "zip": 1095,
+    "streetName": "Dalai láma",
+    "streetType": "út",
+    "district": 9
   },
   {
     "zip": 1222,
@@ -12350,7 +12368,7 @@
     "zip": 1149,
     "streetName": "Egressy",
     "streetType": "út",
-    "numbers": "2 to 178b, c, d, e",
+    "numbers": "2 to 178b, c, d, e, g",
     "district": 14
   },
   {
@@ -12556,7 +12574,7 @@
     "district": 22
   },
   {
-    "zip": 1029,
+    "zip": 1028,
     "streetName": "Emelkedő",
     "streetType": "utca",
     "district": 2
@@ -12800,6 +12818,12 @@
   {
     "zip": 1121,
     "streetName": "Eötvös József",
+    "streetType": "park",
+    "district": 12
+  },
+  {
+    "zip": 1121,
+    "streetName": "Eötvös Lóránd",
     "streetType": "park",
     "district": 12
   },
@@ -16577,12 +16601,6 @@
     "district": 22
   },
   {
-    "zip": 1029,
-    "streetName": "Garamvölgyi",
-    "streetType": "utca",
-    "district": 2
-  },
-  {
     "zip": 1026,
     "streetName": "Garas",
     "streetType": "utca",
@@ -18891,7 +18909,7 @@
     "district": 23
   },
   {
-    "zip": 1224,
+    "zip": 1225,
     "streetName": "Hajómalom",
     "streetType": "utca",
     "district": 22
@@ -19682,12 +19700,6 @@
     "zip": 1021,
     "streetName": "Hárshegyi",
     "streetType": "út",
-    "district": 2
-  },
-  {
-    "zip": 1021,
-    "streetName": "Hárshegyi",
-    "streetType": "körút",
     "district": 2
   },
   {
@@ -21267,6 +21279,12 @@
     "streetName": "Hrivnák Pál",
     "streetType": "utca",
     "district": 23
+  },
+  {
+    "zip": 1095,
+    "streetName": "Hszie Si-kuang püspök",
+    "streetType": "út",
+    "district": 9
   },
   {
     "zip": 1039,
@@ -24467,6 +24485,12 @@
     "district": 11
   },
   {
+    "zip": 1224,
+    "streetName": "Kanyar",
+    "streetType": "utca",
+    "district": 22
+  },
+  {
     "zip": 1221,
     "streetName": "Kanyargó",
     "streetType": "utca",
@@ -26953,7 +26977,7 @@
     "district": 3
   },
   {
-    "zip": 1222,
+    "zip": 1221,
     "streetName": "Kiránduló",
     "streetType": "utca",
     "district": 22
@@ -28024,6 +28048,12 @@
     "district": 3
   },
   {
+    "zip": 1086,
+    "streetName": "Koltói Anna",
+    "streetType": "tér",
+    "district": 8
+  },
+  {
     "zip": 1131,
     "streetName": "Koma",
     "streetType": "utca",
@@ -28097,6 +28127,12 @@
     "streetName": "Komló",
     "streetType": "utca",
     "district": 22
+  },
+  {
+    "zip": 1025,
+    "streetName": "Komlós Juci",
+    "streetType": "köz",
+    "district": 2
   },
   {
     "zip": 1141,
@@ -29158,7 +29194,7 @@
     "district": 3
   },
   {
-    "zip": 1224,
+    "zip": 1225,
     "streetName": "Kölönte",
     "streetType": "utca",
     "district": 22
@@ -30742,7 +30778,7 @@
     "district": 17
   },
   {
-    "zip": 1029,
+    "zip": 1025,
     "streetName": "Látóhegyi",
     "streetType": "út",
     "district": 2
@@ -31512,6 +31548,12 @@
     "streetName": "Lilaorgona",
     "streetType": "utca",
     "district": 17
+  },
+  {
+    "zip": 1224,
+    "streetName": "Lili major",
+    "streetType": "köz",
+    "district": 22
   },
   {
     "zip": 1238,
@@ -33463,12 +33505,6 @@
     "district": 11
   },
   {
-    "zip": 1028,
-    "streetName": "Maros",
-    "streetType": "utca",
-    "district": 2
-  },
-  {
     "zip": 1039,
     "streetName": "Maros",
     "streetType": "utca",
@@ -33819,7 +33855,7 @@
     "district": 22
   },
   {
-    "zip": 1028,
+    "zip": 1029,
     "streetName": "Mátra",
     "streetType": "utca",
     "district": 2
@@ -34047,12 +34083,6 @@
     "zip": 1024,
     "streetName": "Mechwart",
     "streetType": "lépcső",
-    "district": 2
-  },
-  {
-    "zip": 1024,
-    "streetName": "Mechwart",
-    "streetType": "tér",
     "district": 2
   },
   {
@@ -34292,6 +34322,12 @@
     "streetName": "Melinda",
     "streetType": "út",
     "district": 12
+  },
+  {
+    "zip": 1025,
+    "streetName": "Melocco",
+    "streetType": "köz",
+    "district": 2
   },
   {
     "zip": 1038,
@@ -34543,7 +34579,7 @@
     "district": 19
   },
   {
-    "zip": 1029,
+    "zip": 1028,
     "streetName": "Mészégető",
     "streetType": "utca",
     "district": 2
@@ -34763,14 +34799,14 @@
     "zip": 1016,
     "streetName": "Mihály",
     "streetType": "utca",
-    "numbers": "2 to 16",
+    "numbers": "2 to 14",
     "district": 1
   },
   {
     "zip": 1118,
     "streetName": "Mihály",
     "streetType": "utca",
-    "numbers": "16A to 18",
+    "numbers": "16 to 18",
     "district": 11
   },
   {
@@ -35176,6 +35212,12 @@
     "district": 5
   },
   {
+    "zip": 1118,
+    "streetName": "Molnár C. Pál",
+    "streetType": "lejtő",
+    "district": 11
+  },
+  {
     "zip": 1112,
     "streetName": "Molnárfecske",
     "streetType": "utca",
@@ -35466,7 +35508,7 @@
     "zip": 1043,
     "streetName": "Munkásotthon",
     "streetType": "utca",
-    "numbers": "25 to 45",
+    "numbers": "25 to 43",
     "district": 4
   },
   {
@@ -36166,7 +36208,7 @@
     "district": 20
   },
   {
-    "zip": 1237,
+    "zip": 1239,
     "streetName": "Nagykőrösi",
     "streetType": "út",
     "district": 23
@@ -38870,7 +38912,7 @@
     "district": 17
   },
   {
-    "zip": 1028,
+    "zip": 1029,
     "streetName": "Ösvény",
     "streetType": "utca",
     "district": 2
@@ -39178,7 +39220,7 @@
     "district": 22
   },
   {
-    "zip": 1026,
+    "zip": 1025,
     "streetName": "Páfrány",
     "streetType": "út",
     "district": 2
@@ -39677,7 +39719,7 @@
     "district": 20
   },
   {
-    "zip": 1029,
+    "zip": 1028,
     "streetName": "Párás",
     "streetType": "utca",
     "district": 2
@@ -40139,6 +40181,12 @@
     "streetName": "Pelikán",
     "streetType": "utca",
     "district": 17
+  },
+  {
+    "zip": 1223,
+    "streetName": "Pelikán Imre",
+    "streetType": "utca",
+    "district": 22
   },
   {
     "zip": 1121,
@@ -41600,6 +41648,18 @@
     "streetName": "Promontor",
     "streetType": "utca",
     "district": 22
+  },
+  {
+    "zip": 1027,
+    "streetName": "Psota Irén",
+    "streetType": "utca",
+    "district": 2
+  },
+  {
+    "zip": 1062,
+    "streetName": "Puczi Béla",
+    "streetType": "tér",
+    "district": 6
   },
   {
     "zip": 1213,
@@ -44556,12 +44616,6 @@
     "district": 1
   },
   {
-    "zip": 1021,
-    "streetName": "Schüller",
-    "streetType": "út",
-    "district": 2
-  },
-  {
     "zip": 1123,
     "streetName": "Schwartzer Ferenc",
     "streetType": "utca",
@@ -45506,7 +45560,7 @@
     "district": 23
   },
   {
-    "zip": 1044,
+    "zip": 1046,
     "streetName": "Sporttelep",
     "streetType": "utca",
     "district": 4
@@ -45791,6 +45845,12 @@
     "district": 20
   },
   {
+    "zip": 1095,
+    "streetName": "Szabad Hongkong",
+    "streetType": "út",
+    "district": 9
+  },
+  {
     "zip": 1174,
     "streetName": "Szabad május",
     "streetType": "tér",
@@ -46032,6 +46092,12 @@
     "streetName": "Szabó Lőrinc",
     "streetType": "utca",
     "district": 14
+  },
+  {
+    "zip": 1024,
+    "streetName": "Szabó Magda",
+    "streetType": "sétány",
+    "district": 2
   },
   {
     "zip": 1238,
@@ -47079,6 +47145,12 @@
     "district": 22
   },
   {
+    "zip": 1081,
+    "streetName": "Szeles Erika",
+    "streetType": "tér",
+    "district": 8
+  },
+  {
     "zip": 1037,
     "streetName": "Szélfű",
     "streetType": "utca",
@@ -48025,6 +48097,12 @@
     "district": 18
   },
   {
+    "zip": 1025,
+    "streetName": "Szépecske",
+    "streetType": "utca",
+    "district": 2
+  },
+  {
     "zip": 1185,
     "streetName": "Szepes",
     "streetType": "utca",
@@ -48219,6 +48297,12 @@
     "streetName": "Szeréna",
     "streetType": "köz",
     "district": 2
+  },
+  {
+    "zip": 1117,
+    "streetName": "Szerenád",
+    "streetType": "utca",
+    "district": 11
   },
   {
     "zip": 1152,
@@ -48613,7 +48697,7 @@
     "district": 17
   },
   {
-    "zip": 1156,
+    "zip": 1152,
     "streetName": "Szilas",
     "streetType": "park",
     "district": 15
@@ -48769,7 +48853,7 @@
     "district": 2
   },
   {
-    "zip": 1029,
+    "zip": 1028,
     "streetName": "Szirt",
     "streetType": "utca",
     "district": 2
@@ -49034,6 +49118,12 @@
     "streetName": "Szomszéd",
     "streetType": "utca",
     "district": 13
+  },
+  {
+    "zip": 1117,
+    "streetName": "Szonáta",
+    "streetType": "utca",
+    "district": 11
   },
   {
     "zip": 1192,
@@ -50182,7 +50272,7 @@
     "district": 1
   },
   {
-    "zip": 1028,
+    "zip": 1029,
     "streetName": "Tárnok",
     "streetType": "utca",
     "district": 2
@@ -51205,6 +51295,12 @@
     "district": 3
   },
   {
+    "zip": 1223,
+    "streetName": "Térey Pál",
+    "streetType": "utca",
+    "district": 22
+  },
+  {
     "zip": 1115,
     "streetName": "Tétényi",
     "streetType": "út",
@@ -52201,7 +52297,7 @@
     "district": 23
   },
   {
-    "zip": 1028,
+    "zip": 1021,
     "streetName": "Tótasszonyi",
     "streetType": "út",
     "district": 2
@@ -52909,7 +53005,7 @@
   {
     "zip": 1238,
     "streetName": "Túri István",
-    "streetType": "utca",
+    "streetType": "út",
     "district": 23
   },
   {
@@ -53328,6 +53424,12 @@
     "streetName": "Ugron Gábor",
     "streetType": "utca",
     "district": 11
+  },
+  {
+    "zip": 1095,
+    "streetName": "Ujgur mártírok",
+    "streetType": "útja",
+    "district": 9
   },
   {
     "zip": 1173,
@@ -54909,12 +55011,6 @@
     "district": 3
   },
   {
-    "zip": 1029,
-    "streetName": "Városhatár",
-    "streetType": "utca",
-    "district": 2
-  },
-  {
     "zip": 1052,
     "streetName": "Városház",
     "streetType": "utca",
@@ -56457,12 +56553,6 @@
     "streetName": "Vilmos",
     "streetType": "utca",
     "district": 22
-  },
-  {
-    "zip": 1024,
-    "streetName": "Vince",
-    "streetType": "utca",
-    "district": 2
   },
   {
     "zip": 1113,

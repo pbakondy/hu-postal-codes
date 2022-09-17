@@ -158,6 +158,11 @@
     "streetType": "dűlő"
   },
   {
+    "zip": 3521,
+    "streetName": "Alsó kertek",
+    "streetType": "utca"
+  },
+  {
     "zip": 3535,
     "streetName": "Alsó Papírgyár",
     "streetType": "telep"
@@ -274,6 +279,11 @@
   {
     "zip": 3519,
     "streetName": "Aranyeső",
+    "streetType": "utca"
+  },
+  {
+    "zip": 3521,
+    "streetName": "Aranykalász",
     "streetType": "utca"
   },
   {
@@ -2846,6 +2856,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 3521,
+    "streetName": "Kastély",
+    "streetType": "köz"
+  },
+  {
     "zip": 3527,
     "streetName": "Katalin",
     "streetType": "utca",
@@ -4746,6 +4761,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 3521,
+    "streetName": "Régi vasút",
+    "streetType": "dűlő"
+  },
+  {
     "zip": 3531,
     "streetName": "Reisinger Ferenc",
     "streetType": "utca"
@@ -4914,6 +4934,11 @@
     "zip": 3535,
     "streetName": "Sas",
     "streetType": "utca"
+  },
+  {
+    "zip": 3525,
+    "streetName": "Sassy Csaba",
+    "streetType": "tér"
   },
   {
     "zip": 3533,
@@ -5302,6 +5327,11 @@
     "streetType": "tér"
   },
   {
+    "zip": 3525,
+    "streetName": "Szent György",
+    "streetType": "tér"
+  },
+  {
     "zip": 3532,
     "streetName": "Szent Imre",
     "streetType": "tér"
@@ -5320,6 +5350,11 @@
     "zip": 3525,
     "streetName": "Szent László",
     "streetType": "utca"
+  },
+  {
+    "zip": 3519,
+    "streetName": "Szent Márton",
+    "streetType": "dűlő"
   },
   {
     "zip": 3519,
@@ -5519,6 +5554,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 3519,
+    "streetName": "Szűrszabó",
+    "streetType": "utca"
+  },
+  {
     "zip": 3508,
     "streetName": "Tábortűz",
     "streetType": "utca"
@@ -5696,7 +5736,7 @@
     "streetType": "utca"
   },
   {
-    "zip": 3534,
+    "zip": 3525,
     "streetName": "Temető",
     "streetType": "utca"
   },

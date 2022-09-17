@@ -474,6 +474,11 @@
   },
   {
     "zip": 6726,
+    "streetName": "Altorjay István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 6726,
     "streetName": "Ambrus",
     "streetType": "utca"
   },
@@ -1355,6 +1360,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 6791,
+    "streetName": "Burgundi",
+    "streetType": "utca"
+  },
+  {
     "zip": 6710,
     "streetName": "Busa",
     "streetType": "utca"
@@ -1687,6 +1697,11 @@
     "zip": 6723,
     "streetName": "Csörlő",
     "streetType": "utca"
+  },
+  {
+    "zip": 6791,
+    "streetName": "Csucsor",
+    "streetType": "köz"
   },
   {
     "zip": 6723,
@@ -3220,6 +3235,11 @@
   {
     "zip": 6725,
     "streetName": "Horgosi",
+    "streetType": "köz"
+  },
+  {
+    "zip": 6725,
+    "streetName": "Horgosi",
     "streetType": "utca"
   },
   {
@@ -3234,8 +3254,8 @@
   },
   {
     "zip": 6728,
-    "streetName": "Hosszútöltés",
-    "streetType": "utca"
+    "streetName": "Hosszú-töltés",
+    "streetType": "út"
   },
   {
     "zip": 6771,
@@ -3692,6 +3712,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 6728,
+    "streetName": "Karotin",
+    "streetType": "köz"
+  },
+  {
     "zip": 6720,
     "streetName": "Károlyi",
     "streetType": "utca"
@@ -3774,6 +3799,11 @@
   {
     "zip": 6726,
     "streetName": "Kékfestő",
+    "streetType": "utca"
+  },
+  {
+    "zip": 6791,
+    "streetName": "Kékfrankos",
     "streetType": "utca"
   },
   {
@@ -4000,6 +4030,11 @@
     "zip": 6726,
     "streetName": "Kockaház",
     "streetType": "utca"
+  },
+  {
+    "zip": 6791,
+    "streetName": "Kocsord",
+    "streetType": "út"
   },
   {
     "zip": 6724,
@@ -4713,6 +4748,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 6753,
+    "streetName": "Margitvirág",
+    "streetType": "utca"
+  },
+  {
     "zip": 6726,
     "streetName": "Mária",
     "streetType": "utca"
@@ -4860,6 +4900,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 6791,
+    "streetName": "Mécsvirág",
+    "streetType": "köz"
+  },
+  {
     "zip": 6729,
     "streetName": "Méh",
     "streetType": "utca"
@@ -4883,6 +4928,11 @@
     "zip": 6722,
     "streetName": "Mérey",
     "streetType": "utca"
+  },
+  {
+    "zip": 6728,
+    "streetName": "Merkapt",
+    "streetType": "köz"
   },
   {
     "zip": 6728,
@@ -5436,6 +5486,11 @@
     "streetType": "köz"
   },
   {
+    "zip": 6726,
+    "streetName": "Örökzöld",
+    "streetType": "köz"
+  },
+  {
     "zip": 6729,
     "streetName": "Örvény",
     "streetType": "utca"
@@ -5449,6 +5504,11 @@
     "zip": 6791,
     "streetName": "Őszibarack",
     "streetType": "utca"
+  },
+  {
+    "zip": 6791,
+    "streetName": "Őszirózsa",
+    "streetType": "köz"
   },
   {
     "zip": 6724,
@@ -5658,9 +5718,19 @@
     "streetType": "köz"
   },
   {
+    "zip": 6791,
+    "streetName": "Perje",
+    "streetType": "köz"
+  },
+  {
     "zip": 6728,
     "streetName": "Péter",
     "streetType": "tanya"
+  },
+  {
+    "zip": 6791,
+    "streetName": "Pesthy Pál",
+    "streetType": "út"
   },
   {
     "zip": 6791,
@@ -5801,6 +5871,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 6791,
+    "streetName": "Porcsin",
+    "streetType": "köz"
+  },
+  {
     "zip": 6753,
     "streetName": "Porgány",
     "streetType": "köz"
@@ -5833,6 +5908,11 @@
   {
     "zip": 6723,
     "streetName": "Pöstyéni",
+    "streetType": "utca"
+  },
+  {
+    "zip": 6791,
+    "streetName": "Pöszméte",
     "streetType": "utca"
   },
   {
@@ -6045,6 +6125,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 6791,
+    "streetName": "Rizling",
+    "streetType": "utca"
+  },
+  {
     "zip": 6724,
     "streetName": "Rohonci",
     "streetType": "utca"
@@ -6132,6 +6217,11 @@
     "zip": 6728,
     "streetName": "Rózsamajor",
     "streetType": "út"
+  },
+  {
+    "zip": 6728,
+    "streetName": "Rózsamajor",
+    "streetType": "köz"
   },
   {
     "zip": 6791,
@@ -6386,6 +6476,11 @@
     "zip": 6723,
     "streetName": "Sólyom",
     "streetType": "utca"
+  },
+  {
+    "zip": 6791,
+    "streetName": "Sóvirág",
+    "streetType": "út"
   },
   {
     "zip": 6757,
@@ -6995,6 +7090,11 @@
   {
     "zip": 6757,
     "streetName": "Szúnyog",
+    "streetType": "út"
+  },
+  {
+    "zip": 6791,
+    "streetName": "Szulák",
     "streetType": "utca"
   },
   {
@@ -7420,6 +7520,11 @@
     "streetType": "dűlő"
   },
   {
+    "zip": 6791,
+    "streetName": "Tóth János",
+    "streetType": "út"
+  },
+  {
     "zip": 6723,
     "streetName": "Tölgyes",
     "streetType": "utca"
@@ -7733,6 +7838,11 @@
     "streetType": "tanya"
   },
   {
+    "zip": 6753,
+    "streetName": "Vadszőlő",
+    "streetType": "utca"
+  },
+  {
     "zip": 6724,
     "streetName": "Vág",
     "streetType": "utca"
@@ -7913,7 +8023,7 @@
     "streetType": "utca"
   },
   {
-    "zip": 6724,
+    "zip": 6720,
     "streetName": "Vaszy Viktor",
     "streetType": "tér"
   },
@@ -7955,6 +8065,11 @@
   {
     "zip": 6710,
     "streetName": "Verbéna",
+    "streetType": "utca"
+  },
+  {
+    "zip": 6791,
+    "streetName": "Vérfű",
     "streetType": "utca"
   },
   {
@@ -8088,6 +8203,11 @@
     "streetType": "tér"
   },
   {
+    "zip": 6726,
+    "streetName": "Vízügyi",
+    "streetType": "park"
+  },
+  {
     "zip": 6728,
     "streetName": "Vlasics Károly",
     "streetType": "utca"
@@ -8121,6 +8241,11 @@
     "zip": 6720,
     "streetName": "Wesselényi",
     "streetType": "utca"
+  },
+  {
+    "zip": 6728,
+    "streetName": "Wimmer Fülöp",
+    "streetType": "köz"
   },
   {
     "zip": 6728,
@@ -8264,6 +8389,11 @@
     "zip": 6728,
     "streetName": "Zsámbok-réti",
     "streetType": "sor"
+  },
+  {
+    "zip": 6791,
+    "streetName": "Zsázsa",
+    "streetType": "köz"
   },
   {
     "zip": 6726,

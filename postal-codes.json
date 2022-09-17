@@ -456,13 +456,7 @@
   },
   {
     "zip": 2241,
-    "city": "Sülysáp",
-    "region": "Tápiósüly"
-  },
-  {
-    "zip": 2242,
-    "city": "Sülysáp",
-    "region": "Tápiósáp"
+    "city": "Sülysáp"
   },
   {
     "zip": 2243,
@@ -2548,7 +2542,7 @@
   },
   {
     "zip": 3500,
-    "city": "Miskolc*"
+    "city": "Miskolc"
   },
   {
     "zip": 3551,
@@ -3922,7 +3916,7 @@
   },
   {
     "zip": 4000,
-    "city": "Debrecen*"
+    "city": "Debrecen"
   },
   {
     "zip": 4060,
@@ -6559,7 +6553,7 @@
   },
   {
     "zip": 6700,
-    "city": "Szeged*"
+    "city": "Szeged"
   },
   {
     "zip": 6750,
@@ -7940,7 +7934,7 @@
   },
   {
     "zip": 7600,
-    "city": "Pécs*"
+    "city": "Pécs"
   },
   {
     "zip": 7639,
@@ -11774,7 +11768,7 @@
   },
   {
     "zip": 9000,
-    "city": "Győr*"
+    "city": "Győr"
   },
   {
     "zip": 9061,
