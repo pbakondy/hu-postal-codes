@@ -2023,11 +2023,6 @@
     "city": "Bodony"
   },
   {
-    "zip": 3244,
-    "city": "Parád",
-    "region": "Parádfürdő"
-  },
-  {
     "zip": 3245,
     "city": "Recsk"
   },
@@ -2695,11 +2690,6 @@
   {
     "zip": 3600,
     "city": "Ózd"
-  },
-  {
-    "zip": 3603,
-    "city": "Ózd",
-    "region": "Sajóvárkony"
   },
   {
     "zip": 3604,
@@ -6778,6 +6768,11 @@
   {
     "zip": 7015,
     "city": "Igar"
+  },
+  {
+    "zip": 7016,
+    "city": "Igar",
+    "region": "Vámszőlőhegy"
   },
   {
     "zip": 7017,

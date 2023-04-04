@@ -7256,6 +7256,12 @@
     "district": 2
   },
   {
+    "zip": 1204,
+    "streetName": "Bölön",
+    "streetType": "utca",
+    "district": 20
+  },
+  {
     "zip": 1021,
     "streetName": "Bölöni György",
     "streetType": "utca",
@@ -13223,7 +13229,7 @@
     "zip": 1161,
     "streetName": "Erik",
     "streetType": "utca",
-    "district": 15
+    "district": 16
   },
   {
     "zip": 1092,
@@ -17850,7 +17856,7 @@
     "zip": 1146,
     "streetName": "Gundel Károly",
     "streetType": "út",
-    "district": 11
+    "district": 14
   },
   {
     "zip": 1112,
@@ -20280,7 +20286,7 @@
     "zip": 1117,
     "streetName": "Henryk Slawik",
     "streetType": "rakpart",
-    "district": 17
+    "district": 11
   },
   {
     "zip": 1053,
@@ -39944,7 +39950,7 @@
     "zip": 1238,
     "streetName": "Pataksor",
     "streetType": "utca",
-    "district": 18
+    "district": 23
   },
   {
     "zip": 1037,
@@ -41444,17 +41450,9 @@
     "district": 3
   },
   {
-    "zip": 1043,
-    "streetName": "Pozsonyi",
-    "streetType": "utca",
-    "numbers": "6c to 12",
-    "district": 4
-  },
-  {
     "zip": 1045,
     "streetName": "Pozsonyi",
     "streetType": "utca",
-    "numbers": "the rest",
     "district": 4
   },
   {
@@ -47047,6 +47045,12 @@
     "streetName": "Székelykapu",
     "streetType": "utca",
     "district": 11
+  },
+  {
+    "zip": 1204,
+    "streetName": "Székelykeresztúr",
+    "streetType": "utca",
+    "district": 20
   },
   {
     "zip": 1044,

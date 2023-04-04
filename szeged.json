@@ -2530,7 +2530,7 @@
     "streetType": "utca"
   },
   {
-    "zip": 6726,
+    "zip": 6791,
     "streetName": "Fürdő",
     "streetType": "utca"
   },
@@ -3428,6 +3428,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 6720,
+    "streetName": "Janikovszky Éva",
+    "streetType": "tér"
+  },
+  {
     "zip": 6726,
     "streetName": "Jankovich",
     "streetType": "utca"
@@ -4267,6 +4272,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 6726,
+    "streetName": "Kulka Frigyes",
+    "streetType": "utca"
+  },
+  {
     "zip": 6791,
     "streetName": "Kun",
     "streetType": "utca"
@@ -4310,11 +4320,6 @@
     "zip": 6771,
     "streetName": "Külső ugar",
     "streetType": "dűlő"
-  },
-  {
-    "zip": 6724,
-    "streetName": "Külső-pulz",
-    "streetType": "utca"
   },
   {
     "zip": 6728,
@@ -4571,6 +4576,16 @@
     "zip": 6726,
     "streetName": "Lövölde",
     "streetType": "út"
+  },
+  {
+    "zip": 6722,
+    "streetName": "Löw Lipót",
+    "streetType": "park"
+  },
+  {
+    "zip": 6722,
+    "streetName": "Löw Immánuel",
+    "streetType": "park"
   },
   {
     "zip": 6727,

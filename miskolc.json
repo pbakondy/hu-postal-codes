@@ -227,6 +227,11 @@
     "numbers": "the rest"
   },
   {
+    "zip": 3508,
+    "streetName": "Angyal",
+    "streetType": "park"
+  },
+  {
     "zip": 3525,
     "streetName": "Anna",
     "streetType": "utca"
@@ -285,6 +290,11 @@
     "zip": 3521,
     "streetName": "Aranykalász",
     "streetType": "utca"
+  },
+  {
+    "zip": 3534,
+    "streetName": "Aranykapu",
+    "streetType": "kert"
   },
   {
     "zip": 3530,
@@ -1884,6 +1894,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 3527,
+    "streetName": "Földmérő",
+    "streetType": "utca"
+  },
+  {
     "zip": 3528,
     "streetName": "Fövényszer",
     "streetType": "utca"
@@ -2005,6 +2020,11 @@
   {
     "zip": 3508,
     "streetName": "Gátőr",
+    "streetType": "utca"
+  },
+  {
+    "zip": 3516,
+    "streetName": "Gellért Károly",
     "streetType": "utca"
   },
   {
@@ -4438,6 +4458,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 3525,
+    "streetName": "Pagony",
+    "streetType": "utca"
+  },
+  {
     "zip": 3534,
     "streetName": "Páfrány",
     "streetType": "utca"
@@ -5196,6 +5221,11 @@
   },
   {
     "zip": 3532,
+    "streetName": "Szarkahegy",
+    "streetType": "dűlő"
+  },
+  {
+    "zip": 3532,
     "streetName": "Szarkahegy-Dália",
     "streetType": "dűlő"
   },
@@ -5596,6 +5626,11 @@
   {
     "zip": 3518,
     "streetName": "Táncihegy"
+  },
+  {
+    "zip": 3518,
+    "streetName": "Táncihegy",
+    "streetType": "dűlő"
   },
   {
     "zip": 3534,
@@ -6072,6 +6107,11 @@
   {
     "zip": 3535,
     "streetName": "Vajda János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 3533,
+    "streetName": "Vanger Vilmos",
     "streetType": "utca"
   },
   {

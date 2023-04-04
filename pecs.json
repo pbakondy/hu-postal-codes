@@ -486,6 +486,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 7691,
+    "streetName": "Bányászlámpa",
+    "streetType": "utca"
+  },
+  {
     "zip": 7628,
     "streetName": "Bányász vértanúk",
     "streetType": "útja"
@@ -1234,6 +1239,11 @@
     "streetType": "utca"
   },
   {
+    "zip": 7632,
+    "streetName": "Csorba Győző",
+    "streetType": "utca"
+  },
+  {
     "zip": 7635,
     "streetName": "Csoronika",
     "streetType": "dűlő"
@@ -1448,6 +1458,11 @@
   {
     "zip": 7633,
     "streetName": "Dombay János",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Dombos",
     "streetType": "utca"
   },
   {
@@ -1807,6 +1822,11 @@
   {
     "zip": 7626,
     "streetName": "Farkas István",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Fatér",
     "streetType": "utca"
   },
   {
@@ -2456,6 +2476,11 @@
   {
     "zip": 7626,
     "streetName": "Halász",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7628,
+    "streetName": "Hamerli Imre",
     "streetType": "utca"
   },
   {
@@ -3336,7 +3361,7 @@
     "streetName": "Kerékhegy"
   },
   {
-    "zip": 7691,
+    "zip": 7693,
     "streetName": "Kerékhegyi",
     "streetType": "út"
   },
@@ -3922,6 +3947,10 @@
     "streetType": "dűlő"
   },
   {
+    "zip": 7691,
+    "streetName": "Kulcsos csárda"
+  },
+  {
     "zip": 7631,
     "streetName": "Kultúrház",
     "streetType": "utca"
@@ -4371,6 +4400,11 @@
     "zip": 7623,
     "streetName": "Marosvásárhely",
     "streetType": "út"
+  },
+  {
+    "zip": 7623,
+    "streetName": "Martyn Ferenc",
+    "streetType": "utca"
   },
   {
     "zip": 7623,
@@ -5344,6 +5378,10 @@
     "streetType": "puszta"
   },
   {
+    "zip": 7691,
+    "streetName": "Petőfi akna"
+  },
+  {
     "zip": 7623,
     "streetName": "Petőfi",
     "streetType": "utca",
@@ -5937,6 +5975,11 @@
     "streetName": "Sülevölgy"
   },
   {
+    "zip": 7691,
+    "streetName": "Süveg",
+    "streetType": "utca"
+  },
+  {
     "zip": 7693,
     "streetName": "Szabadföld",
     "streetType": "utca"
@@ -6132,6 +6175,11 @@
   {
     "zip": 7623,
     "streetName": "Szendrey Júlia",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Szenes",
     "streetType": "utca"
   },
   {
@@ -6440,6 +6488,11 @@
     "zip": 7630,
     "streetName": "Táltos",
     "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Támfa",
+    "streetType": "köz"
   },
   {
     "zip": 7632,
@@ -6886,6 +6939,11 @@
   {
     "zip": 7621,
     "streetName": "Várady Antal",
+    "streetType": "utca"
+  },
+  {
+    "zip": 7691,
+    "streetName": "Vargánya",
     "streetType": "utca"
   },
   {
